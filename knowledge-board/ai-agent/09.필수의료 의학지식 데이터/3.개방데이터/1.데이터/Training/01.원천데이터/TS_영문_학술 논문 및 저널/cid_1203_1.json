@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "1203_1",
+    "domain": 2,
+    "source": 1,
+    "source_spec": "guide_kr",
+    "creation_year": "2023",
+    "content": "The data provided appears to be a summary of studies evaluating the incidence of a specific medical condition or outcome, categorized by the type of study (prospective or retrospective) and the number of studies included. 1. For studies involving 1-2 NAAs: In prospective studies, the incidence was 0.065 (95% Confidence Interval: 0.034 0.107). In retrospective studies, the incidence was 0.050 (95% Confidence Interval: 0.027 0.080). Overall, combining both prospective and retrospective studies, the incidence was 0.054 (95% Confidence Interval: 0.035 0.076). 2. For studies involving 23 NAAs: In prospective studies, the incidence was 0.144 (95% Confidence Interval: 0.074 0.233). Overall, the incidence was 0.086 (95% Confidence Interval: 0.047 0.135). 3. For studies involving 25 NAAs: Overall, the incidence was 0.103 (95% Confidence Interval: 0.069 0.144). 4. The total number of studies included in the analysis was as follows: 3 prospective studies. 8 retrospective studies. 11 studies in total. 5. An additional dataset appears to report an overall incidence of 0.100 (95% Confidence Interval: 0.032 0.202). The graphical representation at the end seems to indicate a range of incidence values, but the exact interpretation of the graph is unclear without further context."
+}

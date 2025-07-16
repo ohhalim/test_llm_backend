@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "433025_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Tuberous sclerosis complex 1 (TSC1), also referred to as hamartin, is a protein encoded by the TSC1 gene in humans. TSC1 functions as a co-chaperone that inhibits the ATPase activity of the chaperone heat shock protein 90 (Hsp90) and slows down its chaperone cycle. It plays a role in facilitating Hsp90 in the proper folding and stabilization of both kinase and non-kinase client proteins, including TSC2. This action prevents these client proteins from undergoing ubiquitination and subsequent degradation by the proteasome. TSC1, along with TSC2 and TBC1D7, forms a multi-protein complex known as the TSC complex. This complex acts as a negative regulator of mTORC1 (mechanistic target of rapamycin complex 1) signaling. It achieves this by functioning as a GTPase-activating protein (GAP) for the small GTPase Rheb, which is a critical activator of mTORC1. The TSC complex is recognized for its role as a tumor suppressor. Mutations or defects in the TSC1 gene can lead to tuberous sclerosis, a condition characterized by the functional impairment of the TSC complex. Additionally, abnormalities in TSC1 may contribute to focal cortical dysplasia, a neurological disorder. TSC1 is also thought to play a role in protecting neurons in the CA3 region of the hippocampus from damage caused by stroke. TSC1 has been shown to interact with several proteins, including AKT1, HSP70, HSP90, NEFL (neurofilament light chain), PLK1 (polo-like kinase 1), and TSC2."
+}

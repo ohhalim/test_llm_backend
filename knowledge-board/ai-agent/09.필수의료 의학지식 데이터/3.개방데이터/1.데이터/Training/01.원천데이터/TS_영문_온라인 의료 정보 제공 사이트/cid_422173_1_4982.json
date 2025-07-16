@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "422173_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The quantum yield of a radiation-induced process refers to the number of times a specific event occurs for each photon absorbed by the system. It serves as a measure of the efficiency with which absorbed light produces a particular effect. For instance, in a chemical photodegradation process, if a molecule disintegrates after absorbing a photon, the quantum yield is calculated as the number of molecules destroyed divided by the number of photons absorbed by the system. Since not all absorbed photons lead to productive outcomes, the quantum yield is typically less than 1. However, quantum yields greater than 1 can occur in photo-induced or radiation-induced chain reactions, where a single photon initiates a series of transformations. An example of this is the reaction between hydrogen and chlorine, where the absorption of a single quantum of blue light can result in the formation of several hundred molecules of hydrochloric acid. In the context of optical spectroscopy, the quantum yield represents the probability that a specific quantum state is formed from a system initially prepared in a different quantum state. For example, the quantum yield for a singlet-to-triplet transition is the fraction of molecules that, after being photoexcited into a singlet state, transition to the triplet state. Similarly, the fluorescence quantum yield is defined as the ratio of the number of photons emitted to the number of photons absorbed."
+}

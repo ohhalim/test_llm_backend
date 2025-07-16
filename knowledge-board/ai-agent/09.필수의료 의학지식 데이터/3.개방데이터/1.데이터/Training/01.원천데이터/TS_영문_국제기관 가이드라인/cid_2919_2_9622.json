@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "2919_2",
+    "domain": 2,
+    "source": 5,
+    "source_spec": "Medscape",
+    "creation_year": "null",
+    "content": "The metabolism of norgestrel, a progestin, is significantly influenced by hepatic and intestinal enzyme CYP3A4. Medications that act as strong or moderate inhibitors of CYP3A4 can increase the systemic concentration of norgestrel, potentially heightening the risk of adverse effects. Conversely, drugs that induce CYP3A4 activity may decrease norgestrel levels, reducing its efficacy and increasing the likelihood of contraceptive failure. For example, medications such as ritonavir, posaconazole, and clarithromycin, which inhibit CYP3A4, can elevate norgestrel levels. In such cases, close monitoring is advised to mitigate the risk of adverse effects. Certain medications, such as apalutamide and enzalutamide, are particularly potent CYP3A4 inducers and should be avoided or replaced with alternative drugs due to the high risk of contraceptive failure. Patients co-administered with these drugs should be counseled to use backup contraception during treatment and for 28 days after discontinuation of the inducer. Additionally, medications like grapefruit, itraconazole, and fluconazole, which also affect CYP3A4 metabolism, require careful monitoring to adjust therapy as needed. In cases where CYP3A4 inducers are used, switching to non-hormonal contraceptive methods or adding a barrier method is recommended to maintain contraceptive efficacy."
+}

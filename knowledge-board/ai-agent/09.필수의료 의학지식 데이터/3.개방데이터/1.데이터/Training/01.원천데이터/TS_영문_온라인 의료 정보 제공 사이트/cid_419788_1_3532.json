@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "419788_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "In the field of healthcare, a reference range is a set of values derived from specific measurements that healthcare professionals, such as physicians, use to interpret test results for individual patients. This range is often referred to as the normal range or normal values. However, the term normal is somewhat misleading and should be avoided, as not all individuals outside the reference range are necessarily abnormal, and some individuals with certain medical conditions may still fall within the reference range. A reference range for a particular test or measurement is typically defined as the range of values that encompasses 95% of the population, which corresponds to two standard deviations from the mean in a normal distribution. This concept is based on the assumption that many biological phenomena follow a normal distribution of values. However, not all types of measurements or investigations exhibit a normal distribution. For example, some may show a bimodal distribution, which is often due to differing values between males and females. Additionally, certain measurements may vary with age, such as prostate-specific antigen (PSA) levels, which tend to increase as individuals age. In some cases, the distribution of values may follow a log-normal pattern or another non-normal distribution. In such instances, mathematical transformations or corrections can be applied to better interpret the data. An ideal diagnostic test or measurement for a disease is one that provides a clear and distinct separation between the reference range for healthy individuals and the range for those with the disease."
+}

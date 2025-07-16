@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "424929_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "1. What is the generic name of the drug? 2. What is the active ingredient in the drug? 3. Are there multiple formulations available for the active ingredient? 4. Is the active ingredient provided in combination with other active ingredients? 5. What is the trade name of the drug? 6. Which label should be used for the drug? Example Instructions: 1. Navigate to WikiDoc. 2. Search for the drug using its generic name. 3. If multiple formulations or combinations exist, the generic name page should be structured as a landing page. 4. Redirect the trade name pages to the generic name page or the formulation-specific pages. 5. Create or edit the Overview and Category sections of the page. Steps to Create a Drug Page: 1. Go to the Drug Project Form section. 2. Use the appropriate title for the drug page. 3. Enter the title of the drug page in the designated field and click the Create or Edit a Drug Page button. 4. Follow the instructions provided under each tab to input the required content. 5. After completing each tab, click the Save button to minimize the risk of losing progress. 6. Perform a quality check on the completed section before moving on to the next section."
+}

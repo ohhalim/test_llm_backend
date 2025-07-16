@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "433276_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Proliferating Cell Nuclear Antigen (PCNA) is a protein that functions as a processivity factor for DNA polymerase delta in eukaryotic cells. It achieves this by forming a ring-like structure that encircles the DNA, creating a topological link to the genome. This structural feature classifies PCNA as a DNA clamp. The protein encoded by the PCNA gene is localized in the nucleus and acts as a cofactor for DNA polymerase delta. It functions as a homotrimer and enhances the processivity of leading strand synthesis during DNA replication. In response to DNA damage, PCNA undergoes ubiquitination and participates in the RAD6-dependent DNA repair pathway. Two transcript variants encoding the same PCNA protein have been identified. Additionally, pseudogenes of PCNA have been described on chromosome 4 and the X chromosome. PCNA was initially identified as an antigen expressed in the nuclei of cells during the DNA synthesis phase of the cell cycle. A portion of the protein was sequenced, and this sequence was used to isolate a cDNA clone. PCNA plays a critical role in tethering DNA polymerase delta (Pol δ) to DNA. This tethering is facilitated by replication factor C (RFC), a heteropentameric member of the AAA+ class of ATPases, which clamps PCNA onto the DNA. The expression of PCNA is regulated by complexes containing the E2F transcription factor. Since DNA polymerase delta is involved in the resynthesis of excised damaged DNA strands during DNA repair, PCNA is essential for both DNA synthesis and DNA repair processes. Furthermore, PCNA is involved in the transition to DNA damage bypass through translesion synthesis."
+}

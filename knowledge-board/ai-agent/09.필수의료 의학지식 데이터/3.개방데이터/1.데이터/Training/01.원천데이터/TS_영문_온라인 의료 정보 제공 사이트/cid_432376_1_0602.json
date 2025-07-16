@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "432376_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "STIM1, or stromal interaction molecule 1, is a protein encoded by the STIM1 gene in humans. This protein contains a single transmembrane domain and is primarily localized to the endoplasmic reticulum (ER), with a smaller presence in the plasma membrane. Although STIM1 was identified earlier, its specific function remained unknown until recent years. In 2005, it was discovered that STIM1 acts as a calcium sensor within the endoplasmic reticulum. When the IP3 receptor is activated, the calcium concentration in the ER decreases. This reduction in calcium levels is detected by STIM1 through its EF-hand domain. In response, STIM1 activates store-operated calcium channels, specifically the ORAI1 channels, located in the plasma membrane. This activation occurs through intracellular movement of STIM1, clustering beneath the plasma membrane, and direct protein-protein interactions with ORAI isoforms. The calcium entry mediated by STIM1 is essential for processes such as the thrombin-induced disassembly of VE-cadherin adherens junctions. Certain compounds, such as 2-aminoethoxydiphenyl borate (2-APB) and 4-chloro-3-ethylphenol (4-CEP), induce clustering of STIM1 within the cell and inhibit its movement toward the plasma membrane. STIM1 has been shown to interact with several other proteins, including ORAI1, TMEM110 (also known as STIMATE), SERCA, TMEM66 (also referred to as SARAF), and STIM2. These interactions are critical for its role in calcium signaling and homeostasis."
+}

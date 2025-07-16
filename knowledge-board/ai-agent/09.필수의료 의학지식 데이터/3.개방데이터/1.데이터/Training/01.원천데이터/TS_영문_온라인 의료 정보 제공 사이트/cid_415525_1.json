@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "415525_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Therapeutic inertia refers to the resistance or delay in initiating or intensifying therapeutic treatment for an existing medical condition. It is quantitatively assessed by calculating the proportion of clinical encounters in which a patient with an uncontrolled condition receives new or adjusted therapeutic interventions. This is expressed as a fraction: the number of visits where the condition is uncontrolled (h) minus the number of visits where a treatment change was made (c), divided by the total number of visits (v). A higher percentage indicates that the healthcare provider is slower to initiate or escalate treatment, while a lower percentage suggests a more proactive approach to treatment adjustments. For example, therapeutic inertia is observed in several chronic conditions. In diabetes mellitus, delays in adjusting treatment regimens are common. In hypercholesterolemia, a registry study revealed that two-thirds of patients who met the criteria for statin therapy were not prescribed statins. Similarly, in hypertension, therapeutic inertia is a significant issue. In Europe, this figure is even higher, with 85% of such visits showing no adjustment in treatment. The degree of therapeutic inertia may evolve over time as new research and guidelines emerge, particularly in conditions like hypertension. One potential contributing factor to therapeutic inertia is the presence of health disparities, which may influence the likelihood of timely and appropriate treatment adjustments."
+}

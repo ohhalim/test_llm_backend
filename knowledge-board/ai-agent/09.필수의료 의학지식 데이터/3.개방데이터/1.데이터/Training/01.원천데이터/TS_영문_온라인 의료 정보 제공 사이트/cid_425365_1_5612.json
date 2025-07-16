@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "425365_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The Bark scale is a psychoacoustical scale that was introduced by Eberhard Zwicker in 1961. It is named after Heinrich Barkhausen, who was the first to propose subjective measurements of loudness. The scale is divided into 24 levels, which correspond to the first 24 critical bands of human hearing. The frequency boundaries for these critical bands are as follows (in Hz): 20, 100, 200, 300, 400, 510, 630, 770, 920, 1080, 1270, 1480, 1720, 2000, 2320, 2700, 3150, 3700, 4400, 5300, 6400, 7700, 9500, 12000, and 15500. While the Bark scale is related to the Mel scale, it is somewhat less commonly used in practice. The scale is often denoted with the variable z in Bark units."
+}

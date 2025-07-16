@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "417186_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The images you upload to WikiDoc must be sourced from copyleft resources. A list of such copyleft websites is available for reference. Certain websites provide attribution text when you download the image, while others do not. Radiopaedia: Radiopaedia includes the attribution text along with the download link for the image. Wikipedia: On Wikipedia and Wikimedia Commons, the attribution text can be found after opening the image in the media viewer window and clicking the download button. Wikimedia Commons, CDC, and WHO: If you use images from the CDC or WHO websites, you must attribute them as follows: Source: [insert source] or Source: [insert source]. The attribution text should be included in the comment section beneath the photo using the WikiDoc code."
+}

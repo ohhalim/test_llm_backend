@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "431771_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The HER3 gene encodes a protein that is a member of the epidermal growth factor receptor (EGFR) family of receptor tyrosine kinases. This protein is membrane-bound and contains a domain that allows it to bind neuregulin, but it lacks an active kinase domain. As a result, while HER3 can bind its ligand, it cannot directly transmit signals into the cell via protein phosphorylation. However, HER3 can form heterodimers with other members of the EGFR family that do possess kinase activity. This heterodimerization activates signaling pathways that promote cellular proliferation or differentiation. Amplification of the HER3 gene or overexpression of its protein has been observed in various cancers, including prostate, bladder, and breast tumors. Alternative splicing of HER3 transcripts results in different isoforms. One such isoform lacks the transmembrane region and is secreted extracellularly, where it modulates the activity of the membrane-bound form. Additional splice variants of HER3 have also been identified, but these have not been fully characterized. ErbB3, also known as HER3, is a member of the EGFR family of receptor tyrosine kinases. Despite its classification within this family, ErbB3 lacks intrinsic kinase activity. Instead, when activated, ErbB3 serves as a substrate for dimerization and subsequent phosphorylation by other family members, such as ErbB1, ErbB2, and ErbB4. Like other receptor tyrosine kinases, ErbB3 is activated by extracellular ligands. Known ligands for ErbB3 include heregulin."
+}

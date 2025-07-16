@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "432540_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Vacuolar protein-sorting-associated protein 25 (VPS25) is a protein encoded by the VPS25 gene in humans. It is an integral component of the endosome-associated complex known as ESCRT-II (Endosomal Sorting Complex Required for Transport protein II). The ESCRT system, which includes ESCRT-I, ESCRT-II, and ESCRT-III, is responsible for the efficient sorting of ubiquitinated transmembrane receptors to lysosomes via multivesicular bodies (MVBs). ESCRT-II plays a critical role in recruiting the transport machinery necessary for protein sorting at MVBs. Furthermore, human ESCRT-II has been demonstrated to form a complex with RNA polymerase II elongation factor ELL, enabling it to exert transcriptional regulatory activity. ESCRT-II transiently associates with the endosomal membrane, initiating the formation of ESCRT-III, a membrane-associated protein complex that operates immediately downstream of ESCRT-II in the sorting of MVB cargo. ESCRT-II itself functions downstream of ESCRT-I, a protein complex that binds to ubiquitinated endosomal cargo. Structurally, ESCRT-II is a trilobal complex composed of two copies of VPS25, one copy of VPS22, and the C-terminal region of VPS36. The crystal structure of VPS25 reveals that it contains two winged-helix domains. The N-terminal domain of VPS25 interacts with VPS22 and VPS36, facilitating its role in the ESCRT-II complex."
+}

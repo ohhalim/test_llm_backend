@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "418161_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The extraction ratio is a parameter in renal physiology that is utilized to assess renal plasma flow, which in turn helps evaluate kidney function. It represents the proportion of a specific compound entering the kidney that is subsequently excreted into the final urine. This ratio is determined by measuring the concentration of the compound in blood plasma. Mathematically, the extraction ratio can be expressed as the difference between the concentration of the compound in the renal artery (Pa) and the concentration in the renal vein (Pv), divided by the concentration in the renal artery. In simpler terms, it quantifies how much of the compound is removed from the blood as it passes through the kidneys. For example, para-aminohippuric acid (PAH) is a compound that is almost entirely excreted into the urine. As a result, its concentration in the renal vein (Pv) is nearly zero. Consequently, the extraction ratio of PAH approaches 1. This property makes PAH a valuable tool in clinical settings, as it is used in PAH clearance studies to estimate renal plasma flow accurately."
+}

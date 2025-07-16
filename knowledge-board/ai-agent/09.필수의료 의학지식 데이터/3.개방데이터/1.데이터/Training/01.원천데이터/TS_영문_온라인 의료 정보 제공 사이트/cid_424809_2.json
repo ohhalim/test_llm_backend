@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "424809_2",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "At time t, the price of the old item is denoted as ( P(M)_t ), and at the subsequent time period ( t+1 ), the price of the new item is denoted as ( P(N)_{t+1} ). The overlap method involves using prices collected for both the old and new items during both time periods, ( t ) and ( t+1 ). The price relative is calculated as ( frac{P(N)_{t+1}}{P(N)_t} ), which reflects the change in price for the new item over the two time periods. The direct comparison method assumes that the difference in price between the old and new items is not due to a change in quality. Therefore, the entire price difference is incorporated into the index. The price relative in this case is calculated as ( frac{P(N)_{t+1}}{P(M)_t} ). The link-to-show-no-change method takes the opposite approach to the direct comparison method. It assumes that the entire price difference between the old and new items is attributable to a change in quality. As a result, the price relative under this method is set to 1, indicating no price change when adjusted for quality. The deletion method excludes the price relative for the changing item from the price index entirely. Instead, the average of the other price relatives in the index is used as the price relative for the item that is being replaced. Similarly, the class mean imputation method uses the average price relative of items that share similar characteristics (such as physical, geographic, or economic attributes) with the old and new items, ( M ) and ( N ), to estimate the price relative for the changing item."
+}

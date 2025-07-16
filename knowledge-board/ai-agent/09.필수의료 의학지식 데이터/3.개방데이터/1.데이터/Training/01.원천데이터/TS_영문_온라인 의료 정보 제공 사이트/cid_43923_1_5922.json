@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "43923_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "If an error flag is triggered, an alert will display the following message: Visits marked in red fall outside the 30-day window, and infusions cannot be scheduled on those dates. Please download the updated schedule. Note: Visit 1 is not displayed in the Visit Scheduler because it represents the Screening Visit, during which the subject's eligibility for the study will be determined. If the subject is deemed eligible to participate in the AEGIS-II study, please proceed to randomize the subject in the IRT system. The Visit Scheduler is intended to assist in calculating the remaining visits after randomization in the IRT system has been completed. To ensure accurate scheduling, please input the same dates from the IRT system used for the First Medical Contact (FMC) and Visit 2 into this Visit Scheduler to calculate the remaining visits. Additionally, if a subject misses an appointment for one of the infusion visits, you must adjust their visit schedule to ensure that all four infusions are administered, wherever possible, in accordance with the Schedule of Assessments. It is critical to avoid skipping any doses by the end of the Active Treatment Period. To modify the visit schedule due to a delayed infusion (Infusions 2, 3, or 4), you may select the Delayed Infusion button, which will allow you to enter the date on which the respective delayed infusion was administered. As a reminder, all four infusions must be administered within 30 days of the first infusion, with a minimum interval of 5 days between each infusion."
+}

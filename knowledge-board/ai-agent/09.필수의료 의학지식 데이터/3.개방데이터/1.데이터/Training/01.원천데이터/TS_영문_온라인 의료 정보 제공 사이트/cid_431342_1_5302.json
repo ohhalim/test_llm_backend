@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "431342_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "CDCa1 is a protein encoded by the human genome. The gene responsible for this protein is located on chromosome 1, specifically between positions 150,076,963 and 150,079,657. This gene consists of two exons and encodes a protein composed of 353 amino acids. Synonyms for CDCa1 include hypothetical protein LOC100191040 and NP_001129475. The CDCa1 protein contains a conserved metal-binding domain, which is classified as Protein kinase C conserved region 2, subgroup 1. This motif is a member of the C2 superfamily, which is commonly found in phospholipases, protein kinase C enzymes, and synaptotagmins. The protein has a molecular weight of approximately 6 kDa, which significantly restricts the range of environments in which it can function effectively. Furthermore, CDCa1 lacks any predicted transmembrane domains or signal peptides. Expression According to the National Center for Biotechnology Information (NCBI), CDCa1 expression has only been observed in adult individuals with certain types of cancer. It is not ubiquitously expressed in human tissues. To date, CDCa1 has been detected exclusively in the brain, intestine, and mammary gland tissues. Evolutionary Conservation There are 52 known mammalian orthologs of CDCa1, which have been identified in at least 10 species, including Pan troglodytes (chimpanzee), Ornithorhynchus anatinus (platypus), and Sus scrofa (pig). The protein exhibits a conservation rate of 76% across these species, with only 3% variability in its sequence, corresponding to three amino acid residues."
+}

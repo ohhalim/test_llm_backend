@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "431802_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "An ISFET, or ion-sensitive field-effect transistor, is a device designed to measure ion concentrations in a solution. When the ion concentration, such as the pH level, changes, the current flowing through the transistor also changes in response. In this system, the solution itself acts as the gate electrode. A voltage is generated between the substrate and the oxide surfaces due to the formation of an ion sheath. The hydrolysis of hydroxyl (OH) groups on the surface of the gate material varies depending on the pH of the aqueous solution. Common materials used for the gate include silicon nitride (Si₃N₄), aluminum oxide (Al₂O₃), and tantalum pentoxide (Ta₂O₅). The source and drain of an ISFET are constructed similarly to those of a MOSFET (metal-oxide-semiconductor field-effect transistor). However, the gate electrode in an ISFET is separated from the channel by a barrier that is sensitive to hydrogen ions. This barrier is designed to allow the test substance to come into direct contact with the sensitive surface. The threshold voltage of an ISFET is influenced by the pH of the substance in contact with its ion-sensitive barrier. This makes the ISFET a highly effective tool for detecting and measuring pH changes in various solutions."
+}

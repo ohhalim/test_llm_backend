@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "429732_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "STK35L1 is a protein in humans encoded by the STK35 gene, which stands for serine/threonine kinase 35. This protein belongs to the NKF4 (New Kinase Family 4) group of serine/threonine kinases (STK) and is classified under the Other group in the human kinome. Previously, STK35L1 was referred to as Clik1 (CLP36 Interacting Kinase 1) based on research that demonstrated an interaction between STK35 and CLP36 when both proteins were overexpressed in osteosarcoma cells. The Clik1 gene, as described by Vallenius et al., was initially thought to encode a protein consisting of 501 amino acids. However, subsequent research by Goyal et al. revealed that the coding sequence of the STK35 gene was incomplete. The newly identified sequence encodes a protein of 534 amino acids, which includes an N-terminal elongation of 133 amino acids. This updated protein has been designated as STK35L1. STK35L1 is predominantly localized in the nucleus and nucleolus of cells. Nuclear actin has been identified as a novel binding partner of STK35L1. However, the protein can also interact with PDLIM1/CLP-36 in the cytoplasm and localize to actin stress fibers. Depletion of STK35L1 using siRNA has been shown to impair endothelial cell migration. This suggests that STK35L1 may function as a central kinase that links the cell cycle to the migration of endothelial cells."
+}

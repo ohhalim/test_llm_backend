@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "429957_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Audio files, such as recordings of heart murmurs, can be embedded directly into the content of chapters. The system supports audio files in both MP3 and OGG formats. If your audio files are not already in MP3 format, there are numerous free software tools available online that can convert your files into MP3 format. To upload an audio file, you can use the provided upload link. To embed an audio file into your content, specific wiki code is required. For example, to include the sound of a murmur associated with a ventricular septal defect (VSD), you would use the following code. Once entered, the code will display and play the VSD murmur sound."
+}

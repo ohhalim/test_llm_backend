@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "422188_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "In biology, a reading frame refers to a continuous and non-overlapping sequence of three-nucleotide codons in DNA or RNA. Each codon represents a specific amino acid or a stop signal during protein synthesis. In a single strand of mRNA, there are three possible reading frames, while in a double-stranded DNA molecule, there are six possible reading frames. This is because transcription can occur from either of the two DNA strands, each of which can be read in three different ways depending on the starting point. The existence of multiple reading frames allows for the possibility of overlapping genes, where different genes are encoded within the same stretch of nucleotides but in different reading frames. This phenomenon is particularly common in certain organisms, such as bacteria. For example, Hepatitis B virus (HBV) and Barley yellow dwarf virus (BYDV) utilize several overlapping genes that are expressed in different reading frames. In rare instances, a translating ribosome may shift from one reading frame to another during protein synthesis. This process is known as a translational frameshift. It is distinct from a frameshift mutation because the nucleotide sequence of the DNA or RNA remains unchanged; only the frame in which the sequence is read is altered. A reading frame that includes both a start codon (indicating the beginning of translation) and a stop codon (indicating the end of translation) is referred to as an open reading frame (ORF). ORFs are critical for identifying regions of DNA or RNA that can be translated into functional proteins."
+}

@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "423899_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Beta-lactam refers to a lactam structure that contains a heteroatomic ring composed of three carbon atoms and one nitrogen atom. This beta-lactam ring is a fundamental component of several antibiotic classes, including penicillins, cephalosporins, carbapenems, and monobactams. These antibiotics are collectively known as beta-lactam antibiotics. Their primary mechanism of action involves inhibiting bacterial cell wall synthesis, which leads to bacterial death, particularly in Gram-positive bacteria. However, bacteria can develop resistance to beta-lactam antibiotics by producing an enzyme called beta-lactamase. This enzyme hydrolyzes the beta-lactam ring, rendering the antibiotic ineffective. To counteract beta-lactam resistance, certain drugs, such as Augmentin, have been developed. Augmentin is a combination of amoxicillin, a beta-lactam antibiotic, and clavulanic acid, a beta-lactamase inhibitor. Clavulanic acid works by irreversibly binding to beta-lactamase enzymes, effectively neutralizing them. This allows the amoxicillin to remain active and exert its antibacterial effects. In response to the reduced efficacy of beta-lactamase inhibitors, some bacteria have evolved further resistance mechanisms. They achieve this by altering the penicillin-binding proteins (PBPs), which are the target sites for beta-lactam antibiotics. These modified PBPs no longer recognize beta-lactam antibiotics, rendering the drugs ineffective. This mechanism is responsible for the resistance seen in methicillin-resistant Staphylococcus aureus (MRSA)."
+}

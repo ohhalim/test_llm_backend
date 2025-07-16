@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "416943_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "In molecular biology, a library refers to a collection of molecules that are preserved in a stable form and represent specific aspects of an organism. There are two primary types of libraries: cDNA libraries and genomic libraries. A cDNA library is created from complementary DNA (cDNA), which is synthesized from messenger RNA (mRNA) using the enzyme reverse transcriptase. This type of library represents the mRNA present in a specific tissue at a given time, reflecting the genes that are actively transcribed under particular physiological, developmental, or environmental conditions. It is important to note that a cDNA library does not represent the entire genome of an organism but only a small fraction (less than 1%) that corresponds to the transcribed regions. cDNA libraries are particularly useful in reverse genetics studies. In contrast, a genomic library is a collection of clones, all packaged in the same vector, that collectively represent the entire genome of an organism. The number of clones required to construct a genomic library depends on two factors: the size of the organism's genome and the insert size that the chosen cloning vector system can accommodate. Genomic libraries are often used when working with bacterial or viral genomic material, whereas cDNA libraries are typically employed when studying eukaryotic genomic material."
+}

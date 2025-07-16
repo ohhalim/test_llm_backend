@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "25313_43",
+    "domain": 2,
+    "source": 5,
+    "source_spec": "who",
+    "creation_year": "2023",
+    "content": "Dexamethasone, when used for the treatment of COVID-19, is typically administered in doses ranging from 6 mg to 20 mg daily for a short duration. At these doses, dexamethasone exhibits weak to moderate enzyme-inducing effects. These effects are not significant enough to necessitate dose adjustments for antiretroviral drugs such as efavirenz (EFV), nevirapine (NVP), protease inhibitors (PIs), dolutegravir (DTG), or raltegravir (RAL). However, it is important to note that EFV and NVP may reduce the plasma concentrations of dexamethasone. In such cases, doubling the dose of dexamethasone is recommended to maintain therapeutic efficacy. No significant drug-drug interactions are anticipated between antiretroviral (ARV) medications and COVID-19 vaccines. Regarding dolutegravir (DTG), it should not be co-administered simultaneously with cation-containing antacids, laxatives, multivitamins, or mineral supplements due to the risk of chelation, which can reduce the absorption and efficacy of DTG. If these medications must be used together, DTG should be taken at least two hours before or six hours after the administration of medications containing polyvalent cations."
+}

@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "416116_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Indicator organisms are utilized to assess the potential presence of fecal contamination in environmental samples. The detection of coliform bacteria, such as Escherichia coli (E. coli), in surface water is a widely recognized marker of fecal contamination. Quantification of coliform bacteria in water samples is often performed using the Most Probable Number (MPN) method, which is a probabilistic approach based on the assumption that cultivable bacteria meet specific growth and biochemical criteria. If initial testing indicates that coliform bacteria are present in concentrations exceeding a predefined threshold, known as the Coliform Index, fecal contamination is suspected. In such cases, confirmatory assays, such as the Eijkman test, are conducted to validate the findings. Coliform bacteria chosen as indicators of fecal contamination must not persist in the environment for extended periods after being discharged from the intestine. Additionally, their presence should strongly correlate with contamination by other fecal organisms. It is important to note that indicator organisms do not necessarily need to be pathogenic. Non-coliform bacteria, such as Streptococcus bovis and certain species of Clostridia, can also serve as indicators of fecal contamination."
+}

@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "422733_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Cassie's law provides a mathematical framework to describe the effective contact angle (θc) of a liquid on a composite surface. This law explains how increasing the roughness of a surface can enhance the apparent contact angle of a liquid. The law is expressed as an equation that incorporates the contact angles and areal fractions of the individual components of the composite surface. In this equation, θ1 represents the contact angle of component 1, which occupies an areal fraction γ1, and θ2 represents the contact angle of component 2, which occupies an areal fraction γ2. When one of the components in the system is air, which has a contact angle of 180°, the equation simplifies significantly. Since the cosine of 180° equals -1, the formula reduces to a form that demonstrates how a small areal fraction of one component (γ1) combined with a large contact angle (θ1) can result in a surface with an extremely high effective contact angle. Cassie’s research highlighted that the water-repellent properties of duck feathers are not due to the presence of special waterproofing agents, such as oils, but rather arise from the composite structure formed between air and the feather surface. Similarly, water striders utilize this principle to remain afloat and move on water surfaces. In addition, artificial superhydrophobic materials, such as nanopin films developed in laboratory settings, also leverage the principles of Cassie's law to achieve remarkable water-repelling properties."
+}

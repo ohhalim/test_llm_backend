@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "426645_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Web colors can be directly referenced by their color names instead of using complex hexadecimal codes. Web-safe colors are a specific palette of colors that are recognized by web browsers such as Internet Explorer and Mozilla Firefox. While not all browsers may recognize every color, as of 2005, all modern general-use browsers support the full list of web-safe colors. The complete list of web X11 colors, as defined in the CSS3 specification, includes their corresponding hexadecimal values. For an alphabetical list and the original reference, you can consult resources like x11-color.com. However, only 16 color names are officially supported by the W3C. These colors are: aqua, black, blue, fuchsia, gray, green, lime, maroon, navy, olive, purple, red, silver, teal, white, and yellow. For any other colors, it is recommended to use their hexadecimal values. This information has been sourced from Wikipedia to ensure accuracy. All of these color names should work reliably on the WikiDoc platform. If a specific color does not display correctly (e.g., the color box appears white instead of the intended color), you should strike through the color name and label it as broken in the color box, as demonstrated in the first example provided in the documentation. Thank you for your attention to this matter."
+}

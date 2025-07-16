@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "417353_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Negative feedback occurs when a portion of a system's output is inverted and fed back into the system's input. This mechanism typically serves to dampen fluctuations within the system. Many real-world systems exhibit one or more equilibrium points, around which the system tends to stabilize. When a perturbation occurs, a negative feedback system with such equilibrium points will generally act to restore balance and re-establish equilibrium. In both physical and biological systems, qualitatively distinct forces or influences can counteract one another. For instance, in biochemistry, one group of chemicals may drive a system in a specific direction, while another group of chemicals exerts an opposing influence. If one or both of these opposing forces are nonlinear, the system will tend to stabilize at one or more equilibrium points. In biological contexts, this process—often biochemical in nature—is commonly referred to as homeostasis. Examples in Biology Certain biological systems utilize negative feedback mechanisms, such as the baroreflex for blood pressure regulation and erythropoiesis for red blood cell production. Numerous examples of negative feedback exist in human physiology, including the regulation of body temperature and blood glucose levels. When negative feedback mechanisms are disrupted, the consequences can be detrimental. For example, in the case of blood glucose regulation, a failure of negative feedback can lead to a dramatic rise in blood glucose levels, potentially resulting in diabetes."
+}

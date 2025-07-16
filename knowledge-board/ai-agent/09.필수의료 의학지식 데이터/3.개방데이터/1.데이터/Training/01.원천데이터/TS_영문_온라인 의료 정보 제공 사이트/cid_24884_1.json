@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "24884_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "ADA",
+    "creation_year": "2024",
+    "content": "The American Diabetes Association (ADA) provides an algorithm to simplify insulin regimens for older adults with type 2 diabetes. This algorithm emphasizes reducing the complexity of insulin therapy through the following strategies: 1. Shifting the timing of basal insulin: Basal insulin, which is typically administered at bedtime, should be shifted to the morning to simplify the regimen and improve adherence. 2. Adjusting basal insulin based on fasting glucose trends: The dosage of basal insulin should be modified according to patterns observed in fasting blood glucose levels, ensuring better glycemic control. 3. Reducing or discontinuing prandial insulin: Once fasting glucose levels are stabilized, prandial (mealtime) insulin can be reduced or discontinued altogether. If additional glycemic control is needed, non-insulin agents may be introduced to the treatment plan. 4. Recommendations for individuals on premixed insulin: For patients using premixed insulin formulations, 70% of the total daily insulin dose should be administered as basal insulin in the morning. Further adjustments can be made based on individual glucose targets and clinical needs."
+}

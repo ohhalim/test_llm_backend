@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "432812_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The DDB1 protein, also known as DNA damage-binding protein 1, is encoded by the DDB1 gene in humans. The DDB1 gene is located on chromosome 11, specifically at the 11q12-q13 region. The DDB1 gene encodes the large subunit of the DNA damage-binding protein, which is a heterodimer consisting of a large subunit (DDB1) and a small subunit (DDB2). The DDB1 protein itself is composed of 1140 amino acids, with a molecular weight of approximately 127 kilodaltons (kDa). Initially, DDB1 was identified as being involved in nucleotide excision repair, a specific type of DNA repair mechanism. However, subsequent research has revealed that DDB1 primarily functions as a core component of the CUL4Aand CUL4B-based E3 ubiquitin ligase complexes. DDB1 acts as a bridge or adaptor protein, facilitating interactions with numerous proteins collectively referred to as DDB1 and CUL4-associated factors (DCAFs). These DCAFs often serve as substrates for ubiquitin ligases and are involved in regulating a wide range of critical cellular processes. These processes include DNA repair (via DDB2), DNA replication, chromatin remodeling (via Cdt2), and others. DDB1 has been demonstrated to interact with several proteins, including the transcription initiation protein SPT3 homolog, GCN5L2, DDB2, CUL4A, CUL4B, and P21."
+}

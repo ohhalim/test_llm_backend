@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "416117_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Inductive transfer, also known as transfer learning, refers to the process in machine learning where knowledge acquired from solving one problem or task is stored and subsequently applied to a different but related problem or task. For instance, the skills learned in walking can be utilized to learn running, or the ability to recognize cars can be extended to recognizing trucks. This concept was originally developed in the context of machine learning, although the foundational idea of transferring learning has been explored in cognitive psychology for over a century. The process is particularly effective in machine learning when the acquired knowledge is stored in relational or hierarchical structures, which allow for better organization and retrieval of information. Specific algorithms have been designed to implement transfer learning in frameworks such as Markov logic networks and Bayesian networks. Practical applications of transfer learning that have been studied include tasks like text classification, spam filtering, and urban combat simulation."
+}

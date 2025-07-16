@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "42456_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Nicotinamide adenine dinucleotide phosphate (NADP+), also known in older notation as TPN, plays a critical role in anabolic reactions, such as the synthesis of fatty acids and nucleic acids. These processes require NADPH, which serves as a reducing agent. NADPH represents the reduced form of NADP+, while NADP+ is the oxidized form of NADPH. In plants, NADP+ is reduced to NADPH by the enzyme ferredoxin-NADP+ reductase during the final step of the electron transport chain in the light-dependent reactions of photosynthesis. The NADPH generated in this process is subsequently utilized as a source of reducing power for biosynthetic reactions in the Calvin cycle, which is part of the light-independent reactions of photosynthesis. During photosynthesis, NADP+ ions can be conceptualized as carriers of hydrogen ions, which are later employed in the Calvin cycle to synthesize carbohydrates. In animals, the oxidative phase of the pentose phosphate pathway serves as the primary source of NADPH within cells. NADPH provides the reducing equivalents necessary for various biosynthetic reactions and for redox reactions that protect cells from the toxic effects of reactive oxygen species (ROS). Additionally, NADPH is essential for anabolic pathways, including fatty acid synthesis, cholesterol synthesis, and the elongation of fatty acid chains. It also serves as the source of reducing equivalents for cytochrome P450-mediated hydroxylation reactions, which are involved in the metabolism of aromatic compounds, steroids, alcohols, and drugs."
+}

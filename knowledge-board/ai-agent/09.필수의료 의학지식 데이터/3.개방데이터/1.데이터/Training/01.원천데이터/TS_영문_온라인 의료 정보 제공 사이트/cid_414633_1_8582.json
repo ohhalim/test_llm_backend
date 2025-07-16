@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "414633_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "This document provides detailed chemical data on ammonia, including its structure, properties, thermodynamic characteristics, vapor-liquid equilibrium data, heat capacity, spectral data, and regulatory information. The thermodynamic data presented here, including vapor-liquid equilibrium information, is sourced from the 44th edition of the CRC Handbook of Chemistry and Physics. The notation (s) is used to indicate the equilibrium temperature of ammonia vapor over its solid phase. In all other cases, the temperature refers to the equilibrium of ammonia vapor over its liquid phase. The vapor pressure of ammonia can be calculated using a specific formula, where P represents the pressure in kilopascals (kPa) and T represents the temperature in kelvins. The document also includes data on the heat capacity of ammonia in both its liquid and vapor states, as well as its spectral properties. Regarding safety, the handling of ammonia requires significant precautions due to its hazardous nature. It is strongly advised to consult the Material Safety Data Sheet (MSDS) for ammonia, which can be obtained from reliable sources such as SIRI. The MSDS provides essential safety guidelines, and it is critical to adhere to these instructions to ensure safe handling of the chemical."
+}

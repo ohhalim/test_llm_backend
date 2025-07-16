@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "416417_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Recruitment status refers to the current phase of a clinical trial, indicating whether it is in the planning stage, actively ongoing, or has been completed. The possible statuses are as follows: Not yet recruiting: This status means that the trial has not started recruiting or enrolling participants yet. Recruiting: This indicates that the trial is actively recruiting and enrolling participants at the moment. Enrolling by invitation: In this case, participants are being, or will be, selected from a specific, predetermined group of individuals. Active, not recruiting: This status signifies that the study is still ongoing, meaning patients are being treated or examined, but the enrollment phase has already been completed. Completed: This status indicates that the study has been successfully concluded. Participants are no longer being treated or examined, and the final visit for the last participant has already occurred. Suspended: This means that the recruitment or enrollment of participants has been temporarily stopped before completion, but there is a possibility that it may resume in the future. Terminated: This status indicates that recruitment or enrollment has been stopped prematurely and will not resume. Additionally, participants are no longer being treated or examined. Withdrawn: This status applies to studies that were halted prematurely before the enrollment of the first participant."
+}

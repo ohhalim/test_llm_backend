@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "46034_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The Resident Survival Guide Template includes the following sections: 1. Overview: This section provides a general introduction to the topic. 2. Causes: Life-Threatening Causes: These are conditions that, if left untreated, may result in death or permanent disability within 24 hours. Examples include: Life-threatening cause 1 Life-threatening cause 2 Life-threatening cause 3 Common Causes: These are more frequently encountered conditions, which include: Common cause 1 Common cause 2 Common cause 3 Common cause 4 Common cause 5 3. Diagnosis: This section contains an algorithm summarizing the diagnostic approach to the condition, as per established guidelines. 4. Treatment: This section includes an algorithm summarizing the treatment approach to the condition, based on the guidelines. 5. Do's: This section lists recommended actions in bullet points. 6. Don'ts: This section lists actions to avoid in bullet points."
+}

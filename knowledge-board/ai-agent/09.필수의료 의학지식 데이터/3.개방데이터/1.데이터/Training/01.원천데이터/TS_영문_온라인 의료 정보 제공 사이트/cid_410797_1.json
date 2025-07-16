@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "410797_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Absolute risk reduction refers to the decrease in the probability of a specific outcome occurring when comparing one treatment or intervention to another, typically a control or placebo. It is mathematically defined as the difference in risk between the two groups. For example, if treatment A is a drug and treatment B is a placebo, the absolute risk reduction is calculated as the probability of the outcome occurring in the placebo group (pB) minus the probability of the outcome occurring in the drug group (pA). This is expressed as pB pA. The absolute risk reduction is closely related to the concept of the number needed to treat (NNT), which is its inverse. The NNT represents the number of individuals who need to be treated with a specific intervention in order to prevent one additional adverse outcome. In cases where the clinical endpoint is severe, such as death or a heart attack, even a small absolute risk reduction may justify the use of a drug. To illustrate this concept, consider a hypothetical drug that reduces the risk of developing colon cancer by 50%. Without the drug, the baseline risk of colon cancer might be approximately 1 in 3,000 over a 5-year period. With the drug, this risk is halved, reducing it to 1 in 6,000. The absolute risk reduction in this case is 1/6,000, meaning that treating 6,000 individuals with the drug would prevent one additional case of colon cancer."
+}

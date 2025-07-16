@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "41541_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Common traffic tracking platforms, such as Com and others, fail to account for the volume of traffic processed through our unique Squid architecture. Squid is a high-performance proxy server that also functions as an HTTP accelerator for web servers. In simpler terms, Squid stores a copy of the web pages served by the web server. When the same page is requested again, Squid delivers the stored copy instead of requiring the web server to regenerate the page. This process, known as caching, eliminates the need for the web server to repeatedly generate identical pages, significantly enhancing the server's performance. However, hit counters and traffic tracking sites do not consider the hits handled by Squid caches. Since MediaWiki websites are entirely dynamically generated, using Squid as an HTTP accelerator provides a substantial performance improvement for the web server. For instance, large-scale websites like Wikipedia employ multiple Squid caches to optimize their performance. Due to these performance benefits, MediaWiki has been specifically designed to integrate seamlessly with Squid. For example, MediaWiki can notify Squid when a page needs to be purged from the cache so that it can be regenerated."
+}

@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "427246_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "In probability theory and statistics, a sequence of independent Bernoulli trials, where the probability of success in each trial is exactly 1/2, is metaphorically referred to as a fair coin. Conversely, a coin for which the probability of success is not 1/2 is termed a biased or unfair coin. If a coin has been tampered with to favor one side over the other (a biased coin), it is still possible to achieve fair results by modifying the procedure slightly. John von Neumann proposed the following method: 1. Toss the coin twice. 2. If the results of the two tosses are the same (both heads or both tails), discard both results and start over. 3. If the results of the two tosses differ (one head and one tail), use the result of the first toss and disregard the second. This method ensures fairness because the probability of obtaining a head followed by a tail is equal to the probability of obtaining a tail followed by a head. This equality holds because the coin's bias does not change between flips, and the two flips are independent events. By excluding the outcomes of two heads and two tails through repetition of the procedure, the remaining outcomes (head-tail and tail-head) are left with equal probabilities. It is critical that the coin tosses are paired correctly in this procedure. If any part of a pair is reused in another pair, the fairness of the results may be compromised. Additionally, while some coins have been alleged to exhibit bias when spun rather than flipped, such claims have either not been substantiated or have been deemed statistically insignificant."
+}

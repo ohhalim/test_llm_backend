@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "433207_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "NANS sialic acid synthase is an enzyme encoded by the NANS gene in humans. This enzyme plays a critical role in the biosynthetic pathways of sialic acids. In vitro studies have demonstrated that the protein encoded by this gene utilizes N-acetylmannosamine 6-phosphate and mannose 6-phosphate as substrates. These substrates are converted into phosphorylated forms of N-acetylneuraminic acid (Neu5Ac) and 2-keto-3-deoxy-D-glycero-D-galacto-nononic acid (KDN), respectively. However, the enzyme exhibits significantly higher catalytic activity toward the Neu5Ac phosphate product compared to KDN. When expressed in insect cells, the NANS gene facilitates the production of both Neu5Ac and KDN. This gene shares homology with the Escherichia coli sialic acid synthase gene, neuB. Furthermore, the human NANS gene has the ability to partially restore sialic acid synthase activity in an E. coli neuB-negative mutant, indicating functional conservation between the two species."
+}

@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "42103_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The Personal Consumption Expenditures Price Index (PCEPI), also referred to as the PCE deflator, PCE price deflator, or the Implicit Price Deflator for Personal Consumption Expenditures (IPD for PCE), is a key economic indicator in the United States. The index is benchmarked to a base value of 100, set in 1992. The PCEPI is calculated using a variety of data sources, including the U.S. Consumer Price Index (CPI) and the Producer Price Index (PPI). It is derived from personal consumption expenditures, which represent the largest component of the Gross Domestic Product (GDP) as recorded in the Bureau of Economic Analysis (BEA)'s National Income and Product Accounts. A less volatile version of the PCEPI is the core PCE price index. Unlike the headline Consumer Price Index (CPI), which uses a fixed set of expenditure weights over several years, the PCEPI employs a Fisher Price Index. This method incorporates expenditure data from both the current and preceding periods, allowing for a more dynamic and responsive calculation. Additionally, the PCEPI uses a chained index methodology. This approach compares prices from one quarter to the previous quarter, rather than relying on a fixed base year. The chained index assumes that consumers adjust their spending patterns in response to changes in relative prices. Historically, the PCEPI has risen approximately 0.33% less than the CPI annually, a trend observed since 1992. An unpublished report by the Bureau of Labor Statistics (BLS) attributes much of this discrepancy to differences in the methods used to calculate hospital expenses and airfare costs."
+}

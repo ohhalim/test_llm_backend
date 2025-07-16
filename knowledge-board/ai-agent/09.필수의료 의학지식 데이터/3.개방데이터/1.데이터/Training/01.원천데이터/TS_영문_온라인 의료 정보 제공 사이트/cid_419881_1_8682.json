@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "419881_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Specific volume refers to the volume occupied by a unit mass of a given material. It is mathematically defined as the reciprocal of the material's density. Specific volume is typically expressed in units such as cubic meters per kilogram (( frac{m^3}{kg} )), cubic feet per pound-mass (( frac{ft^3}{lbm} )), or milliliters per gram (( frac{mL}{g} )). In this context, ( V ) represents the volume, ( m ) denotes the mass, and ( rho ) symbolizes the density of the material. For an ideal gas, the specific volume can be determined using the ideal gas law. In this case, ( R ) represents the specific gas constant, ( M ) is the molar mass of the gas, ( T ) is the absolute temperature, and ( P ) is the pressure of the gas. Additionally, the term specific volume may also be used to describe the molar volume of a substance."
+}

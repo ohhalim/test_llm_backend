@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "45998_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The patient information page should be written at a reading level that corresponds to the understanding of a 5th or 6th-grade student. Each patient information page should follow a standardized structure to maintain consistency across all pages. The pericarditis page serves as an example of how to organize and structure these pages. At the very top of each patient page, there is a template. This template is essentially a computer program that facilitates navigation between the patient page and related physician pages. The template is enclosed in brackets and is designed to look like a specific format. The next section of the page includes a line of code that directs readers to the corresponding physician page on WikiDoc. For example, on the pericarditis page, the code would provide a clickable link that says, For the WikiDoc page for this topic, click here. Using the pericarditis page as an example, the sections typically include the following: What is pericarditis? What are the symptoms of pericarditis? What causes pericarditis? Who is at the highest risk of developing pericarditis? When to seek urgent medical care Treatment options Where to find medical care for pericarditis What to expect (Outlook/Prognosis) Possible complications Sources To create a comprehensive and accurate patient page, you can utilize resources such as the National Library of Medicine's MedlinePlus and other government websites like the CDC."
+}

@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "427893_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "A weak acid is defined as an acid that does not ionize significantly in solution. In other words, when a weak acid, represented by the general formula HA, is dissolved in water, a substantial amount of the acid remains in its undissociated form. In aqueous solution, weak acids dissociate according to the following equilibrium reaction: HA(aq) ⇌ H⁺(aq) + A⁻(aq). The equilibrium concentrations of the reactants (HA) and the products (H⁺ and A⁻) are related by the acid dissociation constant, Ka, which is expressed as: Ka = [H⁺][A⁻] / [HA]. The magnitude of the Ka value indicates the strength of the acid. A higher Ka value means that the formation of H⁺ ions is more favored, resulting in a lower pH of the solution. Conversely, acids with very low Ka values are weaker acids, even weaker than water itself, which has a Ka of approximately 1 × 10⁻¹⁴. Strong acids, on the other hand, have very high Ka values and dissociate almost completely in water. The majority of acids encountered in both nature and laboratory settings are weak acids. Organic acids, which are a significant subset of weak acids, are commonly found in everyday life. For example, acetic acid, the main component of vinegar, and citric acid, found in lemons, are both weak organic acids. Weak mineral acids also exist and are used in various applications. Examples include boric acid, which is employed as an antiseptic and eyewash, and phosphoric acid, which is a common ingredient in many soft drinks."
+}

@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "48333_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "1. The first goal is to integrate guideline statements related to the diagnosis and treatment of cardiovascular conditions. These statements should be sourced from established guidelines and incorporated into the relevant sections of the document. 2. To understand how to structure these sections, refer to specific examples such as the pages on ST-elevation myocardial infarction (STEMI), particularly the section on beta-blocker therapy. Additionally, review the pages on chronic stable angina and unstable angina/non-ST elevation myocardial infarction (NSTEMI) for further guidance. 3. When integrating the guidelines, start from the bottom of the page and work upwards. This is because older recommendations are typically located at the bottom and may need to be replaced with updated recommendations. 4. Use the format provided for citing the ACC/AHA guidelines, ensuring that the specific topic of the guideline is clearly named. 5. The second goal is to include YouTube videos that demonstrate echocardiographic findings and physical examination findings. These videos should serve as visual aids to enhance understanding. 6. To insert a YouTube video, first log in to your YouTube account and upload the video. Once uploaded, locate the URL of the video, which can be found on the right-hand side of the YouTube page. 7. Copy the exact letters and numbers from the video’s web address and use the provided code to embed the video into the WikiDoc page."
+}

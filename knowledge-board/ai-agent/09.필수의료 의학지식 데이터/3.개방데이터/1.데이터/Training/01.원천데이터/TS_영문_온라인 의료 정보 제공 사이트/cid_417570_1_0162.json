@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "417570_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Snowball sampling is a methodological approach utilized in social science research to construct a research sample. In this technique, current participants in a study are asked to recruit additional participants from among their acquaintances. This process results in the sample group expanding progressively, resembling the growth of a rolling snowball. As the sample size increases, researchers are able to gather sufficient data for analysis. This sampling method is particularly advantageous when studying hidden or hard-to-reach populations that are otherwise challenging for researchers to access. Examples of such populations include individuals who use illicit drugs or those engaged in commercial sex work. However, snowball sampling is inherently prone to several biases due to the non-random nature of participant selection. For instance, individuals with larger social networks or more acquaintances are more likely to be included in the sample, potentially skewing the data. Historically, it was widely assumed that unbiased estimates could not be derived from snowball samples. However, a modified version of this technique, known as respondent-driven sampling (RDS), has demonstrated the ability to produce asymptotically unbiased estimates under specific conditions. Respondent-driven sampling not only mitigates some of the biases associated with traditional snowball sampling but also enables researchers to make inferences about the social network structures that connect members of the hidden population being studied."
+}

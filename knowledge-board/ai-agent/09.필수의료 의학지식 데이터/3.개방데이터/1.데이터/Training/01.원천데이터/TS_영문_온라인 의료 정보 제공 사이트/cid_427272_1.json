@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "427272_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The available font sizes range from 1 to 7. By default, the font size is set to 3 unless explicitly modified using specific tags or attributes. To adjust the font size, you can enclose your text within `<font size=x>` and `</font>` tags, where x represents the desired size. For instance, using `<font size=4>your text</font>` will render the text in a font size of 4, which is larger than the default size. Similarly, if you use `<font size=+1>your text</font>`, the text will appear one size larger than the standard size of 3. Conversely, applying `<font size=-1>your text</font>` will result in text that is one size smaller than the default."
+}

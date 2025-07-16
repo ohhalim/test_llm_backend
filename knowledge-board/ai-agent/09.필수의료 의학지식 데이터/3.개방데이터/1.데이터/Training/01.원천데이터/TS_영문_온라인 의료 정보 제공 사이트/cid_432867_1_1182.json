@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "432867_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "EMR1, also referred to as F4/80, is a protein encoded by the ADGRE1 gene. This protein belongs to the adhesion G protein-coupled receptor (GPCR) family. Adhesion GPCRs are distinguished by their extended extracellular regions, which often contain N-terminal protein modules. These regions are connected to a seven-transmembrane (TM7) domain through a structure known as the GPCR-Autoproteolysis INducing (GAIN) domain. In humans, EMR1 expression is restricted to eosinophils, making it a specific marker for these cells. In mice, the homolog of EMR1, known as F4/80, is a well-established and widely utilized marker for macrophage populations. The N-terminal fragment (NTF) of EMR1 contains 4–6 epidermal growth factor-like (EGF-like) domains in humans and 4–7 EGF-like domains in mice. Functional studies using F4/80 knockout mice, as conducted by Lin et al., revealed that F4/80 is not essential for the development of tissue macrophages. However, it is critical for the induction of efferent CD8+ regulatory T cells, which are necessary for maintaining peripheral tolerance. From a clinical perspective, research by Legrand et al. demonstrated that EMR1 can serve as a therapeutic target for the depletion of eosinophils in eosinophilic disorders. This can be achieved through the use of afucosylated antibodies."
+}

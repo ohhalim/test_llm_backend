@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "24424_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "ADA",
+    "creation_year": "2024",
+    "content": "Automated Insulin Delivery (AID) systems are designed to replicate the physiological secretion of insulin by dynamically adjusting insulin delivery based on real-time glucose readings. These systems require the user to input information about meals and carbohydrate consumption to appropriately modify basal insulin rates. However, it is important to note that these systems are not yet fully automated and still rely on user interaction for optimal functionality."
+}

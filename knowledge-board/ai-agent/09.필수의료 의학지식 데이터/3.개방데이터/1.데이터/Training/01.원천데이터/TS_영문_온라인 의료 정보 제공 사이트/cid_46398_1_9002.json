@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "46398_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "To create a guidelines page, the following steps must be meticulously followed: 1. Selecting a Topic: To claim a topic, you must send an email to WikiDoc specifying the name of the topic you wish to choose. You can view the list of active assignments through the provided link. 2. Next Steps: Open the disease page where you intend to add or update the guidelines. Begin with a second-level heading (`==`) for the title and append the phrase (DO NOT EDIT) at the end of the title, as demonstrated in the example provided. For subsections, use a third-level heading (`===`) and similarly add (DO NOT EDIT) at the end of the subsection title, following the example format. Utilize the specified codes to create tables for the guidelines, ensuring they are categorized according to their classification in the following order: Class I: Include what you type and how it appears. Class III: Include what you type and how it appears. Class II: Include what you type and how it appears. 3. References: Add the reference article in the Sources section, adhering to the example format provided. To understand how to add appropriate references, click on the provided link for further instructions."
+}

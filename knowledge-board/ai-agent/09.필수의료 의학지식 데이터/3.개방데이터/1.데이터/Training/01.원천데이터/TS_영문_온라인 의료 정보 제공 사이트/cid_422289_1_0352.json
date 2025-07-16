@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "422289_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Silver iodide (AgI) is a chemical compound that has applications in photography and serves as an antiseptic in medical practice. It is characterized by its high insolubility in water and its crystalline structure, which closely resembles that of ice. This structural similarity enables silver iodide to facilitate freezing through heterogeneous nucleation, a property exploited in cloud seeding for inducing precipitation. The crystalline structure of silver iodide changes depending on the temperature. Below 420 K (147 °C), silver iodide exists in the β-phase, which adopts a wurtzite structure. When the temperature exceeds 420 K, silver iodide transitions to the α-phase, which has a body-centered cubic structure. In this α-phase, the silver ions are randomly distributed among 2-, 3-, and 4-coordinate sites. Additionally, a metastable γ-phase can exist below 420 K, which exhibits a zinc blende structure. The transition between the β-phase and the α-phase represents the melting of the silver cation sublattice. The entropy of fusion (melting) for α-AgI is approximately half that of sodium chloride, a typical ionic solid. This discrepancy can be explained by the fact that the crystalline lattice of AgI is already partially disordered, or partly melted, during the transition between the αand β-phases. When the entropy of this transition is added to the entropy of fusion, the resulting value aligns more closely with the entropy of fusion observed for sodium chloride."
+}

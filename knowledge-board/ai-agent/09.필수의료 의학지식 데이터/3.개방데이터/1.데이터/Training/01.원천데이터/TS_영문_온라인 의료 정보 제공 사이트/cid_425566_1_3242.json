@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "425566_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "In the context of atomic orbitals, an open shell refers to a valence shell that is not fully filled with electrons or has not donated all of its valence electrons through chemical bonds with other atoms or molecules during a chemical reaction. Atoms typically strive to achieve a noble gas electron configuration when forming molecules. Noble gases, such as helium (He), neon (Ne), argon (Ar), krypton (Kr), xenon (Xe), and radon (Rn), are chemically inert and possess stable electron configurations: 1s² for helium, 1s²2s²2p⁶ for neon, 1s²2s²2p⁶3s²3p⁶ for argon, and so on. In molecules, the presence of an open shell indicates the existence of unpaired electrons. Within the framework of molecular orbital theory, this results in molecular orbitals that are singly occupied. In computational chemistry, the treatment of open-shell molecules requires specialized methods, such as the restricted open-shell Hartree-Fock (ROHF) method or the unrestricted Hartree-Fock (UHF) method, to accurately account for their electronic structure. Conversely, a closed shell or closed-shell configuration is achieved when the valence shell is completely filled with electrons, resulting in a stable and energetically favorable state."
+}

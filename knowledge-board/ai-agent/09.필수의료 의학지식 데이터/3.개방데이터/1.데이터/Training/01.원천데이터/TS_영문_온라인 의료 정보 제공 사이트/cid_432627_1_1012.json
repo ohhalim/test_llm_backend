@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "432627_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "ATF3, also known as Activating Transcription Factor 3, is a protein encoded by the ATF3 gene in humans. It belongs to the mammalian activation transcription factor/cAMP responsive element-binding (CREB) protein family, which plays a role in regulating gene expression. The ATF3 gene produces multiple transcript variants that encode two distinct isoforms. The longer isoform functions as a transcriptional repressor, inhibiting transcription from promoters containing ATF binding elements. In contrast, the shorter isoform, known as deltaZip2, lacks the leucine zipper motif required for protein dimerization and DNA binding. Instead of directly binding to DNA, the shorter isoform is thought to stimulate transcription by sequestering inhibitory co-factors away from the promoter regions. This suggests that alternative splicing of the ATF3 gene may have physiological significance in the regulation of target genes. ATF3 is induced in response to physiological stress in various tissues. It serves as a marker of neuronal regeneration following injury to dorsal root ganglion neurons, as injured and regenerating neurons activate this transcription factor. Functional studies have demonstrated that ATF3 can promote the regeneration of peripheral neurons. However, it does not have the capacity to promote regeneration of neurons in the central nervous system."
+}

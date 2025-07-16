@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "433526_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "URI1, also known as Unconventional prefoldin RPB5 interactor, is a protein in humans encoded by the URI1 gene. Function The protein encoded by the URI1 gene interacts with the RPB5 subunit of RNA polymerase II and exerts a negative regulatory effect on transcription through this interaction. This protein appears to inhibit various forms of activated transcription, but this inhibitory function is dependent on the presence of the RPB5-binding region. URI1 functions as a corepressor, and it has been proposed that its activity may require specific signaling pathways or that it may negatively regulate genes associated with chromatin structure. Additionally, two alternatively spliced transcript variants of the URI1 gene have been identified, which encode distinct isoforms of the protein. Interactions URI1 has been demonstrated to interact with DMAP1 (DNA methyltransferase 1-associated protein 1) and STAP1 (signal transducing adaptor family member 1). Model Organisms Model organisms have been employed to investigate the function of URI1. A conditional knockout mouse line, designated Uri1tm1a(EUCOMM)Wtsi, was developed at the Wellcome Trust Sanger Institute. Both male and female mice from this line underwent a standardized phenotypic screening process to assess the effects of URI1 gene deletion."
+}

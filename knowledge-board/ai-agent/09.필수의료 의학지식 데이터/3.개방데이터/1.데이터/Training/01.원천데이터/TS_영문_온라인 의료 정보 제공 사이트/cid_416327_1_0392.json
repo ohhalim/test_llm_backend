@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "416327_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The PURSUIT risk score, which stands for Platelet glycoprotein IIb/IIIa in Unstable angina: Receptor Suppression Using Integrilin Therapy, was developed as part of a randomized clinical trial. This trial included 9,461 patients and compared the efficacy of eptifibatide (Integrilin) versus placebo in the treatment of Unstable Angina (UA) or Non-ST elevation Myocardial Infarction (NSTEMI). Using multivariate regression analysis, the investigators identified seven predictors of risk for death and myocardial infarction (MI) in patients with acute coronary syndromes (ACS). Five of these risk factors were incorporated into a scoring system. These factors include: 1. Advanced age. 2. Sex. 3. The worst Canadian Cardiovascular Society (CCS) class of angina experienced by the patient. 4. Clinical signs of heart failure. 5. ST-segment depression observed on the index electrocardiogram (ECG). Each of these elements is assigned a specific score, resulting in a total score ranging from 1 to 18. The PURSUIT score is used to predict the likelihood of death or the combined outcome of death and MI within 30 days following hospital admission. Based on the score, ACS patients are stratified into three risk categories: low, intermediate, and high risk. Low-risk patients are typically recommended for early discharge. Intermediate-risk patients are managed with watchful waiting. High-risk patients are advised to undergo aggressive antiplatelet therapy and/or early invasive strategies."
+}

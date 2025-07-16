@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "410000_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The patient is experiencing back pain. 1. Obtain a detailed history to thoroughly characterize the nature of the back pain, including its onset, duration, progression, and any associated factors or triggers. 2. Conduct a relevant review of systems (ROS) with a focus on identifying systemic diseases, malignancies, infections, neurological symptoms, and specific characteristics of the back pain. 3. Perform a focused physical examination, which should include: Assessment for signs of localized tenderness. Evaluation of the range of motion of the spine. Examination for signs of radiculopathy. Testing for Spurling's sign. Performing the straight leg raise test to determine if sciatica is present. It is important to note that while this algorithm provides structured steps for conducting a focused history and physical examination, it is not a substitute for a comprehensive and detailed clinical evaluation."
+}

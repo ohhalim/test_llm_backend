@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "432769_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Conserved oligomeric Golgi complex subunit 2 (COG2) is a protein encoded by the COG2 gene in humans. Multiprotein complexes play a critical role in maintaining the structural integrity of the Golgi apparatus and its functions, including intracellular transport and glycoprotein modification. Several such complexes have been identified, including the Golgi transport complex (GTC), the LDLC complex (which is involved in glycosylation reactions), and the SEC34 complex (which is involved in vesicular transport). These three complexes are identical and collectively referred to as the conserved oligomeric Golgi (COG) complex, which includes the COG2 protein, as described by Ungar et al. in 2002. To study the function of COG2, model organisms have been utilized. A conditional knockout mouse line, named Cog2tm1a(KOMP)Wtsi, was developed as part of the International Knockout Mouse Consortium program. This program is a large-scale mutagenesis initiative aimed at creating and distributing animal models of human diseases for research purposes. Both male and female mice from this line underwent a standardized phenotypic screening process to assess the effects of COG2 gene deletion. A total of 25 tests were conducted on mutant mice, and one significant finding was observed: no homozygous mutant mice survived until the weaning stage. The remaining tests were performed on heterozygous mutant adult mice, and no additional significant abnormalities were identified in these animals. COG2 has been demonstrated to interact with other components of the conserved oligomeric Golgi complex, specifically COG4 and COG3."
+}

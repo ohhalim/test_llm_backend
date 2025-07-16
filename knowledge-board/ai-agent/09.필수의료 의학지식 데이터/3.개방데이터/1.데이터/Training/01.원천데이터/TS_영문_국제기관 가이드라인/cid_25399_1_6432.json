@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "25399_1",
+    "domain": 2,
+    "source": 5,
+    "source_spec": "Medscape",
+    "creation_year": "null",
+    "content": "Ozanimod is indicated for the treatment of relapsing forms of multiple sclerosis (MS), including clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease. It is also indicated for moderate-to-severe active ulcerative colitis. However, its safety and efficacy have not been fully established in all contexts. The coadministration of ozanimod with monoamine oxidase (MAO) inhibitors, such as isocarboxazid, phenelzine, tranylcypromine, rasagiline, safinamide, or selegiline, is contraindicated. Both ozanimod and these drugs increase sympathetic (adrenergic) effects, including elevated blood pressure and heart rate, which can lead to serious adverse reactions such as hypertensive crisis. Additionally, the active metabolites of ozanimod may inhibit MAO, further increasing the risk of nonselective MAO inhibition. A minimum of 14 days should elapse between discontinuing ozanimod and initiating MAO inhibitors to mitigate these risks. Coadministration of ozanimod with other drugs that prolong the QTc interval, such as amisulpride, anagrelide, aripiprazole, artemether, or atomoxetine, should be avoided or alternative drugs should be used. Prolongation of the QTc interval increases the risk of torsades de pointes, other serious arrhythmias, and sudden death. If coadministration is unavoidable, frequent ECG monitoring is recommended. Ozanomide increases the toxicity of adrenergic drugs, such as amphetamine, amphetamine polistirex, albuterol, and others, by enhancing sympathetic effects, including increased blood pressure and heart rate."
+}

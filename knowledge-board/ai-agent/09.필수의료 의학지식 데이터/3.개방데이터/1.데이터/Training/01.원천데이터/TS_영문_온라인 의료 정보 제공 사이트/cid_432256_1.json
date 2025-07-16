@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "432256_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "RCHY1, also known as RING finger and CHY zinc finger domain-containing protein 1, is a protein encoded by the RCHY1 gene in humans. This protein exhibits ubiquitin-protein ligase activity, meaning it plays a role in tagging other proteins with ubiquitin to signal their degradation via the proteasome. Specifically, RCHY1 interacts with the tumor suppressor protein p53 and facilitates its degradation through the ubiquitin-proteasome pathway. The degradation of p53 by RCHY1 is significant because p53 is a critical regulator of cell cycle arrest and apoptosis. Loss of p53 function, often due to its degradation, is directly implicated in the development of malignant tumors, making RCHY1 an oncogenic factor. Interestingly, the transcription of the RCHY1 gene is itself regulated by p53, creating a feedback loop. Additionally, alternative splicing of the RCHY1 gene results in multiple transcript variants, which encode different isoforms of the protein. RCHY1 has been demonstrated to interact not only with p53 but also with the androgen receptor, suggesting its involvement in broader regulatory pathways beyond p53 degradation."
+}

@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "25941_5",
+    "domain": 2,
+    "source": 5,
+    "source_spec": "Medscape",
+    "creation_year": "null",
+    "content": "Tecovirimat is a weak inducer of the hepatic and intestinal enzyme CYP3A4. When co-administered with medications metabolized by CYP3A4, it can decrease their levels or effectiveness. Therefore, close monitoring is required for drugs such as clorazepate, cobicistat, cobimetinib, colchicine, conivaptan, conjugated estrogens, copanlisib, crizotinib, cyclophosphamide, cyclosporine, and others. Additionally, tecovirimat is a weak inhibitor of CYP2C8 and CYP2C19 enzymes. It can increase the levels or effects of drugs metabolized by these enzymes, such as dabrafenib, diazepam, dexlanoprazole, escitalopram, etravirine, enzalutamide, and others. Careful monitoring for adverse effects is recommended when these drugs are co-administered. For drugs like fentanyl (in various formulations), erythromycin, estradiol, and others, tecovirimat may reduce their levels or effects by influencing CYP3A4 metabolism. This necessitates close monitoring and potential dose adjustments to maintain their effectiveness. In summary, tecovirimat's interactions with CYP3A4, CYP2C8, and CYP2C19 substrates require careful monitoring of drug levels and therapeutic effects to avoid suboptimal treatment outcomes or adverse effects."
+}

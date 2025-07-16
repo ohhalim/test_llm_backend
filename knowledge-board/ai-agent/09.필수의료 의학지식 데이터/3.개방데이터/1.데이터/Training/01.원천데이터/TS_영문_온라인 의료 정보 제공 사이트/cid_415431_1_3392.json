@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "415431_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "In the field of statistics, a sample is defined as a subset of a larger population. Populations are often so large that conducting a complete census or enumerating every individual value within the population is either impractical or impossible. Therefore, a sample is selected to represent a manageable portion of the population. Data is collected from this sample, and statistical measures are calculated to allow for inferences or extrapolations about the entire population. This process of obtaining data from a sample is referred to as sampling. To minimize the risk of bias or unrepresentative data, it is recommended to select a random sample, also known as a probability sample. A random sample ensures that every individual in the population has an equal probability of being included in the sample. There are several types of random sampling methods, including simple random sampling, systematic sampling, stratified random sampling, and cluster random sampling. In contrast, a sample that is not selected randomly is referred to as a nonrandom sample or a nonprobability sample. Examples of nonrandom sampling methods include convenience sampling, judgment sampling, purposive sampling, quota sampling, snowball sampling, and quadrature nodes used in quasi-Monte Carlo methods. The concept of a sample also encompasses the methodology by which the data is obtained, which involves the use of random variables. This is essential to ensure that mathematical statements can be made about the sample and the statistics derived from it, such as the sample mean and covariance."
+}

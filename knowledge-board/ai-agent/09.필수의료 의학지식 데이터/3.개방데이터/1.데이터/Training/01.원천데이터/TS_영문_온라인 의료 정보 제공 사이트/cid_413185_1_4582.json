@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "413185_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "In the field of statistics, the term locality refers to the central tendency of a given data set. More commonly, the term location is used to describe this concept. Measures of locality include statistical metrics such as the mean and the median. This terminology is frequently employed in exploratory data analysis to summarize and interpret data. The term location can also refer to a parameter that characterizes a family of probability distributions in a manner that is shift-equivariant. This means that the parameter adjusts in response to shifts in the data distribution, maintaining its relative position. While conventional measures of locality, such as the arithmetic mean, are often regarded as straightforward and intuitive ways to describe the central tendency of a data set, they are highly sensitive to the presence of outliers. Outliers, which are extreme values that deviate significantly from the rest of the data, can disproportionately influence the mean, leading to a potentially misleading representation of the data's central tendency. For this reason, the median is frequently used as an alternative measure of locality, particularly when dealing with large data sets. Unlike the mean, the median is robust to extreme outliers, as it is determined by the middle value of the data set when the values are ordered. This makes the median a more reliable measure of central tendency in situations where the data contains significant variability or extreme values."
+}

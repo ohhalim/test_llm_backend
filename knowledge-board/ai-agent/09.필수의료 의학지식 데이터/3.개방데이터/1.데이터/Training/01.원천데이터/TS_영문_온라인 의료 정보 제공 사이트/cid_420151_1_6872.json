@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "420151_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Atomic percent is a quantitative measure of the concentration of a dopant, commonly used in fields such as chemistry, solid-state laser physics, and spectroscopy. The specific interpretation of this term is highly dependent on the context, the host material, and the dopant involved. In particular, atomic percent can refer to two distinct definitions: 1. Molar Fraction: This is defined as the ratio of the number of atoms of the dopant to the total number of atoms in the solution. Mathematically, it is expressed as the number of dopant atoms divided by the total number of atoms in the solution. 2. Molar (or Atomic) Percentage: This refers to the ratio of the number of dopant atoms to the total number of atoms in the solution, but with a specific substitution. For example, in the case of a dopant like ytterbium (Yb), the denominator may include atoms of oxygen (O₁₂) rather than pure ytterbium, as would be the case in the first definition. This second definition is widely used in laser physics. However, the ambiguity in the term atomic percent can lead to confusion, as the exact meaning depends on the context. Atomic percent is also employed in applications involving atomic isotopes, such as in nuclear engineering. In this context, atomic percent refers to the ratio of the number of atoms of a specific isotope to the total number of atoms in the sample."
+}

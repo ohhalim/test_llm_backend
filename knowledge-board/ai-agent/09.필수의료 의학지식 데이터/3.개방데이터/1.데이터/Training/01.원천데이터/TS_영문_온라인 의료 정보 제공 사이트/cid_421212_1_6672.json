@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "421212_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The Weldon process, developed in 1870 by Walter Weldon, is a chemical method designed to recover manganese dioxide for reuse in the production of chlorine. Initially, manganese dioxide (and related oxides) reacts with hydrochloric acid, resulting in a waste solution of manganese(II) chloride. This waste solution is then treated with lime, steam, and oxygen, leading to the formation of calcium manganite (IV) through the following reaction: 2 MnCl₂ + 3 Ca(OH)₂ + O₂ → CaO·2MnO₂ + 3 H₂O + 2 CaCl₂ The calcium manganite produced in this reaction can subsequently be treated with hydrochloric acid, as in related chemical processes, according to the following reaction: CaO·2MnO₂ + 10 HCl → CaCl₂ + 2 MnCl₂ + 2 Cl₂ + 5 H₂O In this process, the manganese(II) chloride (MnCl₂) can be recycled for further use, while calcium chloride (CaCl₂) is generated as a waste byproduct."
+}

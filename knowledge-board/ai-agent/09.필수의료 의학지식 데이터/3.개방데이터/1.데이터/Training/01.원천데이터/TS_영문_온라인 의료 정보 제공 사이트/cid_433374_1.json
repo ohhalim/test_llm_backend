@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "433374_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Rnd3 is a small signaling G protein, approximately 21 kilodaltons in size, and functions as a GTPase. It belongs to the Rnd subgroup within the Rho family of GTPases. The RND3 gene encodes this protein. Similar to other members of the Rho family of Ras-related GTPases, Rnd3 plays a role in regulating the organization of the actin cytoskeleton in response to extracellular growth factors. Like Ras proteins, members of the Rho family transition between two states: an inactive GDP-bound form and an active GTP-bound form. The activity of Rho proteins is regulated by three key types of molecules. First, RhoGDIs (Rho GDP-dissociation inhibitors) bind to GDP-bound Rho proteins, maintaining them in an inactive state. Second, GEFs (guanine nucleotide exchange factors) facilitate the exchange of GDP for GTP, thereby activating Rho proteins. Third, GAPs (GTPase-activating proteins) enhance the hydrolysis of GTP, converting the active Rho protein back to its inactive GDP-bound form. Rnd3 has been demonstrated to interact with ARHGAP5, a Rho GTPase-activating protein, and UBXD5, a protein involved in various cellular processes."
+}

@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "417579_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "This comparison is expressed mathematically as: It is important to note that decibels are dimensionless units. The standard reference sound power, W₀, is defined as: W₀ = 10⁻¹² W (watts). When this reference is used, the unit dB SWL is applied, where SWL stands for sound power level. For example, consider a trumpet and an excavator, both of which have the same sound power of 0.3 watts. Despite having identical sound power levels, they may be perceived differently by listeners due to psychoacoustic factors. The trumpet, when played as music, might be considered acceptable, while the same sound power level could be perceived as disruptive noise if someone is trying to sleep. This highlights the subjective nature of noise perception. One advantage of expressing noise levels in terms of sound power level is that it eliminates the need to specify the distance from the sound source. In the context of audio equipment, many manufacturers use SWL to describe the efficiency of their speakers. The standard method involves placing a measuring device directly in front of the speaker at a distance of one meter. A specific sound, such as white noise or pink noise, is played through the speaker at an intensity that corresponds to one watt of electrical power consumption. 93 dB 1 W/1 m. However, this approach is less commonly used. These variations can be as large as ±10 dB across the speaker's usable frequency range, although higher-quality speakers tend to exhibit less variation. The SWL value provided by manufacturers is often an average over a specific frequency range."
+}

@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "421125_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Superinfection, in the context of virology, refers to the phenomenon where a cell that has already been infected by one virus becomes co-infected with a different virus at a later time. In medical terms, superinfection describes an infection that occurs subsequent to a prior infection, particularly when it is caused by microorganisms that are resistant or have developed resistance to the antibiotics that were used to treat the initial infection. According to Dorland's Illustrated Medical Dictionary, superinfection is defined as a condition resulting from the rapid proliferation of a type of bacteria that is distinct from the original pathogens in a wound or lesion undergoing treatment. In the case of lambda phage, when a bacterial cell is a lambda lysogen (meaning it harbors a dormant lambda phage genome integrated into its DNA), it becomes resistant to infection by another lambda phage. Although the incoming phage can inject its DNA into the lysogenized cell, the injected DNA is immediately silenced, and no transcription or translation of the lambda genes occurs. This renders lambda lysogens immune to superinfection by additional lambda phage particles. The underlying mechanism for this immunity is the continuous production of the cI repressor protein by the lysogen. The concentration of cI protein in the lysogen exceeds the amount required to suppress the activity of more than one phage genome. The surplus cI repressor binds to the DNA of the superinfecting phage, effectively preventing its transcription and ensuring that the superinfecting phage cannot establish a productive infection."
+}

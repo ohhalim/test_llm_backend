@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "431099_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Acetyl-CoA carboxylase 2 (ACC2), also referred to as ACC-beta, is an enzyme encoded by the ACACB gene in humans. Acetyl-CoA carboxylase (ACC) is a multifunctional enzyme system that plays a critical role in metabolic processes. It is a biotin-dependent enzyme that catalyzes the carboxylation of acetyl-CoA to form malonyl-CoA. This reaction represents the rate-limiting step in the synthesis of fatty acids. ACC-beta is believed to regulate fatty acid oxidation through the action of malonyl-CoA, which inhibits carnitine palmitoyltransferase I (CPT1). CPT1 is the rate-limiting enzyme responsible for the transport and oxidation of fatty acids in mitochondria. Therefore, ACC-beta is thought to primarily influence fatty acid oxidation rather than fatty acid biosynthesis. From a clinical perspective, human acetyl-CoA carboxylase has recently been identified as a potential target for the development of anti-obesity medications. However, experimental studies in mice have shown that knocking out the ACC2 gene does not result in any significant changes in body weight compared to normal mice. This finding suggests that pharmacological inhibition of ACC2 may not be an effective strategy for treating obesity."
+}

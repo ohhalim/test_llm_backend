@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "413668_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The Applicability Domain (AD) of a QSAR model refers to the specific physico-chemical, structural, or biological space, as well as the knowledge or information, upon which the model's training set has been developed. It defines the boundaries within which the model can reliably make predictions for new chemical compounds. The primary purpose of the AD is to determine whether the assumptions underlying the model are satisfied for a given prediction. Generally, this is more applicable to interpolation (making predictions within the range of the training data) rather than extrapolation (making predictions outside the range of the training data). Currently, there is no universally accepted algorithm for determining the AD. However, there are systematic approaches available to define interpolation regions. These approaches often involve the removal of outliers and the application of probability density distribution methods, such as kernel-weighted sampling. To evaluate the AD of a training set of chemicals, one can directly analyze the properties of the multivariate descriptor space of the training compounds. Alternatively, an indirect approach can be employed using distance or similarity metrics. When employing distance metrics, it is crucial to ensure the use of an orthogonal and significant vector space. This can be achieved through various methods of feature selection and by performing successive principal component analyses. These steps help refine the descriptor space to ensure that the model's predictions remain within the defined applicability domain."
+}

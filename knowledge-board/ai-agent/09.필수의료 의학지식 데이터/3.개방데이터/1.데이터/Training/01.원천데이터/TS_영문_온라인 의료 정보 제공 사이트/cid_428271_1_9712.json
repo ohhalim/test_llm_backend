@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "428271_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "In mathematics, two sets are considered disjoint if they do not share any elements. For instance, the sets {1, 2, 3} and {4, 5, 6} are disjoint because they have no elements in common. This concept can be extended to a collection of sets. A collection of sets is described as pairwise disjoint, or mutually disjoint, if every pair of distinct sets within the collection is disjoint. To formalize this, let ( I ) be an index set, and for each ( i ) in ( I ), let ( A_i ) represent a set. The collection ( {A_i} ) is pairwise disjoint if, for any two distinct indices ( i ) and ( j ) in ( I ), the intersection of ( A_i ) and ( A_j ) is empty. If a collection ( {A_i} ) is pairwise disjoint and contains at least two sets, then the overall intersection of all the sets in the collection is necessarily empty. However, the converse is not true. For example, consider the collection ( {{1, 2}, {2, 3}, {3, 1}} ). The intersection of all the sets in this collection is empty, but the collection is not pairwise disjoint. In fact, there are no two sets in this collection that are disjoint from each other."
+}

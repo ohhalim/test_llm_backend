@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "429574_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Onyx-015 is an experimental intratumoral adenovirus that has been genetically modified from its original form, which is derived from a common cold virus. In its unmodified state, the adenovirus utilizes the E1B protein to inhibit the cell-cycle control protein p53. This allows the virus to replicate within the infected cell, ultimately causing cell lysis, which facilitates the spread of the virus to neighboring cells. When the virus is modified into the Onyx-015 form (E1B-55kDa-deleted), it no longer possesses the E1B protein. As a result, in normal cells, the p53 protein can effectively block viral replication and induce cell cycle arrest, preventing the virus from spreading further. However, in cancerous cells that lack functional p53, the virus retains its ability to replicate. Consequently, the tumor cells undergo lysis, while the surrounding healthy cells remain unaffected."
+}

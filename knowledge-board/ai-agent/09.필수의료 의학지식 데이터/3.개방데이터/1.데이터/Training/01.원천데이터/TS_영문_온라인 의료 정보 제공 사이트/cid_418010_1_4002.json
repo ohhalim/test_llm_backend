@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "418010_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "In physics, a conservation law asserts that a specific measurable property of an isolated physical system remains constant as the system evolves over time. Each conservation law corresponds mathematically to a particular symmetry inherent in the physical system. The following is a partial list of conservation laws that are considered exact, meaning they have never been observed to be violated: Conservation of energy: The total energy of an isolated system remains constant over time. Conservation of linear momentum: The total linear momentum of an isolated system does not change. Conservation of angular momentum: The total angular momentum of an isolated system remains unchanged. Conservation of electric charge: The total electric charge in an isolated system is conserved. Conservation of color charge: In quantum chromodynamics, the color charge of particles is conserved. Conservation of weak isospin: In the context of weak interactions, weak isospin is conserved. Conservation of probability: The total probability in a quantum mechanical system is always equal to one. In addition to these exact laws, there are also approximate conservation laws. These laws hold true only under specific conditions, such as at low velocities, over short time scales, or within certain types of interactions."
+}

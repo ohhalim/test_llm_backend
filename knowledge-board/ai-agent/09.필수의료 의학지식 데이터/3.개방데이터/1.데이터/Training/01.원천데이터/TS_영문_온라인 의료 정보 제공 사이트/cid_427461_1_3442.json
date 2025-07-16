@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "427461_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Lubricity refers to the ability of a lubricant to reduce friction between surfaces in relative motion. The scientific study of lubrication, friction, and wear mechanisms is known as tribology. Measurement of Lubricity Lubricity cannot be directly measured as a physical property. Instead, it is assessed through experimental tests that evaluate the performance of a lubricant. These tests determine the extent of wear caused to a surface by a specific friction-inducing object over a defined period of time. Additional parameters, such as the size of the contact surface, temperature, and applied pressure, are also carefully controlled and specified during these tests. A larger wear scar on the test surface indicates poorer lubricity. Consequently, lubricity is often referred to as the anti-wear property of a substance. Common test setups used to evaluate lubricity include methods such as the Ball-on-Cylinder test and the Ball-on-Three-Discs test. Lubricity in Diesel Engines In modern diesel engines, the fuel itself plays a role in the lubrication process of the engine components. Diesel fuel naturally contains sulfur compounds, which contribute to its lubricating properties. However, due to environmental regulations in many countries, including the United States and the European Union, sulfur must be removed from diesel fuel. This desulfurization process results in reformulated diesel fuel with reduced lubricity. To compensate for this loss and to prevent excessive wear on engine components, lubricity-enhancing additives are incorporated into the fuel."
+}

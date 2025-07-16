@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "25862_1",
+    "domain": 2,
+    "source": 5,
+    "source_spec": "Medscape",
+    "creation_year": "null",
+    "content": "Tafenoquine has been shown to increase the plasma levels or pharmacological effects of amantadine, amiloride, cimetidine, cisplatin, dofetilide, dopamine, famotidine, lamivudine, memantine, metformin, pindolol, pramipexole, procainamide, trimethoprim, and varenicline. This interaction occurs due to its inhibition of organic cation transporter-2 (OCT2) and multidrug and toxin extrusion (MATE) transporters in vitro. Clinical Recommendations: 1. Avoid or Use Alternative Drugs: Co-administration of tafenoquine with drugs that are substrates of OCT2 or MATE transporters should generally be avoided. 2. Monitoring and Dose Adjustment: If co-administration cannot be avoided, monitor the patient closely for substrate-related toxicities. Consider reducing the dosage of the co-administered drug based on its product labeling and clinical response. Special Considerations: Dapsone (Topical): Avoid combining topical dapsone with oral dapsone or antimalarial medications due to the risk of hemolytic reactions. Bupivacaine Implant: Use caution when co-administering tafenoquine with local anesthetics like bupivacaine, as this combination may increase the risk of methemoglobinemia. Monitor the patient closely for signs of this condition. These recommendations are critical to minimize adverse effects and ensure patient safety during treatment involving tafenoquine and the aforementioned drugs."
+}

@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "432808_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The protein Deleted in Azoospermia 1 (DAZ1) is encoded by the DAZ1 gene in humans. This gene belongs to the DAZ gene family and is considered a candidate for the human Y-chromosomal Azoospermia Factor (AZF). Its expression is specifically restricted to pre-meiotic germ cells, particularly spermatogonia. The DAZ1 gene encodes an RNA-binding protein that plays a critical role in the process of spermatogenesis. There are four copies of the DAZ1 gene located on the Y chromosome, organized within palindromic duplications. One pair of these genes is part of the P2 palindrome, while the other pair is part of the P1 palindrome. The gene contains a 4-kilobase (kb) repeat that includes a 72-base pair (bp) exon, referred to as the DAZ repeat. The number of DAZ repeats is variable, and there are multiple sequence variations within these repeats. Additionally, there is an 8-kb region that can be amplified, which includes five exons encoding an RNA recognition motif (RRM) domain. However, no transcripts containing three copies of the RRM domain have been identified. As a result, the reference sequence (RefSeq) for this gene includes only two RRM domains. DAZ1 has been shown to interact with several proteins, including DAZ-associated protein 2 (DAZAP2), DAZL, and DAZ-associated protein 1."
+}

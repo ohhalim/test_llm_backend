@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "428750_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Serotype refers to the classification of organisms, such as bacteria or viruses, based on their cell surface antigens. In the context of allografts, which are transplants between genetically non-identical humans, the recipient's immune system generates antibodies in response to the donor's antigens. These antigens are present on the cell surface and differ between the donor and recipient. The interaction between these non-identical cell-surface receptors leads to the production of antiserum that reacts specifically to the donor's proteins. Under controlled selection conditions, one or two specific isoforms of these antigens are identified. This process results in the determination of a serotype, which can then be used to identify other individuals who express the same proteins. Serotyping, in combination with advanced PCR-based techniques, is a critical method for characterizing tissues in organ-donor programs. For further details, refer to resources on Human Leukocyte Antigens (HLA) and HLA serotyping."
+}

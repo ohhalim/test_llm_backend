@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "412411_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Red blood cell indices are specific blood tests that provide detailed information about the hemoglobin content and the size of red blood cells. Abnormal values in these indices can indicate the presence of anemia and help determine the specific type of anemia. The Mean Corpuscular Volume (MCV) represents the average size of a red blood cell. It is calculated by dividing the hematocrit (Hct) by the red blood cell count (RBC). The formula is: MCV = Hct / RBC The normal range for MCV is between 80 and 100 μm³. The Mean Corpuscular Hemoglobin (MCH) measures the average amount of hemoglobin (Hb) present in a single red blood cell. It is calculated by dividing the hemoglobin concentration by the red blood cell count. The formula is: MCH = Hb / RBC The normal range for MCH is between 27 and 31 picograms per cell (pg/cell). The Mean Corpuscular Hemoglobin Concentration (MCHC) reflects the average concentration of hemoglobin within a red blood cell. It is calculated by dividing the hemoglobin concentration by the hematocrit."
+}

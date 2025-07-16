@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "433445_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Syntaxin-8 (STX8) is a protein in humans encoded by the STX8 gene. This protein has been found to directly interact with HECT domain-containing E3 ubiquitin-protein ligase 3 (HECTD3) and shares a similar subcellular localization with it. Syntaxin-8 is a component of the SNARE complex, which it forms in conjunction with syntaxin-7 (STX7), vesicle transport through interaction with t-SNAREs homolog 1B (VTI1B), and endobrevin (VAMP8). This SNARE complex is essential for mediating the homotypic fusion of late endosomes, a critical process in intracellular vesicle trafficking. Model organisms have been utilized to investigate the functional role of STX8. A conditional knockout mouse line, designated Stx8tm2a(EUCOMM)Wtsi, was developed as part of the International Knockout Mouse Consortium program. This initiative is a high-throughput mutagenesis project aimed at generating and distributing animal models of human diseases to the scientific community. Both male and female mice from this knockout line underwent a standardized phenotypic screening to assess the consequences of STX8 deletion. A total of 24 tests were conducted on homozygous mutant adult mice, but no significant abnormalities were detected in these animals. In terms of molecular interactions, STX8 has been shown to interact with vesicle-associated membrane protein 8 (VAMP8), VTI1B, and STX7. These interactions are integral to its role in vesicular transport and membrane fusion processes."
+}

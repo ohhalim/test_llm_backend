@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "430298_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "An epimer is a type of stereoisomer that differs from another compound in the configuration at only one of several stereogenic centers. Stereoisomers, in general, include enantiomers and diastereomers, both of which possess stereogenic centers. However, geometric isomers, which are a subset of diastereomers, are excluded from this classification. For instance, the sugars α-glucose and β-glucose are examples of epimers. In α-glucose, the hydroxyl (-OH) group attached to the first (anomeric) carbon is oriented in the opposite direction to the methylene group. Conversely, in β-glucose, the hydroxyl group on the anomeric carbon is aligned in the same direction as the methylene group. These two molecules are not only epimers but also classified as anomers. Another example involves β-D-glucopyranose and β-D-mannopyranose, which are epimers because they differ solely in the stereochemistry at the second carbon position. In β-D-glucopyranose, the hydroxyl group on the second carbon is positioned equatorially, meaning it lies in the plane of the ring. In contrast, in β-D-mannopyranose, the hydroxyl group on the second carbon is oriented axially, meaning it projects upward from the plane of the ring. These two molecules are epimers but are not considered anomers. In chemical nomenclature, one member of an epimeric pair is often designated with the prefix epi-. For example, quinine and epi-quinine are epimeric compounds. However, when the stereoisomeric pairs are enantiomers, the prefix entis used instead."
+}

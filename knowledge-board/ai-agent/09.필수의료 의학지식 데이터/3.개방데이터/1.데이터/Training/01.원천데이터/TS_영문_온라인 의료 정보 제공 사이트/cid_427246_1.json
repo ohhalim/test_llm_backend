@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "427246_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "In probability theory and statistics, a sequence of independent Bernoulli trials, where each trial has a 50% chance of success, is often referred to as a fair coin. A coin that does not have a 50% probability of success is termed a biased or unfair coin. If a coin has been tampered with to favor one side over the other, it is still possible to achieve fair outcomes by modifying the method of using the coin. 1. Toss the coin twice. 2. If the results of the two tosses are the same (both heads or both tails), discard both results and start over. 3. If the results of the two tosses differ (one head and one tail), use the result of the first toss and disregard the second. Since the coin's bias does not change between flips and the flips are independent, these two outcomes are equally likely. By discarding the cases where both flips result in the same outcome (two heads or two tails), the remaining outcomes are guaranteed to have equal probabilities. It is important to note that this procedure only works if the coin tosses are paired correctly. If any part of a pair is reused in another pairing, the fairness of the process may be compromised. Additionally, some coins have been suspected of being unfair when spun on a surface, but such claims have either not been substantiated or have been deemed statistically insignificant."
+}

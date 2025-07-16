@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "427835_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "A template is a computer program designed to generate identical content across multiple pages. For instance, the help menu that consistently appears at the bottom of every page is an example of a template. If you were to edit a page, you would notice the code `{{WH}}` at the bottom of that page. This code instructs the software to insert the help menu at the bottom of the page. Templates are particularly useful because they save time and effort by eliminating the need to repeatedly type the same text. For example, if you frequently need to add your name as Editor-in-Chief to various pages, instead of typing this text manually each time, you could create a template. By assigning a short name, such as `BS`, to the template, you could simply type `{{BS}}`, and the desired text would automatically appear. To create a template for adding your name to multiple pages, you would need to create a new page named after the abbreviation you want to use. The name of the page must be preceded by the word Template:. For example, if your name is Bill Smith, you could create a page called `Template:BS`. On this new page, you would type the text you want to appear, such as Bill Smith, Editor-in-Chief. After saving the page, whenever you want your name to appear in this format, you would simply insert the template `{{BS}}` into the desired location. The software would then display the text as Bill Smith, Editor-in-Chief."
+}

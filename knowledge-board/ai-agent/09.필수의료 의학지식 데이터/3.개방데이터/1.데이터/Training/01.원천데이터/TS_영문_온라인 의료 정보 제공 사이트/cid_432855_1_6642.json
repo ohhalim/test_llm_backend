@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "432855_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The gene EEA1 encodes a protein known as Early Endosome Antigen 1, which is composed of 1400 amino acids. This protein is exclusively localized to early endosomes and plays a critical role in endosomal trafficking. EEA1 directly binds to the phospholipid phosphatidylinositol 3-phosphate via its C-terminal FYVE domain. Additionally, it forms a homodimer through a coiled-coil structure. EEA1 functions as a tethering molecule that facilitates vesicle docking by interacting with SNARE proteins, such as N-ethylmaleimide-sensitive fusion protein. This interaction brings endosomes into close physical proximity, ultimately leading to their fusion and the delivery of endosomal cargo. EEA1 is an effector protein of RAB5A, binding through an N-terminal zinc finger domain. It is essential for the fusion of early and late endosomes and for sorting processes at the early endosome stage. Due to its pivotal role in vesicular trafficking, several intracellular bacteria have evolved mechanisms to prevent the recruitment of EEA1 to their vacuoles. For instance, Mycobacterium tuberculosis inhibits the recruitment of EEA1 to the phagosomal membrane via the action of CamKII. Similarly, Legionella pneumophila prevents EEA1 recruitment through a mechanism that remains unidentified. In contrast, the related pathogen Legionella longbeachae actively recruits EEA1 and appears to replicate within a modified early endosome."
+}

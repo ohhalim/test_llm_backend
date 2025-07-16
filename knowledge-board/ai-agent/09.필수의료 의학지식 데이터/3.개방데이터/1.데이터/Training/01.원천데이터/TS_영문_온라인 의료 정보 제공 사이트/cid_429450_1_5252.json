@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "429450_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "A nitron is the N-oxide derivative of an imine and represents a functional group in organic chemistry. Its general structure can be described as R1R2C=NR3+O-. Nitrones are classified as 1,3-dipoles and participate in 1,3-dipolar cycloaddition reactions. In these reactions, nitrones react with alkenes to form isoxazolidines. For instance, when various Baylis-Hillman adducts react with C-Phenyl-N-methylnitrone, the resulting product is an isoxazolidine where R1 is a phenyl group, R2 is a hydrogen atom, and R3 is a methyl group. Nitrones also undergo reactions with terminal alkynes in the presence of a copper salt to yield beta-lactams. This specific reaction is known as the Kinugasa reaction. In the Kinugasa reaction, the first step involves a dipolar cycloaddition between the nitrone and an in situ generated copper(I) acetylide, forming a five-membered ring structure. This intermediate then undergoes rearrangement in the subsequent step to produce the final product."
+}

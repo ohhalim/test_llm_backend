@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "413362_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "A portmanteau inhibitor is a pharmacological agent that combines two distinct drug molecules, each functioning as an inhibitor targeting specific biological processes. This term was introduced in 2007 by researchers at the University of Minnesota. They successfully designed and synthesized a compound that simultaneously inhibits two critical enzymes involved in the replication cycle of the Human Immunodeficiency Virus (HIV): reverse transcriptase and integrase. Reverse transcriptase is an enzyme responsible for converting viral RNA into DNA, a crucial step in the HIV replication process. Integrase, on the other hand, facilitates the integration of viral DNA into the host cell's genome, enabling the virus to hijack the host's cellular machinery for its propagation. By combining inhibitors of both enzymes into a single molecular entity, the researchers aimed to enhance therapeutic efficacy and potentially reduce the likelihood of drug resistance."
+}

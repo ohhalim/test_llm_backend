@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "432953_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The GDP dissociation inhibitor alpha, also known as GDI1, is a protein encoded by the GDI1 gene in humans. GDP dissociation inhibitors (GDIs) are proteins that play a critical role in regulating the GDP-GTP exchange reaction of Rab family members. Rab proteins are small GTP-binding proteins that belong to the Ras superfamily and are involved in the intracellular trafficking of vesicles between cellular organelles. GDIs function by slowing the dissociation rate of GDP from Rab proteins and facilitating the release of GDP from membrane-bound Rab proteins. The GDI1 protein is predominantly expressed in neural and sensory tissues. Mutations in the GDI1 gene have been associated with X-linked non-specific intellectual disability. Rab GTPases undergo a dynamic cycle between the cytosolic compartment, where they are bound to GDP dissociation inhibitors (GDIs), and the membrane, where they interact with various factors. These factors include receptors, nucleotide exchange factors, GTPase-activating proteins (GAPs), and potentially other proteins that link Rab GTPases to the appropriate SNARE machinery. GDI proteins are non-specific in their binding to Rab proteins, meaning they can interact with multiple Rab family members. However, the associated exchange factors, receptors, and GAPs exhibit specificity for particular Rab proteins. Additionally, GDI1 has been demonstrated to interact with CDC42, a member of the Rho family of small GTPases."
+}

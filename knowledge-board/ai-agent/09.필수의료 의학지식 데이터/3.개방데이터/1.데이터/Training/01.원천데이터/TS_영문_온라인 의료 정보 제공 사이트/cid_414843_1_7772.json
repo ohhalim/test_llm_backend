@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "414843_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The term coordination number, as originally defined in 1893 by Alfred Werner, refers to the total number of neighboring atoms or groups directly bonded to a central atom within a chemical compound. For example, in the case of methane (CH₄), the coordination number of the central carbon atom is 4, as it is bonded to four hydrogen atoms. In the field of inorganic chemistry, the coordination number is determined by counting the number of sigma bonds formed between the central atom and its surrounding ligands. However, pi bonds are not included in this count. In materials science, the bulk coordination number refers to the number of atoms in direct contact with a given atom within a crystal lattice structure. Compounds with high coordination numbers include uranium and thorium bidentate nitrate-coordinated cluster compounds, such as U(NO₃)₆²⁻ and Th(NO₃)₆²⁻. When the ligands surrounding the central atom are smaller in size, it becomes possible for the coordination number to increase even further, allowing for higher coordination states."
+}

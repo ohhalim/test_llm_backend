@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "412319_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The nitrate reductase test is a diagnostic procedure used to distinguish bacteria based on their ability to reduce nitrate (NO3) to nitrite (NO2) through anaerobic respiration. Procedure: 1. Inoculate a nitrate broth with the bacterial isolate and incubate it for 48 hours. 2. After incubation, add 10-15 drops of sulfanilic acid and N,N-dimethyl-1-naphthylamine to the broth. If the bacterium produces nitrate reductase, the broth will develop a deep red color within 5 minutes, indicating a positive result. 3. If no color change is observed at this stage, the result is inconclusive. To proceed, add a small amount of zinc powder to the broth. If the solution remains colorless after adding zinc, it indicates the presence of both nitrate reductase and nitrite reductase, as the nitrate has been fully reduced beyond nitrite. If the solution turns red after adding zinc, it indicates that nitrate reductase is not present, as the zinc chemically reduces the remaining nitrate to nitrite, causing the color change."
+}

@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "425501_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Categories are used to organize information systematically, making it easier to classify and retrieve relevant content. For example, if you are writing an article about acute myocardial infarction (MI), you might categorize it under Cardiology. This allows the article to be grouped with other cardiology-related topics, creating a comprehensive collection of resources on the subject. Over time, these categorized articles can collectively function as a dynamic and evolving textbook for a specific field of study. Categories also serve a practical purpose in identifying articles that require further work, such as the addition of an overview statement or other missing elements. To include an article in a category, you need to add a specific line for each category. It is important to note the following: 1. There should be no space between the colon (:) and the words that precede or follow it. 2. Only the C in Category and the first letter of the category name should be capitalized. For instance, typing the appropriate line will add the article to the Cardiology chapters and Vascular medicine chapters categories. It is customary to place these category lines near the bottom of the wiki page. Once you save your edits, the category will be created (if it does not already exist), and the article you just edited will be added to it."
+}

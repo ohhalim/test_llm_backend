@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "423634_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Currently, there are wiki documents being developed in the following languages: English, Romanian, Russian, Spanish, and Chinese. To include a link to a translation of a page, regardless of whether the translation currently exists or not, you should insert a line for each language as specified. As is customary with categories, it is recommended to place these lines near the bottom of the wiki page. Adding such a link will enable the language toolbar on the page and include the appropriate inter-language link. The two-letter language codes for each language are as follows: es: Spanish en: English zh: Chinese ru: Russian ro: Romanian If you would like to propose the creation of a wiki document in a language not currently supported, you can leave a note in the language requests section to make such a suggestion. The site administrators will review and consider your request."
+}

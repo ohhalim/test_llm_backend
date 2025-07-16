@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "2160_8",
+    "domain": 2,
+    "source": 5,
+    "source_spec": "who",
+    "creation_year": "2017",
+    "content": "It includes information on the number of hospitals performing blood transfusions, the number of blood components issued or transfused, and specific details about whole blood, red cells, platelets (both derived from whole blood and apheresis), fresh frozen plasma, and cryoprecipitate. Additionally, it contains notes and clarifications about data sources, definitions, and limitations. The data is organized by country and year, with some countries providing complete data while others have partial or no data available. Specific notes highlight unique practices, such as the use of SD-treated fresh frozen plasma in Finland or the inclusion of lyophilized plasma by the French Army. The dataset also includes estimates, partial data, and explanations for missing or incomplete information. Key observations include: Blood component preparation and transfusion practices vary significantly by country. Some countries report detailed data on blood usage, while others provide limited or no information. Definitions of blood components and units differ, with some countries using specific volume-based criteria or pooling methods. The dataset includes additional notes on data collection methods, such as reliance on reporting from specific blood banks or health facilities. This dataset is likely intended for use in analyzing global blood transfusion practices, identifying gaps in data collection, and improving blood safety and availability worldwide."
+}

@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "44982_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The Simplified Geneva Score is a clinical tool designed to assess the pre-test probability of pulmonary embolism (PE) in patients. It uses a simplified scoring system where each parameter is assigned a value of one point, replacing the previously weighted scores. This change was implemented to minimize the risk of errors in clinical practice while maintaining the diagnostic accuracy of the tool compared to earlier versions of the Geneva score. To calculate the Simplified Geneva Score, clinicians evaluate specific criteria and assign one point for each applicable parameter. The total score is then used to estimate the likelihood of pulmonary embolism. The scoring system is as follows: A score of 0 to 1 point indicates a low probability of pulmonary embolism, with an estimated prevalence of 7.7%. A score of 2 to 4 points corresponds to an intermediate probability of pulmonary embolism, with an estimated prevalence of 29.4%. A score of 5 points or higher suggests a high probability of pulmonary embolism, with an estimated prevalence of 64.3%. Additionally, the score can be interpreted in terms of the likelihood of PE: A score of 0 to 2 points suggests that pulmonary embolism is unlikely, with an estimated prevalence of 11.5%. A score of 3 points or higher indicates that pulmonary embolism is likely, with an estimated prevalence of 41.6%. This scoring system provides a structured and evidence-based approach to stratify patients based on their risk of pulmonary embolism, aiding in clinical decision-making and guiding further diagnostic testing."
+}

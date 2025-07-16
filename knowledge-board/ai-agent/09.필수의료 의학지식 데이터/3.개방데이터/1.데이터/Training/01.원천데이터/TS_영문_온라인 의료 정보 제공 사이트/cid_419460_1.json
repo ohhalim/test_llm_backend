@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "419460_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "A redox indicator, also known as an oxidation-reduction indicator, is a chemical compound that exhibits a distinct color change when a specific electrode potential is reached. For a redox indicator to function effectively, it must undergo a rapid and reversible color change. This requirement necessitates that the oxidation-reduction equilibrium of the indicator system is established very quickly. Consequently, only a limited number of organic redox systems are suitable for use as redox indicators. There are two primary categories of redox indicators: 1. Metal-organic complexes: These include compounds such as phenanthroline, which are capable of undergoing redox reactions and displaying color changes. 2. True organic redox systems: Examples include methylene blue, which is a well-known organic redox indicator. In some cases, colored inorganic oxidizing or reducing agents, such as potassium manganate or potassium dichromate, are mistakenly referred to as redox indicators. However, these substances cannot be classified as true redox indicators because their redox reactions are not reversible. Most redox indicators that belong to true organic redox systems involve a proton as a participant in their electrochemical reactions. As a result, redox indicators are often further categorized into two groups based on their dependence on pH: 1. pH-independent redox indicators: These indicators function without being influenced by the pH of the solution. 2. pH-dependent redox indicators: These indicators rely on the pH of the solution to exhibit their redox behavior and color changes."
+}

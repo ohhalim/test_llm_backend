@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "22418_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "ADA",
+    "creation_year": "2024",
+    "content": "The staging of Chronic Kidney Disease (CKD), as defined by the American Diabetes Association (ADA), is based on estimated glomerular filtration rate (eGFR) values. These stages are categorized as follows: Stage G1: eGFR ≥ 90 mL/min/1.73 m² Stage G2: eGFR between 60 and 89 mL/min/1.73 m² Stage G3a: eGFR between 45 and 59 mL/min/1.73 m² Stage G3b: eGFR between 30 and 44 mL/min/1.73 m² Stage G4: eGFR between 15 and 29 mL/min/1.73 m² Stage G5: eGFR < 15 mL/min/1.73 m² In addition to eGFR, the level of albuminuria is used to further stratify the risk associated with CKD. Albuminuria levels provide critical information regarding the risk of cardiovascular complications and the likelihood of disease progression. Clinical guidelines emphasize the importance of using both eGFR and albuminuria levels in combination to accurately diagnose CKD and to guide its management effectively."
+}

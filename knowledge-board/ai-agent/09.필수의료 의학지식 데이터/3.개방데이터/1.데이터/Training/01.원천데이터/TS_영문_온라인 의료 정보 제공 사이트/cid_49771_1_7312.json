@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "49771_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The Major Diagnostic Categories (MDC) are established by categorizing all potential principal diagnoses, as defined by the International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM), into 25 distinct and mutually exclusive diagnostic areas. Each MDC corresponds to a specific organ system or etiology and is generally associated with a particular medical specialty. MDCs 1 through 23 are organized based on principal diagnoses. Patients are assigned to MDC 24, which pertains to Multiple Significant Trauma, if they have at least two significant trauma diagnosis codes from different body site categories. These codes can be listed as either principal or secondary diagnoses. Patients are assigned to MDC 25, which pertains to HIV Infections, if they have a principal diagnosis of an HIV infection or a principal diagnosis of a significant HIV-related condition, along with a secondary diagnosis of an HIV infection. MDC codes, similar to Diagnosis-Related Group (DRG) codes, are primarily used as claims and administrative data elements within the United States medical care reimbursement system."
+}

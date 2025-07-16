@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "419789_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "1. Only the most recent change for each article linked from the current page is displayed, but the number of changes shown does not exceed the limit specified in the user preferences. 2. The header for this feature is labeled Related changes, and it includes a subheader that specifies the source page, formatted as (to pages linked from 'xxx'). 3. Similar to the Recent Changes and Enhanced Recent Changes features, pages that are being watched are displayed in bold text. 4. This functionality can be utilized to create a custom watchlist-like feature. 5. It operates in a manner similar to a watchlist, encompassing all pages linked from the current page. 6. However, the Related changes feature does not automatically include talk pages. For talk pages to be included, the page to which the Related changes feature is applied must explicitly link to those talk pages. Options 7. The Hide minor edits option, which can be configured in the user preferences, is applicable to the Related changes feature. 8. For further details, refer to the Hide minor edits section. Caveats 9. When links point to redirect pages, only changes to the redirect itself are displayed, not changes to the target article. 10. In this context, a direct link to the target article is more advantageous. 11. The Related changes feature does not list changes made to images, sound files, or image description pages, regardless of the linking method used (e.g., image, :image, or media). 12. Changes to the parent page are not listed unless there is an explicit link to it."
+}

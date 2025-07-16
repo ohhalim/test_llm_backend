@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "431449_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The DCP1A protein, also known as the mRNA-decapping enzyme 1A, is a protein encoded by the DCP1A gene in humans. This protein plays a critical role in the process of mRNA decapping, which is an essential step in both general and regulated mRNA decay pathways. The decapping process involves the removal of the 5' cap structure of mRNA, a modification that marks the mRNA for degradation. The protein encoded by the DCP1A gene functions as a decapping enzyme. It forms a decapping complex in conjunction with another decapping enzyme, DCP2. This decapping complex interacts with the nonsense-mediated decay factor hUpf1, a protein involved in the surveillance and degradation of mRNAs containing premature termination codons. Through this interaction, the decapping complex may be recruited to such defective mRNAs, facilitating their degradation. Additionally, the DCP1A protein is involved in the TGF-beta signaling pathway, a critical pathway that regulates various cellular processes, including cell growth, differentiation, and apoptosis. In terms of molecular interactions, DCP1A has been shown to interact with DCP2 and UPF1, both of which are key players in mRNA decay mechanisms. Furthermore, DCP1A has been demonstrated to interact with GW182, a marker of processing bodies (P-bodies). P-bodies are cytoplasmic granules that serve as sites for mRNA storage and degradation, highlighting the role of DCP1A in mRNA metabolism and cellular RNA regulation."
+}

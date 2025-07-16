@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "417398_2",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The molecule of interest undergoes interaction with the analytical tool, which systematically cleaves it into smaller fragments based on established chemical reactions. These fragments, referred to as proposed precursors, are subjected to the same analytical process iteratively. This process continues until the precursors are reduced to readily available and, ideally, cost-effective starting materials. Subsequently, the retrosynthetic pathway is reversed to outline the forward synthetic route. A synthetic tree can be constructed during this process, as each compound and its corresponding precursors can be synthesized through multiple potential pathways."
+}

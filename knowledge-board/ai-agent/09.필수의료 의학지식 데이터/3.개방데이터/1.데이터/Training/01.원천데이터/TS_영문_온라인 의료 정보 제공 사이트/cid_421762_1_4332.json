@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "421762_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The funny current, also known as the funny channel or If, refers to a specific ionic current in the heart. It is termed funny because its behavior is opposite to that of most other cardiac currents. The If current is a mixed inward flow of sodium (Na⁺) and potassium (K⁺) ions, which is activated by hyperpolarization and is modulated by the autonomic nervous system. This current plays a critical role in regulating pacemaker activity within the sinoatrial (SA) node. Unlike most ion channels, which are activated by depolarization, the funny current channels in the SA node and atrioventricular (AV) node are activated by hyperpolarization, typically at a membrane potential of approximately -40 mV. These channels are associated with cyclic-nucleotide-gated channels, which further influence their activity. From a clinical perspective, drugs such as ivabradine are designed to inhibit the funny current, thereby reducing the heart rate. Ivabradine achieves this by selectively inhibiting the pacemaker If current in a dose-dependent manner."
+}

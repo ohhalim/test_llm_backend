@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "431041_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "In the field of epidemiology, a vector is defined as an organism that does not directly cause disease but facilitates the transmission of infectious agents by carrying pathogens from one host to another. A well-known example of this is the Anopheles mosquito, which serves as a vector for malaria. The mosquito transmits the malarial parasite, Plasmodium, to humans. In this scenario, Plasmodium does not harm the mosquito, which acts as its intermediate host, but it causes the disease malaria in humans, who are the definitive hosts. In molecular biology and genetic engineering, the term vector refers to a vehicle used to deliver genetic material into a cell. This is often employed in applications such as gene therapy. A plasmid vector, for instance, is created by inserting a DNA construct into a plasmid. Various laboratory techniques are then utilized to introduce, or transfect, the plasmid into the target cell. In epidemiology, there are two primary types of vectors responsible for transmitting infectious organisms to hosts: mechanical vectors and biological vectors. Mechanical vectors do not allow the microbes to multiply within them; they merely transport the microbes physically from one host to another. In contrast, biological vectors are organisms in which the microbes must propagate or undergo part of their life cycle before the vector can transmit the microbes to a new host. For example, mosquitoes act as biological vectors for diseases such as malaria."
+}

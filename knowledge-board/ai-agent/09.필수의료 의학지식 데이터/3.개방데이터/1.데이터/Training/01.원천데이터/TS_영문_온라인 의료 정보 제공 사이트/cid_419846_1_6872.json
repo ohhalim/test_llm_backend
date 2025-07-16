@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "419846_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The Scholl reaction is a coupling reaction that occurs between two arene compounds, facilitated by the presence of a Lewis acid and a protic acid. The protic acid is often present as an impurity in the Lewis acid or is generated during the course of the reaction itself. Common reagents used in this reaction include iron(III) chloride in dichloromethane, copper(II) chloride, PIFA (phenyliodine(III) bis(trifluoroacetate)), boron trifluoride etherate in dichloromethane, molybdenum(V) chloride, and lead tetraacetate with boron trifluoride in acetonitrile. Due to the high reaction temperatures required and the necessity for strongly acidic catalysts, the chemical yield of the Scholl reaction is often low, making it a less popular method in synthetic chemistry. For example, the reaction has been used to synthesize 1-pyrene from anthracene and 1-phenylbenz(a)anthracene with a yield of 66%. One study demonstrated that the Scholl reaction can be utilized in cascade reactions to produce more complex polycyclic aromatic hydrocarbons. In specific applications, such as the synthesis of triphenylene, the Scholl reaction has been proposed as an alternative to the Suzuki reaction. A recurring issue with this reaction is the oligomerization of the product, which can be mitigated by introducing tert-butyl substituents to block undesired pathways. The exact mechanism of the Scholl reaction remains unclear, but it is hypothesized to proceed through the formation of an arenium ion intermediate."
+}

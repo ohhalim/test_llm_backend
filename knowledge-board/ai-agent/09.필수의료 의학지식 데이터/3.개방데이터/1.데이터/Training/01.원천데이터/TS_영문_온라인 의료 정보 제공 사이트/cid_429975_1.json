@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "429975_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "In sugar chemistry, an anomer is a specific type of epimer. It is a stereoisomer, more precisely a diastereomer, of a saccharide in its cyclic form. The defining feature of an anomer is that it differs from another stereoisomer only in the configuration at the hemiacetal (or hemiketal) carbon, which is referred to as the anomeric carbon. If the hydroxyl group attached to the anomeric carbon is positioned axially, as in the case of glucose, the sugar is classified as an alpha (α) anomer. Conversely, if the hydroxyl group is positioned equatorially, the sugar is classified as a beta (β) anomer. For instance, α-D-glucopyranose and β-D-glucopyranose are the two cyclic forms of glucose, and they are considered anomers of each other. The α-anomer is stabilized by a phenomenon known as the anomeric effect. The process by which the two anomers interconvert is called mutarotation. Importantly, the two anomers are distinct chemical entities, meaning they exhibit different physical and chemical properties. One notable difference is their optical rotation. For example, α-D-glucose has an optical rotation of +112 degrees, whereas its β-anomer, β-D-glucose, has an optical rotation of +19 degrees."
+}

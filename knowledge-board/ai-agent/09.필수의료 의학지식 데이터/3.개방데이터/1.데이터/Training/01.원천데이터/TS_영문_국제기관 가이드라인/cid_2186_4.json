@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "2186_4",
+    "domain": 2,
+    "source": 5,
+    "source_spec": "who",
+    "creation_year": "2010",
+    "content": "A generic risk assessment model for insecticide-treated nets (ITNs) has been developed, and an example is provided using a pyrethroid-treated net (PYR). The model includes a review of toxicity data from reputable sources such as WHO, IPCS, JMPR, USEPA, and IARC, as well as a literature search on databases like MEDLINE and TOXLINE. Relevant animal and human studies were tabulated, focusing on critical toxic effects and dose-response data. In animals, the critical toxic effect is neurotoxicity. PYR is not genotoxic and has low acute toxicity. The pivotal studies used for risk assessment include human occupational studies, a one-year dietary study in dogs, and a 90-day gavage study in rats. Critical no-observed-adverse-effect levels (NOAELs) for PYR were identified, with values of 0. Systemic doses from activities like net dipping and washing are calculated, and the total daily systemic dose is compared to the toxicological safety thresholds (TSDs). Home-based net dipping scenarios, where individuals treat their own nets, may pose higher risks compared to centralized dipping services. In cases where risks to home-based dippers are unacceptable, but risks to those washing or sleeping under the nets are acceptable, the use of commercially pretreated nets may be considered as an alternative. Non-compliance with dipping procedures is likely to result in unacceptable risks. The risk assessment concludes that, provided guidelines are followed, the use of insecticide-treated nets is generally safe for human health."
+}

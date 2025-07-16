@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "429569_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Octanol is a straight-chain fatty alcohol that contains eight carbon atoms and has the molecular formula CH3(CH2)7OH. While the term octanol typically refers to the primary alcohol 1-octanol, there are other, less common isomers of octanol, such as the secondary alcohols 2-octanol, 3-octanol, and 4-octanol. Octanol naturally occurs in the form of esters in certain essential oils. The primary application of octanol is in the production of various esters, both synthetic and naturally occurring, such as octyl acetate. These esters are widely used in the fields of perfumery and flavoring. Additionally, octanol has been explored for experimental medical applications, particularly in the management of specific types of involuntary tremors. Octanol and water are immiscible, meaning they do not mix. The distribution of a compound between water and octanol is used to calculate the partition coefficient, denoted as 'P,' which is often expressed as its base-10 logarithm, log P. The water/octanol partitioning system serves as a reliable approximation for the partitioning behavior of molecules between the cytosol and lipid membranes in living organisms. In many models of dermal absorption, the partition coefficient between the stratum corneum (the outermost layer of the skin) and water is considered to be well-approximated by a function of the water/octanol partition coefficient. This relationship is expressed mathematically, where constants 'a' and 'b' are used, K_{sc/w} represents the stratum corneum/water partition coefficient, and K_{o/w} represents the water/octanol partition coefficient."
+}

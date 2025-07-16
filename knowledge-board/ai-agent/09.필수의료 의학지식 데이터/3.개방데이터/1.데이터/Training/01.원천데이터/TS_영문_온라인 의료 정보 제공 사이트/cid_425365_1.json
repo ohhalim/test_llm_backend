@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "425365_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The Bark scale is a psychoacoustical scale that was introduced by Eberhard Zwicker in 1961. This scale spans from 1 to 24 and corresponds to the first 24 critical bands of human hearing. 20 Hz, 100 Hz, 200 Hz, 300 Hz, 400 Hz, 510 Hz, 630 Hz, 770 Hz, 920 Hz, 1080 Hz, 1270 Hz, 1480 Hz, 1720 Hz, 2000 Hz, 2320 Hz, 2700 Hz, 3150 Hz, 3700 Hz, 4400 Hz, 5300 Hz, 6400 Hz, 7700 Hz, 9500 Hz, 12000 Hz, and 15500 Hz. The Bark scale is conceptually related to the mel scale, another psychoacoustical scale, but it is somewhat less widely used. To convert a given frequency ( f ) (in Hz) into the Bark scale, the following formula is applied: [ text{Bark} = 13 arctan(0.00076f) + 3.5 arctanleft(left(frac{f}{7500}right)^2right) ] Additionally, the critical band rate in Bark can be adjusted using the following rules: If the result is less than 2, add ( 0.15 times (2 text{result}) ). If the result is greater than 20.1, add ( 0.22 times (text{result} 20.1) ). The critical bandwidth, which is the width of a critical band in Hz, can be calculated using the formula: [ text{Critical bandwidth (Hz)} = frac{52548}{z^2 52.56z + 690.39} ] Here, ( z ) represents the value in the Bark scale."
+}

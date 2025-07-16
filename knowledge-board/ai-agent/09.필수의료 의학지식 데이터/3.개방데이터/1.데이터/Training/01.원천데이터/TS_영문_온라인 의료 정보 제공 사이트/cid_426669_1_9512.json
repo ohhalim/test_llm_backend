@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "426669_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The 3₁₀ helix is a specific type of secondary structure that is occasionally observed in proteins. The amino acids in a 3₁₀ helix are arranged in a right-handed helical conformation. The structure is characterized by a rise of approximately 2 nm along the helical axis for each turn. A defining feature of the 3₁₀ helix is the hydrogen bonding pattern. Specifically, the N-H group of an amino acid forms a hydrogen bond with the C=O group of the amino acid located three residues earlier in the sequence. This repeated i + 3 → i hydrogen bonding pattern is what defines the 3₁₀ helix. Other helical structures with similar hydrogen bonding patterns include the α-helix, which follows an i + 4 → i hydrogen bonding pattern, and the π-helix, which follows an i + 5 → i hydrogen bonding pattern. Residues within 3₁₀ helices typically adopt dihedral angles (φ, ψ) near (-49°, -26°). More generally, the dihedral angles are such that the ψ angle of one residue and the φ angle of the next residue sum to approximately -75°. For comparison, the sum of the dihedral angles for an α-helix is approximately -105°, while for a π-helix, the sum is roughly -125°. The general formula for the rotation angle (Ω) per residue of any polypeptide helix with trans isomers is given by the equation: 3 cos(Ω) = 1 4 cos²((φ + ψ) / 2)."
+}

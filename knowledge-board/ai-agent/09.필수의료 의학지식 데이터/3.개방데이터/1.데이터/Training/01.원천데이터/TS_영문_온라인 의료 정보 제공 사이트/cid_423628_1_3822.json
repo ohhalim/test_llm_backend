@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "423628_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "In the field of molecular biology, the term trans-acting refers to the action of a molecule that originates from a different molecule. This is in contrast to cis-acting, which describes actions that occur within the same molecule. When discussing transcription regulation, a trans-acting element typically refers to a DNA sequence that contains a gene. This gene encodes a protein, microRNA, or another diffusible molecule that plays a role in regulating a separate target gene. The trans-acting gene may reside on the same chromosome as the target gene, but its regulatory function is mediated through the protein or RNA it produces. In contrast, cis-acting elements do not encode proteins or RNA. Instead, they exert their regulatory effects directly on the same molecule of DNA where they are located. Both the trans-acting gene and the protein or RNA it encodes are described as acting in trans on the target gene."
+}

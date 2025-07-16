@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "432985_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The GRAP gene encodes a protein known as GRB2-related adapter protein in humans. This protein belongs to the GRB2/Sem5 (C. elegans homolog)/Drk (Drosophila homolog) family. It functions as a cytoplasmic signaling protein and is structurally characterized by the presence of an SH2 (Src Homology 2) domain, which is flanked by two SH3 (Src Homology 3) domains. The SH2 domain of the GRAP protein specifically binds to ligand-activated receptors, such as those for stem cell factor and erythropoietin. This interaction enables the protein to form a stable complex with the BCR-ABL oncoprotein, a fusion protein associated with certain leukemias. Additionally, the N-terminal SH3 domain of GRAP facilitates its interaction with SOS1 (Son of Sevenless homolog 1), a Ras guanine nucleotide exchange factor that plays a critical role in Ras signaling pathways. Furthermore, GRAP has been demonstrated to interact with the Linker of Activated T cells (LAT), a key adaptor protein involved in T-cell receptor signaling."
+}

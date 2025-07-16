@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "23901_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "ADA",
+    "creation_year": "2024",
+    "content": "The American Diabetes Association (ADA) employs a grading system to evaluate the strength of evidence supporting its recommendations. This system assigns grades of A, B, or C based on the quality and reliability of the evidence. Grade A is designated for recommendations that are supported by robust evidence derived from well-conducted randomized controlled trials. These trials are considered the gold standard in clinical research due to their ability to minimize bias and establish causality. Grade B is applied to recommendations based on evidence obtained from well-designed observational studies. While these studies are not as rigorous as randomized controlled trials, they still provide valuable insights and are conducted with a high level of methodological integrity. Grade C is reserved for recommendations that rely on expert consensus or clinical experience. This grade is used when high-quality research evidence is lacking, but the recommendations are informed by the collective judgment and practical expertise of clinicians and specialists in the field."
+}

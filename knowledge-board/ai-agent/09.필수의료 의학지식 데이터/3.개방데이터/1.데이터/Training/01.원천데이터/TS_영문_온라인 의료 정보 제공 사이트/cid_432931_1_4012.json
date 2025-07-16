@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "432931_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "FiO2, or the fraction of inspired oxygen, refers to the proportion of oxygen in a gas mixture that a patient breathes in. It is quantified as a value ranging from 0 (0%) to 1 (100%). For example, room air has an FiO2 of 0.21, or 21%. The FiO2 delivered to a patient can be adjusted using various medical devices, such as Venturi masks, which allow for precise control of oxygen concentration when combined with different oxygen flow rates. Additionally, most mechanical ventilators are equipped with settings to regulate FiO2 levels. Increasing the FiO2 is often necessary to ensure adequate oxygenation in critically ill patients. This is particularly important in conditions such as major surgical recovery, acute lung injury, sepsis, pneumonia, congestive heart failure, or other cardiopulmonary diseases, where oxygen delivery to tissues is compromised. A common misconception is that FiO2 changes with altitude. However, the FiO2 of ambient air remains constant at 21% regardless of elevation. What does change is the barometric pressure of the air. At higher altitudes, the partial pressure of oxygen in the air decreases, even though the percentage of oxygen remains the same. This reduction in partial pressure diminishes the driving force required to oxygenate the blood, making it more difficult for oxygen to reach tissues. As a result, hypoxia, or insufficient oxygen delivery to tissues, can occur."
+}

@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "422502_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Algor mortis refers to the cooling of the body after death. The term originates from Latin, where algor means coolness and mortis means of death. After death, the body temperature begins to decrease steadily until it reaches the surrounding ambient temperature. However, this process can be significantly influenced by external environmental factors. The rectal temperature of a deceased individual can provide an estimate of the time since death. Although the cooling of the body follows an exponential decay curve due to heat conduction, it is often approximated as a linear process. Typically, the body cools at a rate of approximately 1 to 1.5 degrees Fahrenheit per hour until it approaches the ambient temperature. One commonly used formula to estimate the time since death is the Glaister equation. This equation is expressed as: (98.4°F − rectal temperature) / 1.5. The result provides an estimate of the number of hours that have elapsed since death. It is important to note that as decomposition progresses, the internal body temperature may begin to rise again due to the metabolic activity of bacteria and other microorganisms involved in the decomposition process."
+}

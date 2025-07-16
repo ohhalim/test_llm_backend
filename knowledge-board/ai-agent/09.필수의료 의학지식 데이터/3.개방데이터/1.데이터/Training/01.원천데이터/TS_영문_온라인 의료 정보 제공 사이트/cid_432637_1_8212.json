@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "432637_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "In organic chemistry, the acyl group is typically derived from a carboxylic acid with the general formula RCOOH. This group consists of a carbonyl group (C=O) and a single bond between the R group and the carbon atom of the carbonyl. Acyl groups can also originate from other types of acids, such as sulfonic acids, phosphonic acids, and others. Acyl halides are commonly employed in Friedel-Crafts acylation reactions to introduce the acyl moiety into aromatic compounds. In biochemistry, acyl-CoA is a derivative formed during fatty acid metabolism and plays a critical role in various metabolic pathways. The names of acyl groups are generally derived from the corresponding acid by replacing the -ic ending of the acid with -yl. For example, the acyl group derived from acetic acid is called acetyl. It is important to note that groups such as methyl, ethyl, propyl, and butyl, which also end in -yl, are not acyl groups but rather alkyl groups, which are derived from alkanes. In acyloxy groups, the acyl group is bonded to an oxygen atom, forming a structure represented as R-C=O-O-R', where R-C=O is the acyl group. Acyl cations, also known as acylium ions, have the general structure R-C+=O. These ions are significant intermediates in organic reactions, such as the Hayashi rearrangement."
+}

@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "47324_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "To remove the table of contents from a page, you can use the command `__NOTOC__`. This command effectively suppresses the display of the table of contents on the page. Additional commands related to the table of contents (TOC) can be found below. These commands allow for further customization and control over the behavior and layout of the page. Behavior switches are specific controls that modify the layout or behavior of a page. They are often utilized to define particular omissions or inclusions in the content, allowing for precise adjustments to the page's structure and presentation."
+}

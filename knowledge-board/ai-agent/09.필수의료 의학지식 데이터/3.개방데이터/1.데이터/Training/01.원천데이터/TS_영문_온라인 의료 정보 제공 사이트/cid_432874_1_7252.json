@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "432874_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "ENC1, also known as Ectoderm-Neural Cortex Protein 1, is a protein in humans encoded by the ENC1 gene. Function: DNA damage or hyperproliferative signals activate the wild-type p53 tumor suppressor protein (TP53; MIM 191170), which subsequently induces either cell cycle arrest or apoptosis. Mutations that inactivate p53 are found in approximately 50% of all tumors. In 1997, Polyak et al. utilized serial analysis of gene expression (SAGE) to assess cellular mRNA levels in a colorectal cancer cell line transfected with p53. Out of 7,202 transcripts identified, only 14 were expressed at levels more than 10-fold higher in p53-expressing cells compared to control cells. These genes were termed p53-induced genes (PIGs) by Polyak et al., and several of them were predicted to encode proteins involved in redox control. The researchers noted that reactive oxygen species (ROS) are potent inducers of apoptosis. Flow cytometric analysis demonstrated that p53 expression induces ROS production, which increases as apoptosis progresses under certain conditions. The authors identified that the PIG10 gene, also referred to as ENC1, encodes an actin-binding protein. Interactions: ENC1 has been shown to interact with the Retinoblastoma protein. Model Organisms: Model organisms have been employed to study the function of ENC1. A conditional knockout mouse line, named Enc1tm1a(EUCOMM)Wtsi, was generated at the Wellcome Trust Sanger Institute. Both male and female animals underwent a standardized phenotypic screen to evaluate the effects of ENC1 deletion."
+}

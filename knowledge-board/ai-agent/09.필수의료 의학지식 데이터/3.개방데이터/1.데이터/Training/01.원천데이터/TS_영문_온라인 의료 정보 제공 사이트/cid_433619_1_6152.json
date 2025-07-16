@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "433619_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The ID1 protein, also known as DNA-binding protein inhibitor ID-1, is a protein in humans encoded by the ID1 gene. The protein encoded by the ID1 gene belongs to the helix-loop-helix (HLH) family of proteins. It has the ability to form heterodimers with members of the basic HLH family of transcription factors. However, the ID1 protein itself lacks DNA-binding activity. As a result, it can inhibit the DNA-binding and transcriptional activation functions of the basic HLH proteins with which it interacts. This protein is thought to play a role in regulating cellular processes such as growth, senescence, and differentiation. Additionally, two transcript variants of the ID1 gene have been identified, which encode different isoforms of the protein. ID1 has been shown to interact weakly with MyoD, a tissue-restricted bHLH protein, but it binds very tightly to ubiquitously expressed E proteins. E proteins typically form heterodimers with tissue-restricted bHLH proteins, such as MyoD and NeuroD, to create active transcription complexes. By sequestering E proteins, ID proteins, including ID1, can inhibit tissue-specific gene expression across multiple cell lineages through a shared biochemical mechanism. Other proteins that interact with ID1 include CASK. Clinically, ID1 serves as a marker for endothelial progenitor cells, which are essential for tumor growth and angiogenesis. Targeting ID1 has been shown to reduce tumor growth, highlighting its potential as a therapeutic target in cancer treatment."
+}

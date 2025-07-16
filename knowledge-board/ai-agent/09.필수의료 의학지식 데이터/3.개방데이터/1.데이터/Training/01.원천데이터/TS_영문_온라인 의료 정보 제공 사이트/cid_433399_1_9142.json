@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "433399_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Selenoprotein T, commonly referred to as SELT, is a protein in humans that is encoded by the SELT gene. The amino acid selenocysteine is incorporated into this protein through the UGA codon, which typically functions as a stop signal during translation. However, in the case of selenoprotein genes, the 3' untranslated region (3' UTR) contains a conserved stem-loop structure known as the SECIS (selenocysteine insertion sequence). This SECIS element is essential for the cellular machinery to interpret the UGA codon as a signal for selenocysteine incorporation rather than as a termination codon. Selenoprotein T has a selenocysteine (Sec) residue located at its active site, which is critical for its biological function."
+}

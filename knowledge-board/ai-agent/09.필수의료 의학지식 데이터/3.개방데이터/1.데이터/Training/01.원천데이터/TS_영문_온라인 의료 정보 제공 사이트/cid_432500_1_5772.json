@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "432500_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "A titer, also known as a titre, is a measurement used to express the concentration of a specific substance detected through an analytical process. This measurement is derived from a titration procedure. Typically, the test is initially conducted on an undiluted sample. Subsequently, the sample is subjected to serial dilutions, where it is mixed with a diluent such as 100% water, saline, or another appropriate solution in repeated steps. If the test remains positive even after multiple dilutions, it indicates the presence of a high concentration of the detected substance. In many cases, tests yield positive results when performed on undiluted samples but quickly turn negative as the sample undergoes repeated dilutions. Such tests are only considered clinically significant if the titer is high, as low titers or results from undiluted samples may lack diagnostic relevance. To ensure accuracy, a control substance may be tested alongside the sample, and statistical methods are often employed to differentiate between positive and negative results. Interestingly, some samples may exhibit stronger reactions when diluted with a diluent. However, as further dilutions are performed, the reactions gradually diminish and eventually disappear when the sample is diluted to a point where no reaction occurs. This phenomenon is known as the prozone effect. Titer values are often expressed in terms of dilution ratios, such as 1:20, 1:40, 1:80, 1:160, or 1:320, or as fold dilutions (e.g., 2x, 10x)."
+}

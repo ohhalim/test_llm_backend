@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "416309_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "An objective in optics refers to the primary lens or mirror in optical instruments such as microscopes, telescopes, or cameras, which captures the initial light rays from the object being observed. This component is also known as the object lens, object glass, or objective glass. Microscope objectives are typically designed to be parfocal, meaning that when switching between lenses on a microscope, the sample remains in focus without requiring significant adjustments. These objectives are defined by two key parameters: magnification and numerical aperture. The magnification levels generally range from 7x to higher values, corresponding to focal lengths of approximately 40 mm to 2 mm, respectively. For applications requiring high magnification, an oil-immersion objective is necessary. This type of objective is specifically engineered to use a refractive index-matching oil to fill the air gap between the front element of the lens and the object being observed. This design allows the numerical aperture to exceed 1, thereby achieving greater resolution at high magnifications."
+}

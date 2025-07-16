@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "41540_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The website is viewed approximately 330,000 times daily, amounting to 120 million views annually. It is important to note that traffic tracking platforms such as Alexa and Compete.com do not account for the traffic volume processed through the unique Squid architecture employed by the system. Squid is a high-performance proxy server that also functions as an HTTP accelerator for web servers. In simpler terms, Squid operates by storing a copy of the web pages served by the web server. When the same page is requested again, Squid delivers the stored copy instead of requiring the web server to regenerate the page. This process, known as caching, significantly reduces the workload on the web server and provides a substantial performance improvement. However, hit counters and traffic tracking services do not include the hits processed by the various Squid caches in their metrics. This is particularly relevant for MediaWiki-based websites, which are entirely dynamically generated. By using Squid as an HTTP accelerator, these websites experience a significant boost in performance. For instance, large-scale websites like Wikipedia utilize multiple Squid caches to optimize their performance. MediaWiki has been specifically designed to integrate seamlessly with Squid to take full advantage of these performance benefits. For example, MediaWiki is capable of notifying Squid when a page needs to be purged from the cache, ensuring that the page is regenerated when necessary."
+}

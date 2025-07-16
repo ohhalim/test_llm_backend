@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "421082_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Slosh dynamics refers to the movement of a liquid within a container or object that is in motion. For a situation to be classified as a slosh dynamics problem, the liquid must possess a free surface. The motion of the liquid can interact with the dynamics of the container, potentially altering the behavior of the container in a significant manner. In practical applications, slosh dynamics is a critical consideration for aircraft and spacecraft. For instance, slosh was identified as a contributing factor in the issue encountered during the second test flight of the Falcon 1 rocket. Additionally, the principles of slosh dynamics are applied in other contexts, such as limiting the bounce of roller hockey balls. The presence of water inside the ball can substantially reduce its rebound height. However, certain quantities of liquid can induce a resonance effect, which may influence the ball's behavior. Many roller hockey balls available on the market are designed to contain water specifically to minimize their bounce height."
+}

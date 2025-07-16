@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "432739_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "CDK1, also referred to as CDC2, is a human gene that encodes a protein known as p34^cdk1. This protein is a cyclin-dependent kinase belonging to the Ser/Thr protein kinase family. It serves as the catalytic subunit of the highly conserved protein kinase complex called the maturation-promoting factor (MPF), which is critical for the transitions between the G1/S and G2/M phases of the eukaryotic cell cycle. Mitotic cyclins form stable associations with CDK1 and act as regulatory subunits. The kinase activity of CDK1 is tightly regulated by the accumulation and degradation of cyclins throughout the cell cycle. Additionally, the phosphorylation and dephosphorylation of CDK1 play essential roles in controlling the cell cycle. CDK1 is a key component of the MPF, which governs the cell division cycle in yeast. As a cyclin-dependent kinase, CDK1, when bound to cyclin B, enables a dividing cell to progress from the G2 phase into mitosis, provided that inhibitory proteins such as Wee1 are absent. Furthermore, CDK1 facilitates the transition from the G1 phase through the S phase in conjunction with cyclins A and E. In humans, the functions of CDC2 are distributed among its homologues, including CDK1, CDK2, CDK4, and CDK6. These kinases associate with different cyclins and regulate specific stage transitions during the cell cycle. Other cell division cycle genes, such as CDC2, CDC20, and CDC25, are also involved in intricate regulatory pathways that control various aspects of the cell cycle."
+}

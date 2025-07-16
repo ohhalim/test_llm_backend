@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "426505_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "SmartMatch is an advanced proprietary search engine specifically designed to intelligently analyze résumés and other relevant information about job applicants. It then matches this data with job descriptions to facilitate precise candidate-job alignment. The system was originally developed at Guru.com between 2001 and 2003 and was later acquired by Unicru in 2004. During its development phase, it was internally referred to by the codename Convex. The system is composed of three primary components: 1. Resume Parser: This component is capable of identifying and extracting the principal structural elements of English-language résumés, enabling the system to process and interpret the information effectively. 2. Domain-Specific Ontology: This feature allows the system to extract meaningful concepts from the parsed résumés. It provides a structured framework for understanding and categorizing the information within a specific professional or occupational domain. 3. Machine Learning Tools: These tools are designed to automatically expand and refine the ontology. By doing so, they enhance the system's ability to interpret and match data, ensuring continuous improvement in its performance and adaptability to new information."
+}

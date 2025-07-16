@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "495_2",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "cdc",
+    "creation_year": "null",
+    "content": "Foodborne disease surveillance plays a critical role in public health by enabling the detection of disease clusters and identifying issues in food production or distribution systems. This includes the monitoring of severe conditions such as hemolytic uremic syndrome and botulism. Clinical laboratories contribute to this process by forwarding selected patient isolates or other clinical materials to public health laboratories for further analysis. However, pathogen-specific surveillance has notable limitations. These include the restriction to diseases that are identified through routine testing and subsequently reported to public health agencies. Additionally, there is often a delay in detecting and following up on clusters due to the time required for various events to occur between a patient’s initial infection and their recognition as part of a disease cluster. The sensitivity of such surveillance systems is inherently low, which means that small outbreaks or those dispersed across time and geographic locations are more likely to go undetected. The higher the prevalence of a disease within a community, the more challenging it becomes to identify outbreaks of that disease. This is because distinguishing background cases from outbreak cases becomes increasingly difficult. For cases identified through pathogen-specific surveillance, it is essential to evaluate potential exposures that occurred within the typical incubation period of the disease in question."
+}

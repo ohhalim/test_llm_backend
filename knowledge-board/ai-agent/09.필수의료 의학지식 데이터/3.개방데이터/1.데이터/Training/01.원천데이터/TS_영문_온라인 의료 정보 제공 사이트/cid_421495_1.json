@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "421495_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Charles's law, a fundamental principle in thermodynamics and physical chemistry, is a specific case of the ideal gas law. The law was first formally published by Joseph Louis Gay-Lussac in 1802, although he credited earlier, unpublished work by Jacques Charles from approximately 1787. This historical attribution is why the law bears Charles's name. Additionally, the foundational ideas behind this relationship were anticipated by Guillaume Amontons as early as 1702. Charles's law, along with Boyle's law and Gay-Lussac's law, forms the basis of the combined gas law. When these three laws are further integrated with Avogadro's law, they collectively generalize into the ideal gas law. The mathematical expression of Charles's law is as follows: This relationship is directly proportional, meaning that as the temperature of the gas increases, its volume also increases. Conversely, as the temperature decreases, the volume of the gas decreases. Conversely, cooling the gas results in a proportional decrease in volume. Theoretically, as the temperature of a gas approaches absolute zero (0 Kelvin), its volume would also approach zero. However, this is a theoretical limit, as gases deviate from ideal behavior at extremely low temperatures."
+}

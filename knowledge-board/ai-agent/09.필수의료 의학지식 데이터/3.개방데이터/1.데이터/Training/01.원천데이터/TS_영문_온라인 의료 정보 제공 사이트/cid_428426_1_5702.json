@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "428426_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "A heat map is a visual tool that represents data graphically, where the values of a variable in a two-dimensional space are depicted using different colors. This method allows for an intuitive understanding of complex data patterns. A similar visualization technique is the treemap, which also organizes data in a structured and color-coded manner. In the context of biological research, heat maps are frequently employed to display data such as the states of various cells or samples derived from different patients. These data are often obtained through DNA microarray experiments, which analyze gene expression levels across multiple conditions or samples. Heat maps provide a clear and efficient way to interpret such high-dimensional data. Heat maps are also widely used in fields where data is highly dynamic or volatile, as their visual representation enhances usability and comprehension. For instance, the NASDAQ stock exchange utilizes heat maps to illustrate the volatility of the NASDAQ 100 index, offering a quick and effective way to assess market trends. Similarly, heat maps are applied in real estate to depict housing prices across different regions, enabling users to easily compare and analyze market conditions geographically."
+}

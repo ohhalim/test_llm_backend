@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "433068_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Kinesin light chain 1 (KLC1) is a protein encoded by the KLC1 gene in humans. Conventional kinesin is a tetrameric protein complex composed of two heavy chains and two light chains. This molecular motor is responsible for transporting various types of cargo along microtubules, specifically toward their plus ends. The heavy chains of kinesin provide the motor activity necessary for movement, while the light chains are responsible for binding to different types of cargo. The KLC1 gene encodes a member of the kinesin light chain family. The protein associates with kinesin heavy chains through its N-terminal domain. Additionally, it contains six tetratricopeptide repeat (TPR) motifs, which are believed to play a role in binding to specific cargo, such as vesicles, mitochondria, and components of the Golgi complex. As a result, kinesin light chains act as adapter molecules that mediate cargo binding rather than directly contributing to motor activity. Although KLC1 was previously referred to as kinesin 2, it is not a member of the kinesin-2 or kinesin heavy chain subfamily of motor proteins. The KLC1 gene undergoes extensive alternative splicing, resulting in the production of isoforms with different C-terminal regions. These isoforms are thought to bind to distinct types of cargo. However, the complete structure and functional roles of some of these variants remain undetermined. KLC1 has been shown to interact with several proteins, including MAPK8IP3, KIF5B, and KIF5A. These interactions likely contribute to its role in intracellular transport and cargo specificity."
+}

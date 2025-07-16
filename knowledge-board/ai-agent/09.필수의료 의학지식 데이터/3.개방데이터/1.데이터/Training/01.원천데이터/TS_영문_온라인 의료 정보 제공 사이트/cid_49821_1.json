@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "49821_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The negative predictive value (NPV) refers to the proportion of individuals who do not have a preclinical disease and receive a negative result when tested using a specific diagnostic method. The NPV is mathematically defined as the ratio of the number of true negatives to the sum of the number of true negatives and the number of false negatives. This can be expressed as: NPV = (Number of True Negatives) / (Number of True Negatives + Number of False Negatives). Alternatively, the NPV can also be calculated using the following formula: NPV = [(Specificity) × (1 Prevalence)] / {[(Specificity) × (1 Prevalence)] + [(1 Sensitivity) × (Prevalence)]}."
+}

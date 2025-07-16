@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "418423_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "A maintenance dose refers to the rate of drug administration that matches the rate of drug elimination when the drug has reached a steady state in the body. It is important to distinguish this from a dose regimen, which involves administering a drug at regular intervals on a repetitive basis as part of a therapeutic plan. To achieve a steady-state drug concentration, the maintenance dose is typically continued for approximately 4 to 5 half-lives (t½) of the drug. In some cases, therapy may begin with one or more doses that are higher than the maintenance dose, referred to as a loading dose. A loading dose is particularly beneficial for drugs that are eliminated from the body at a slow rate. These drugs generally require a low maintenance dose to maintain the appropriate drug concentration in the body. However, without an initial higher dose, it would take a prolonged period for the drug concentration to reach the desired therapeutic level. The maintenance dose can be calculated using specific pharmacokinetic parameters. For drugs administered intravenously, the bioavailability (F) is equal to 1, as the drug is directly introduced into the bloodstream. However, for orally administered drugs, the bioavailability is less than 1 due to factors such as incomplete absorption and first-pass metabolism. In such cases, a larger dose may be required to achieve the desired therapeutic effect."
+}

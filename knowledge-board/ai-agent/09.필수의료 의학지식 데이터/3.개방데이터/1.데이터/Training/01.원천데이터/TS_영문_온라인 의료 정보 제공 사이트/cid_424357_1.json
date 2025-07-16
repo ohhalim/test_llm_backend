@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "424357_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The provided text appears to be a snippet of JavaScript code, not a medical text. It seems to be related to a web development context, specifically using jQuery and MediaWiki's API. 1. When the document is fully loaded and ready, the script initializes a function. 2. It sets up an event listener for a click event on an HTML element with the ID `go`. 3. Upon clicking the `go` element, the script checks if the variable `wgAction` is equal to the string `view`. 4. If the condition is true, it logs the value of the variable `wgCategories` to the console. 5. The script then creates a new instance of the MediaWiki API object (`mw.Api()`). 6. It sends a GET request to the API with the following parameters: `action: 'query'`: This specifies that the API should perform a query action. `prop: 'categories'`: This requests the categories associated with a specific page. `titles: wgTitle`: This specifies the title of the page for which the categories are being queried. 7. Once the API request is successfully completed, the script logs the returned data to the console. This code is designed to interact with the MediaWiki platform, retrieve category information for a specific page, and display it in the browser's console for further use or debugging."
+}

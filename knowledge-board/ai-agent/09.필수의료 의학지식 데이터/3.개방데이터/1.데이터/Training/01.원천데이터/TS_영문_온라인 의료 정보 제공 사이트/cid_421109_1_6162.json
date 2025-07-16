@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "421109_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "A state variable is a specific element within the set of variables that define the condition or state of a dynamical system. In the context of simple mechanical systems, state variables typically include position coordinates and their derivatives, such as velocity or acceleration. In thermodynamic systems, examples of state variables include temperature, pressure, internal energy, enthalpy, and entropy. In the field of control systems engineering, as well as in other scientific and engineering disciplines, state variables are employed to represent the states of a general system. These variables are used to describe the state space of the system, which is a mathematical representation of all possible states the system can occupy. The relationships between the current state and output of a system, its current input, and its past states are described by what are known as state equations. For linear time-invariant systems, these state equations are expressed using coefficient matrices. These matrices, denoted as ( A ), ( B ), ( C ), and ( D ), have specific dimensions depending on the system. For example, ( A ) exists in the dimension ( mathbb{R}^{N times N} ), ( B ) in ( mathbb{R}^{N times L} ), ( C ) in ( mathbb{R}^{M times N} ), and ( D ) in ( mathbb{R}^{M times L} ). In digital systems, the state of the system at a discrete point in time is represented as ( x(n) ), where ( n ) refers to the specific discrete time step at which the system is being evaluated."
+}

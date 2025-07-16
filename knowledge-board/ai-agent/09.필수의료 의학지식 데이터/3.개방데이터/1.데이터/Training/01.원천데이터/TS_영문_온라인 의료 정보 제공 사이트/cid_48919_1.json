@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "48919_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The critical relative humidity (CRH) of a salt is the specific relative humidity of the surrounding atmosphere, at a given temperature, at which the salt begins to absorb moisture from the air. Below this threshold, the salt will not absorb atmospheric moisture. When the atmospheric humidity reaches or exceeds the CRH of a salt, the salt will absorb water until it dissolves completely, forming a saturated solution. Each water-soluble salt or salt mixture has a distinct critical relative humidity, which is a unique property of the material. For most salts, the CRH decreases as the temperature increases. For example, the CRH of ammonium nitrate decreases by 22% as the temperature rises from 0°C (32°F) to 40°C (104°F). At a temperature of 30°C, the critical relative humidities of various pure salts are listed in Table 1. When salts are combined into mixtures, the resulting CRH is typically lower than the CRH of either individual component. Table 2 provides data on the CRH of two-component salt mixtures at 30°C. The most notable example of this phenomenon is the mixture of ammonium nitrate and urea. This combination has an exceptionally low CRH, making it unsuitable for use in solid fertilizers. Instead, it is only viable in liquid fertilizer formulations, such as urea ammonium nitrate (UAN) solutions."
+}

@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "427272_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The font sizes available range from 1 to 7. By default, the standard font size is set to 3 unless explicitly modified using specific tags. To adjust the font size, you can enclose your text within appropriate tags that define the desired size."
+}

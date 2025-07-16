@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "421080_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Slater's Rules are a set of guidelines formulated by John C. Slater to provide an approximate calculation of the effective nuclear charge (Z) experienced by an electron in a multi-electron atom. The effective nuclear charge is determined using the formula Z = Z S, where Z represents the atomic number (the total number of protons in the nucleus) and S is the screening constant. The screening constant, S, accounts for the reduction in the nuclear charge experienced by an electron due to the repulsive effects of other electrons in the atom. To calculate the value of S, one must evaluate the contributions of electrons in different electron shells and subshells according to specific rules."
+}

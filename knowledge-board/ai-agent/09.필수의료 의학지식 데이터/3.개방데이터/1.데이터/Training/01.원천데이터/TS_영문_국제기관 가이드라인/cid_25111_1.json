@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "25111_1",
+    "domain": 2,
+    "source": 5,
+    "source_spec": "who",
+    "creation_year": "2023",
+    "content": "The corrigendum dated 14 August 2023 pertains to the consolidated guidelines on person-centered HIV strategic information, specifically focusing on strengthening routine data for impact. In Web Annex G, on page 11, Figure 11 represents data that is reflective of the clinic sampled. The viral load (VL) suppression indicator is based solely on individuals who had a VL test result available. Data for this indicator is reported in grey if it meets specific conditions. For all other Early Warning Indicators (EWIs), if 30% or more of the data is unavailable, a grey score is assigned, and no prevalence estimate is reported. This ensures that incomplete data does not lead to inaccurate prevalence estimations. The correction has been incorporated into the electronic file to ensure accuracy and consistency in the reporting and interpretation of the data."
+}

@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "417548_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "A selectable marker is a gene that is introduced into a cell, such as a bacterium or cultured cell, to confer a specific trait that allows for artificial selection. This gene enables researchers to identify and isolate cells that have successfully incorporated foreign DNA during experimental procedures. Selectable markers are commonly used in laboratory microbiology, molecular biology, and genetic engineering to assess the success of transfection or other DNA introduction techniques. An alternative to a selectable marker is a screenable marker, which allows researchers to distinguish between desired and undesired cells without necessarily killing the latter. Selectable markers, on the other hand, often involve antibiotic resistance genes. For example, the Neo gene derived from Tn5 confers resistance to the antibiotic geneticin, and the AbiCR gene is another example of a selectable marker. In practice, bacteria that have undergone a procedure to introduce foreign DNA are grown on a medium containing a specific antibiotic. Only those bacterial colonies that have successfully taken up and expressed the introduced genetic material will survive and grow in the presence of the antibiotic. This selective process ensures that only the desired genetically modified cells are retained for further study or application."
+}

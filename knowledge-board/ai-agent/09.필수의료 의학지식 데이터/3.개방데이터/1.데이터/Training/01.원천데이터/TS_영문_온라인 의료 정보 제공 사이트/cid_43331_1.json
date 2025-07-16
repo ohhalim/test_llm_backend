@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "43331_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Reference ranges are a set of values that healthcare professionals use to interpret medical test results. These ranges are typically defined as the values within which 95% of a healthy population falls. However, it is important to note that reference ranges can vary based on factors such as age, sex, race, and even the specific instruments or methodologies used by the laboratory conducting the tests. By definition, 5% of a healthy population may have results that fall outside the established reference range, even in the absence of disease. In clinical biochemistry, certain tests are grouped into panels such as CHEM-7 and CHEM-20. Tests marked with a specific symbol are included in both CHEM-7 and CHEM-20 panels, while others are exclusive to the CHEM-20 panel. For example, chloride and carbon dioxide are not explicitly listed in this context, and uric acid is part of the CHEM-20 panel but not CHEM-7. Hematology and immunology reference ranges are also used to interpret results in their respective fields, but specific details about these categories are not provided in the text."
+}

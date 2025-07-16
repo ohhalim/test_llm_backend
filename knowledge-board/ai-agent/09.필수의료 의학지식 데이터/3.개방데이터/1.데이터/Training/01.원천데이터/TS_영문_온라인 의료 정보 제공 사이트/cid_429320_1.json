@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "429320_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Fluence, in the context of physics, is defined as the number of particles that pass through or intersect a unit area. This concept is particularly significant in describing the intensity or strength of a radiation field and is considered one of the fundamental quantities in the field of dosimetry. Fluence can be defined in two equivalent ways: 1. Imagine an infinitesimally small sphere with a cross-sectional area denoted as da. If dN particles of a specific type strike this area, the fluence is mathematically expressed as: [ Phi = frac{{rm d}N}{{rm d}a} ] This equation represents the number of particles per unit area. 2. Alternatively, consider the same infinitesimally small sphere. In this case, fluence can also be defined as: [ Phi = frac{sum {rm d}ell}{{rm d}V} ] Here, dV represents the infinitesimal volume of the sphere, and (sum {rm d}ell) is the total sum of the path lengths of all particles that traverse through this volume. This definition emphasizes the relationship between the particles' trajectories and the volume they pass through."
+}

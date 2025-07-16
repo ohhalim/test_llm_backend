@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "433524_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "UPF2, also known as Regulator of Nonsense Transcripts 2, is a protein in humans encoded by the UPF2 gene. This protein is a component of a post-splicing multiprotein complex called the exon junction complex. It plays a critical role in both mRNA nuclear export and mRNA surveillance mechanisms. The mRNA surveillance process identifies exported mRNAs that contain truncated open reading frames and initiates nonsense-mediated mRNA decay (NMD). NMD is triggered when translation terminates upstream of the last exon-exon junction, leading to the degradation of mRNAs that harbor premature stop codons. This ensures the removal of defective mRNA transcripts. UPF2 is localized in the perinuclear region of the cell. It interacts with translation release factors and proteins that are functional homologs of the yeast proteins Upf1p and Upf3p. Two splice variants of the UPF2 gene have been identified, but both variants encode the same protein. In terms of molecular interactions, UPF2 has been demonstrated to interact with UPF1, UPF3A, and UPF3B. These interactions are essential for its role in the NMD pathway and maintaining the fidelity of gene expression."
+}

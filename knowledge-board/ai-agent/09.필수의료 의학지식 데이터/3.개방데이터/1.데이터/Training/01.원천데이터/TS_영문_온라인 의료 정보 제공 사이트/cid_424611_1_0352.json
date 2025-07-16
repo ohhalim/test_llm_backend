@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "424611_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Mohr's salt, also known as ammonium iron sulfate, is a double salt composed of iron sulfate and ammonium sulfate, with the chemical formula Fe(NH₄)₂(SO₄)₂·6H₂O. It is preferred over iron(II) sulfate for titration purposes because it is significantly less susceptible to oxidation by atmospheric oxygen compared to iron(II) sulfate. Solutions of iron(II) sulfate tend to oxidize to iron(III) sulfate when exposed to air. The oxidation of iron(II) in solution is highly dependent on pH, occurring more readily at higher pH levels. The ammonium ions present in Mohr's salt render its solutions slightly acidic, which inhibits this oxidation process. The acidity provided by the ammonium ions shifts the equilibrium of the oxidation reaction towards the iron(II) state, thereby stabilizing it. This stabilization can be explained by the presence of protons (H⁺), which maintain the equilibrium on the side of Fe(II), preventing its conversion to Fe(III). The relevant chemical equilibrium is influenced by the acidic environment created by the ammonium ions. Mohr's salt is named after the German chemist Karl Friedrich Mohr, who made significant contributions to the development of titration techniques during the 19th century."
+}

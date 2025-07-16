@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "428939_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Acyclic refers to the following: In the field of chemistry, an acyclic compound is one that does not contain a cyclic structure. Examples of such compounds include alkanes and other acyclic aliphatic compounds. In mathematics, a directed acyclic graph (DAG) is a graph that has directed edges and contains no cycles, meaning there is no way to start at one vertex and return to it by following the directed edges. In the context of algebraic topology, a chain complex is described as acyclic if all of its reduced homology groups are zero, indicating that the complex has trivial homology."
+}

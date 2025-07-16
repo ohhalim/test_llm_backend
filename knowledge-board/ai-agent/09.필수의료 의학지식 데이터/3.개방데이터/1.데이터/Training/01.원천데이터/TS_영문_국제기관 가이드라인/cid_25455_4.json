@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "25455_4",
+    "domain": 2,
+    "source": 5,
+    "source_spec": "who",
+    "creation_year": "2023",
+    "content": "1. Data systems that are completely separate and unable to share information with one another. 2. Electronic data systems that have the capability to extract and share data, but only on a non-routine basis. 3. Fully interoperable data systems that are routinely linked to health data, vital statistics, migration data, and other relevant datasets. These systems are particularly useful for tracking individuals who are lost to follow-up or for similar purposes. 4. General information for site visits: Site visitor: [Name of the visitor] Date of visit: [Insert date] Site: [Insert site name] Type of site: [Specify type of site] 5. Upon arrival at the site: Greet the person in charge of the facility. If you have not previously met them in person, introduce yourself. Express your gratitude for their willingness to allow you to visit their facility to observe HIV surveillance or patient monitoring activities. Provide a concise overview of the purpose of the SWOT (Strengths, Weaknesses, Opportunities, Threats) assessment. 6. Debriefing form for stakeholders: Present the key findings from the SWOT analysis. Share the priority action plan that has been developed based on the analysis."
+}

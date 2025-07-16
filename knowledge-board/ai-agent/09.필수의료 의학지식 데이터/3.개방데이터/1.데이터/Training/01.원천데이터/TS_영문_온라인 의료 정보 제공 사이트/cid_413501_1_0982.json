@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "413501_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The Stubbs Iron Wire Gauge system, also referred to as the Birmingham Wire Gauge, is a measurement system utilized in the medical field to determine the diameter of hypodermic needles, catheters, and suture wires. This system was originally developed in early 19th-century England for wire manufacturing purposes. It began to be adopted in medical applications during the early 20th century. The Stubbs system holds historical significance as it was the first wire gauge system to be officially recognized as a standard by any nation, with Great Britain adopting it in 1884. The increments between each gauge roughly correspond to multiples of 0.01 inches. However, the system is not truly linear, as evidenced by the variations seen in needle gauge comparison charts. In this system, the relationship between the gauge number and the diameter is inversely proportional. This means that as the gauge number increases, the diameter of the needle becomes narrower. Another widely used gauge system in medical practice is the French catheter scale. A commonly used approximation for medical needles is that the diameter, measured in inches, is approximately equal to the reciprocal of the gauge number. The needle wire gauge system itself was derived from the Stubbs Iron Wire Gauge."
+}

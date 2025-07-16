@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "433077_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "KNL1, also known as kinetochore scaffold 1 or CASC5, is a protein encoded by the KNL1 gene in humans. Function: KNL1 is a critical component of the outer kinetochore, a structure essential for chromosome segregation during cell division. It is part of the KMN protein network, which also includes MIS12 and NDC80. KNL1 plays a pivotal role in attaching microtubules to chromosome centromeres and is involved in the activation of the spindle assembly checkpoint during mitosis, ensuring proper chromosome alignment and segregation. Additionally, the CASC5 gene is upregulated in regions of active cell proliferation surrounding the ventricles during fetal brain development, highlighting its importance in neurodevelopment. Interactions: CASC5 has been shown to interact with several key proteins, including MIS12, BUB1, BUBR1, and ZWINT-1. These interactions are crucial for the assembly and function of the kinetochore complex. Polymorphisms: Homozygous polymorphisms in the CASC5 gene have been identified in patients with autosomal recessive primary microcephaly (MCPH), a condition characterized by reduced brain size and intellectual disability. These mutations result in the skipping of exon 18 during transcription, leading to a frameshift and the production of a truncated protein. This truncated form of the protein is unable to bind to MIS12, thereby disrupting kinetochore function and contributing to the pathogenesis of MCPH."
+}

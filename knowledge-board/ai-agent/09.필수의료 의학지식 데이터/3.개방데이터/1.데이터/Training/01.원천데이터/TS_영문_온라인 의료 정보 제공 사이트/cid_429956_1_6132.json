@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "429956_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "To insert a YouTube video, follow these steps: 1. Log in to your YouTube account. 2. Upload the desired video to your YouTube account. 3. Locate the URL of the uploaded video. This can be found on the right-hand side of the video page on YouTube. For example, the URL might look like this: `https://www.youtube.com/watch?v=example`. 4. Copy the exact sequence of letters and numbers from the video’s web address. 5. Paste this sequence into your WikiDoc page using the appropriate embedding code. Ensure that you follow the syntax provided and include a space between the word youtube and the letter v in the code. If the space is omitted, the embedding will not function correctly. To insert a Twitter video, follow these steps: 1. Copy the web address (URL) of the tweet that contains the video. For example, the URL might look like this: `https://twitter.com/example/status/123456789`. 2. Replace the placeholder URL in the provided syntax with the actual web address of the tweet. Use the correct embedding format to ensure the video is displayed properly."
+}

@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "417075_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The first-pass effect, also known as first-pass metabolism, refers to a pharmacokinetic phenomenon in which the concentration of a drug is significantly reduced before it enters the systemic circulation. When a drug is administered orally, it is absorbed through the digestive system and subsequently enters the hepatic portal circulation. From there, the drug is transported via the portal vein to the liver before it can reach the rest of the body. Within the liver, the drug undergoes extensive metabolism, often mediated by hepatic enzymes. In some cases, this metabolism is so extensive that only a small fraction of the active drug remains available to enter the systemic circulation. As a result, the bioavailability of the drug—defined as the proportion of the drug that reaches the systemic circulation in an active form—is greatly diminished. To bypass the first-pass effect, alternative routes of drug administration can be employed. These include intravenous (IV), intramuscular (IM), and sublingual routes, all of which allow the drug to directly enter the systemic circulation without first passing through the liver. The first-pass effect is influenced by four primary systems: enzymes present in the gastrointestinal lumen, enzymes within the gut wall, bacterial enzymes in the gastrointestinal tract, and hepatic enzymes. Each of these systems contributes to the metabolic breakdown of the drug before it reaches the systemic circulation."
+}

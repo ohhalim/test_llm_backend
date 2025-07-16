@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "431802_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The operation of the ISFET is based on the principle that changes in ion concentration, such as variations in pH, result in corresponding changes in the current flowing through the transistor. In this system, the solution itself functions as the gate electrode. A voltage is generated between the substrate and the oxide surfaces due to the formation of an ion sheath at the interface. The hydrolyzation of hydroxyl (OH) groups on the surface of the gate material changes depending on the pH of the aqueous solution. Common materials used for the gate include silicon nitride (Si₃N₄), aluminum oxide (Al₂O₃), and tantalum pentoxide (Ta₂O₅). The source and drain regions of an ISFET are constructed in a manner similar to those of a MOSFET (metal-oxide-semiconductor field-effect transistor). However, the gate electrode in an ISFET is unique in that it is separated from the channel by a barrier that is sensitive to hydrogen ions. Additionally, there is a gap that allows the test substance to come into direct contact with this ion-sensitive barrier. The threshold voltage of an ISFET is influenced by the pH of the substance in contact with its ion-sensitive barrier."
+}

@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "432784_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "CUL1, also referred to as Cullin 1, is a human protein and gene that belongs to the cullin family. This protein is critically involved in the processes of protein degradation and ubiquitination, which are essential for maintaining cellular homeostasis. CUL1 is a core component of the SCF (SKP1-CUL1-F-box protein) E3 ubiquitin ligase complex. This complex facilitates the ubiquitination of target proteins that regulate key cellular processes, including cell cycle progression, signal transduction, and transcription. Within the SCF complex, CUL1 functions as a rigid scaffold, organizing the SKP1-F-box protein and RBX1 subunits. It may also contribute to the catalytic activity of the complex by appropriately positioning the substrate and the ubiquitin-conjugating enzyme. CUL1 is part of an SCF complex that includes CUL1, RBX1, SKP1, and SKP2. Additionally, it interacts with RNF7 and forms a complex with TIP120A/CAND1 and RBX1. The un-neddylated form of CUL1 interacts with TIP120A/CAND1, and this interaction negatively regulates its association with SKP1 in the SCF complex. CUL1 also interacts with COPS2. CUL1 is expressed in lung fibroblasts and undergoes neddylation, a post-translational modification that enhances the ubiquitination activity of the SCF complex. Conversely, it is deneddylated through its interaction with the COP9 signalosome (CSN) complex, which regulates its activity. This protein plays a pivotal role in cellular regulation by modulating the activity of the SCF complex and ensuring proper protein turnover, which is vital for cell cycle control and other critical cellular functions."
+}

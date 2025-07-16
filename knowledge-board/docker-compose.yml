@@ -1,0 +1,107 @@
+services:
+  # PostgreSQL 데이터베이스
+  postgres:
+    image: postgres:15
+    container_name: knowledge_board_postgres
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: knowledge_board
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - knowledge_board_network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U user -d knowledge_board"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ChromaDB 벡터 데이터베이스
+  chromadb:
+    image: chromadb/chroma:latest
+    container_name: knowledge_board_chromadb
+    ports:
+      - "8000:8000"
+    environment:
+      - CHROMA_SERVER_HOST=0.0.0.0
+      - CHROMA_SERVER_HTTP_PORT=8000
+    volumes:
+      - chromadb_data:/chroma
+    networks:
+      - knowledge_board_network
+
+  # Backend API 서비스
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: knowledge_board_backend
+    ports:
+      - "8080:8000"
+    environment:
+      - DATABASE_URL=postgresql://user:password@postgres:5432/knowledge_board
+      - SECRET_KEY=your-secret-key-here
+      - ALGORITHM=HS256
+      - ACCESS_TOKEN_EXPIRE_MINUTES=30
+    depends_on:
+      postgres:
+        condition: service_healthy
+    volumes:
+      - ./backend:/app
+    networks:
+      - knowledge_board_network
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+
+  # AI Agent 서비스
+  ai-agent:
+    build:
+      context: ./ai-agent
+      dockerfile: Dockerfile
+    container_name: knowledge_board_ai_agent
+    ports:
+      - "8081:8001"
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - CHROMA_HOST=chromadb
+      - CHROMA_PORT=8000
+      - AI_AGENT_PORT=8001
+    depends_on:
+      - chromadb
+    volumes:
+      - ./ai-agent:/app
+    networks:
+      - knowledge_board_network
+    command: uvicorn main:app --host 0.0.0.0 --port 8001 --reload
+
+  # Frontend 서비스 (개발 모드)
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile.dev
+    container_name: knowledge_board_frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - REACT_APP_API_BASE_URL=http://localhost:8080
+      - REACT_APP_AI_AGENT_URL=http://localhost:8081
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    networks:
+      - knowledge_board_network
+    command: npm start
+    stdin_open: true
+    tty: true
+
+volumes:
+  postgres_data:
+    driver: local
+  chromadb_data:
+    driver: local
+
+networks:
+  knowledge_board_network:
+    driver: bridge

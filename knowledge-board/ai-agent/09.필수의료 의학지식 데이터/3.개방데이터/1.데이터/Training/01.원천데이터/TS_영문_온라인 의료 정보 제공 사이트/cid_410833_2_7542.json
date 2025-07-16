@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "410833_2",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Intravenous antimicrobial agents are evaluated using dilution techniques, which are quantitative methods designed to determine the minimum inhibitory concentrations (MICs) of these agents. MICs represent the lowest concentration of an antimicrobial compound required to inhibit the visible growth of bacteria, providing a measure of bacterial susceptibility to the antimicrobial agent. Standardized procedures for determining MICs are based on dilution methods, such as broth dilution for Haemophilus influenzae, or equivalent methods. These procedures utilize a standardized inoculum concentration and standardized concentrations of amoxicillin/clavulanate potassium powder to ensure consistency and accuracy in testing. The recommended dilution pattern involves maintaining a constant ratio of amoxicillin to clavulanate potassium at 2:1 across all test tubes, while varying the concentration of amoxicillin. MICs are reported based on the concentration of amoxicillin in the presence of clavulanic acid, with the ratio consistently maintained at 2 parts amoxicillin to 1 part clavulanic acid. The MIC values obtained from these tests must be interpreted according to established criteria provided in the relevant guidelines or references."
+}

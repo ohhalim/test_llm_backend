@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "432656_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "BL22, also referred to as CAT-3888 or GCR-3888, is an immunotoxin specifically designed to target and eliminate B cells upon internalization. This agent has potential therapeutic applications in the treatment of B cell leukemias and lymphomas. Technically, BL22 is an anti-CD22 immunotoxin fusion protein. It consists of a murine anti-CD22 disulfide-linked Fv (dsFv) antibody fragment fused to a modified version of the bacterial Pseudomonas exotoxin PE38. The toxin component becomes activated intracellularly within the acidic environment of the lysosome, into which the entire protein is internalized via the CD22 receptor. Once activated, the toxin exerts its cytotoxic effect by inactivating ribosomes, ultimately leading to the death of the targeted B cell. BL22 shares significant similarities with a newer variant, HA22, which incorporates a single amino acid modification in the antibody fragment to enhance its binding affinity to the target molecule. Both BL22 and HA22 are engineered to bind specifically to the CD22 receptor expressed on the surface of B cells. The early development of BL22 was supported by funding from the California-based biotechnology company Genencor. Subsequently, the rights to this potential therapeutic agent were acquired by Cambridge Antibody Technology (CAT) at the end of 2005. Less than a year later, CAT itself was purchased by the British pharmaceutical company AstraZeneca."
+}

@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "45998_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The content on the patient information page should be written at a 5th or 6th-grade educational level to ensure accessibility and comprehension for a broad audience. To maintain consistency, patient information pages follow a standardized structure. For the purpose of this tutorial, the pericarditis page will be used as an example to demonstrate how to structure these pages. At the top of each patient information page, there is a template. This template is essentially a computer program that facilitates navigation to and from selected physician pages. The template is enclosed in brackets and appears in a specific format. The next line of code on the page directs interested readers to the corresponding physician page on WikiDoc. For example, using the pericarditis page, the code would include a link that states: For the WikiDoc page for this topic, click here. To ensure consistency, the following topics are typically included on each patient information page: When to seek urgent medical care Treatment options Where to find medical care for the condition (e.g., pericarditis) What to expect in terms of outlook or prognosis Possible complications Sources of information To assist in creating patient information pages, valuable copyleft content can be sourced from reliable platforms such as the National Library of Medicine's MedlinePlus and other government websites like the CDC. These resources help ensure that the patient page is comprehensive and accurate."
+}

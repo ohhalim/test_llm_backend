@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "428271_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "In mathematics, two sets are considered disjoint if they do not share any elements. For instance, the sets {1, 2, 3} and {4, 5, 6} are disjoint because they have no elements in common. To define this more formally, two sets A and B are disjoint if their intersection is the empty set. In other words, there are no elements that belong to both A and B simultaneously. This concept can be extended to a collection of sets. A collection of sets is described as pairwise disjoint (or mutually disjoint) if every two distinct sets within the collection are disjoint. Formally, let I represent an index set, and for each i in I, let Ai denote a set. The family of sets {Ai : i ∈ I} is pairwise disjoint if, for any two indices i and j in I where i ≠ j, the sets Ai and Aj are disjoint. For example, the collection of sets {{1}, {2}, {3}} is pairwise disjoint because no two sets in this collection share any elements. If a collection of sets {Ai} is pairwise disjoint and contains at least two sets, then the intersection of all the sets in the collection is necessarily empty. However, the reverse is not always true. For example, consider the collection of sets {{1, 2}, {2, 3}, {3, 1}}. The intersection of all these sets is empty, meaning there is no single element common to all of them. Despite this, the collection is not pairwise disjoint because no two sets in this collection are disjoint; each pair of sets shares at least one element. A partition of a set X is defined as a collection of non-empty subsets {Ai : i ∈ I} of X such that the subsets {Ai} are pairwise disjoint."
+}

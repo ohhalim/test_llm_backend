@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "22086_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "ADA",
+    "creation_year": "2024",
+    "content": "Certain substances, such as acetaminophen, ascorbic acid, and hydroxyurea, have been demonstrated to interfere with the accuracy of continuous glucose monitoring (CGM) readings on specific devices. This interference can result in falsely elevated glucose readings, which may lead to inappropriate clinical decisions if not identified. For individuals utilizing CGM systems, it is essential to regularly review all medications and supplements being taken, as these may contribute to inaccuracies in glucose monitoring. The American Diabetes Association (ADA) highlights the importance of being aware of substances that can affect CGM accuracy, as these effects can vary across different CGM models. To mitigate the risk of erroneous glucose readings, it is strongly recommended to cross-check CGM data with blood glucose meter (BGM) measurements, particularly when using medications or supplements known to interfere with CGM performance. This practice ensures more reliable glucose management and reduces the likelihood of misinterpretation of glucose levels."
+}

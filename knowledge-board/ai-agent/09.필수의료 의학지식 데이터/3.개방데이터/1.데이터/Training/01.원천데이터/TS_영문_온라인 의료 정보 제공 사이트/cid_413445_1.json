@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "413445_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The code provided appears to calculate a score based on certain conditions and then assigns a corresponding risk percentage based on the score. 1. The score starts at 0. 2. For each condition that is met (represented by `document forms checked == 1`), specific points are added to the score: The first condition adds 3 points to the score. The second condition adds 2 points to the score. The third condition adds 2 points to the score. The fourth condition adds 2 points to the score. The fifth condition adds 1 point to the score. The sixth condition adds 1 point to the score. The seventh condition adds 1 point to the score. The eighth condition adds 2 points to the score. 3. After calculating the total score, the corresponding risk percentages are assigned based on the score: If the score is 0, the risk is 0.4% at 35–42 days and 0.5% at 77 days. If the score is 1, the risk is 0.6% at 35–42 days and 0.7% at 77 days. If the score is 2, the risk is 0.8% at 35–42 days and 1.0% at 77 days. If the score is 3, the risk is 1.2% at 35–42 days and 1.4% at 77 days. If the score is 4, the risk is 1.6% at 35–42 days and 1.9% at 77 days. If the score is between 5 and 10 (inclusive), the risk is 2.2% at 35–42 days and 2.7% at 77 days."
+}

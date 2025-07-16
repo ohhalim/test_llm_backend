@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "421441_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The provided text appears to be a mix of CSS styling, JavaScript code, and some fragmented instructions or messages. 1. The background position of the element is set to coordinates (0px, 0px). 2. A container element, identified as `tableContainer`, is configured to have a vertical scroll bar (`overflow-y: scroll`) and a height of 300 pixels. 3. The `metrics` element is styled to occupy 80% of the width and aligns its text to the center. 4. Within the `tableContainer`, individual cells are styled to have a width of 20%, text aligned to the center, and displayed as inline-block elements. 5. A span element within the `tableContainer` is set to occupy 100% of the width. 6. A function is defined to process an array of values. This function calculates the exponential moving average (EMA) based on a specified half-life. The function returns an array containing the EMA values at each point in the input array. 7. The calculation of exponential weights for each time point involves using the formula `pow(half_life, i j 1)`. These weights are stored in a variable named `exp_weights`. 8. The function iterates through the input array, multiplying the weights by the corresponding scores and summing these products. The total weight sum is also calculated during this process. 9. If the object `wgUserName` is empty, an alert is triggered, prompting the user to log in to continue. The alert message includes additional information about selected categories (Cardiology, Oncology) and subcategories (Pharmacology), and it encourages the user to resume the examination."
+}

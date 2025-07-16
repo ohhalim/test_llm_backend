@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "427176_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The Enzyme Commission number, commonly referred to as the EC number, is a numerical classification system specifically designed for enzymes. This system categorizes enzymes based on the chemical reactions they catalyze. Each EC number is associated with a recommended name for the corresponding enzyme, serving as a standardized nomenclature system. However, it is important to note that EC numbers do not identify specific enzymes but rather the reactions they catalyze. If multiple enzymes, even from different organisms, catalyze the same reaction, they are assigned the same EC number. In contrast, UniProt identifiers uniquely specify a protein based on its amino acid sequence. The format of an EC number consists of the prefix EC followed by four numbers separated by periods. These numbers represent progressively finer levels of classification for the enzyme. For example, enzymes classified under the fourth level are those that cleave the amino-terminal end from a tripeptide. The enzyme nomenclature system was first developed in 1955 when the International Congress of Biochemistry, held in Brussels, established an Enzyme Commission. The first version of this classification system was published in 1961. The current sixth edition, published in 1992 by the International Union of Biochemistry and Molecular Biology, includes a total of 3,196 distinct enzymes."
+}

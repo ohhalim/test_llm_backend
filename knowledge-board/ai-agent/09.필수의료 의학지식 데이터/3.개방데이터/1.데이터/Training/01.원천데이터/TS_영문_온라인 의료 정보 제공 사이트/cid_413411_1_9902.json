@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "413411_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The rate-determining step (RDS) is defined as the slowest step in a chemical reaction mechanism. It acts as a bottleneck, much like the neck of a funnel, where the rate at which water flows through the funnel is controlled by the narrowest part of the neck, rather than the speed at which water is poured into the funnel. Similarly, the overall rate of a chemical reaction is governed by the rate of its slowest step. For instance, consider the reaction: NO₂(g) + CO(g) → NO(g) + CO₂(g). This reaction can be broken down into two elementary steps: 1. NO₂ + NO₂ → NO + NO₃ (slow step) 2. NO₃ + CO → NO₂ + CO₂ (fast step). In this case, the second step depends on the NO₃ produced in the first, slower step. As a result, the overall reaction rate is limited by the rate of the first step. Consequently, the rate-determining step is reflected in the rate equation of the reaction. Another example of a rate-determining step is the formation of a carbocation intermediate during the second-order nucleophilic substitution (SN1) reaction of tertiary haloalkanes with sodium hydroxide. The slow formation of the carbocation intermediate dictates the overall reaction rate. The concept of the rate-determining step is crucial for understanding and optimizing various chemical processes, including catalysis and combustion. On a reaction coordinate diagram, the transition state with the highest energy corresponds to the rate-determining step of the reaction."
+}

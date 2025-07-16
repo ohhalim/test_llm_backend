@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "416534_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The therapeutic window, also referred to as the pharmaceutical window, is a critical parameter used to determine the appropriate dosage of a drug that can effectively treat a disease while remaining within a safe range. It represents the range of drug dosages between the minimum amount required to achieve a therapeutic effect (effective dose) and the amount at which adverse effects outweigh the desired therapeutic effects. For example, drugs with a narrow therapeutic window require meticulous administration and monitoring. Such drugs are particularly prone to losing their therapeutic efficacy or causing harmful side effects if the dosage deviates even slightly from the optimal range. More precisely, the therapeutic window is defined as the range between the median effective dose (ED50) and the point at which the lethal dose (LD50) curve begins. This parameter is considered highly valuable in clinical practice as it helps minimize the risk of potential side effects associated with drug therapy. This makes it a more practical and individualized tool for ensuring both the safety and efficacy of pharmacological treatments."
+}

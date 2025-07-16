@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "430746_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Proline-rich membrane anchor 1 (PRiMA) is a protein encoded by the PRIMA1 gene in humans. PRiMA is responsible for organizing acetylcholinesterase (AChE) into tetrameric structures and anchoring these tetramers to the membranes of neural cells. This anchoring process is mediated by the proline-rich anchor domain (PRAD) of PRiMA, which binds the tetrameric AChE to the plasma membrane of neural cells and muscle cells (myocytes). The PRAD specifically interacts with the C-terminal T-peptide of AChE to facilitate this anchoring. PRiMA plays a critical role in directing AChE to the cell surface. In neuroblastoma cells, PRiMA is considered the limiting factor in this targeting process, meaning its availability directly influences the localization of AChE. Both humans and mice express PRiMA in two alternative splice variants, which differ in the structure of their cytoplasmic regions. Clinically, the degradation or dysfunction of AChE has been associated with the severity of neurodegenerative diseases, such as Alzheimer’s disease."
+}

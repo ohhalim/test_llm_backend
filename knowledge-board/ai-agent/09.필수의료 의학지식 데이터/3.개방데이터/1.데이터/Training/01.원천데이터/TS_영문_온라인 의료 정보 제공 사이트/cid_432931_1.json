@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "432931_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "FiO2, or the fraction of inspired oxygen, refers to the proportion of oxygen in the gas mixture that a person inhales. It is represented as a value between 0 (0%) and 1 (100%). For example, the FiO2 of normal ambient air is 0.21, or 21%. In clinical settings, a patient's FiO2 can be adjusted using various devices, such as Venturi masks, which allow for precise control of oxygen delivery by altering oxygen flow rates. Additionally, mechanical ventilators are equipped with controls that enable healthcare providers to modify the FiO2 to meet the patient’s oxygenation needs. This is particularly important in conditions such as acute lung injury, sepsis, pneumonia, congestive heart failure, or other cardiopulmonary diseases, as well as in patients recovering from major surgery. A common misconception is that FiO2 changes with altitude. However, FiO2 remains constant at 0.21 (21%) regardless of elevation. This can lead to hypoxia, a condition where tissues are deprived of adequate oxygen."
+}

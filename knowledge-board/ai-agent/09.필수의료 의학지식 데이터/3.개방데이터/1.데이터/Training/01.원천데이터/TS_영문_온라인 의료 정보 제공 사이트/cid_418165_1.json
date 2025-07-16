@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "418165_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The nth factorial moment of a probability distribution, or equivalently the nth factorial moment of a random variable ( X ) that follows this probability distribution, is defined mathematically as follows: The falling factorial, denoted as ( (x)_n ), represents the product ( x(x-1)(x-2)...(x-n+1) ). It is important to note that this notation can sometimes lead to confusion because the same symbol, ( (x)_n ), is also used in other mathematical contexts, such as in the theory of special functions, to represent the rising factorial ( x(x+1)(x+2)...(x+n-1) ). However, in the context of combinatorics and factorial moments, the falling factorial is the standard interpretation. For instance, if the random variable ( X ) follows a Poisson distribution with an expected value ( lambda ), the nth factorial moment of ( X ) is given by a specific formula derived from the properties of the Poisson distribution."
+}

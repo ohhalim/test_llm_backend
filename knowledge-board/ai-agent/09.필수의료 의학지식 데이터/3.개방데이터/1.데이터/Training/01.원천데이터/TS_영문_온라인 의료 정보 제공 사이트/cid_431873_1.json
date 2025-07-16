@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "431873_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "It is a derived unit within the International System of Units (SI) and is specifically employed to quantify the catalytic activity of enzymes and other catalysts. This unit was introduced to replace the non-SI enzyme unit, although enzyme units remain more widely used in practical applications, particularly in the field of biochemistry. It is important to note that the katal is not utilized to describe the rate of a chemical reaction. Reaction rates are instead expressed in terms of moles per second. The katal, on the other hand, is used to represent the intrinsic catalytic activity of a catalyst, which is a fundamental property of the catalyst itself. Consequently, to accurately define the catalytic activity of a substance, it is necessary to specify the rate of conversion for a particular chemical reaction, ideally a first-order reaction, under rigorously controlled conditions. For instance, one katal of the enzyme trypsin corresponds to the amount of trypsin that catalyzes the cleavage of one mole of peptide bonds per second under defined experimental conditions. The katal is formally defined as one mole per second (kat = mol/s). The term katal has been in use for several decades, but it was officially recognized as an SI unit in 1999."
+}

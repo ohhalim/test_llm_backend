@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "419738_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The term position effect refers to the influence on gene expression that occurs when the gene's location within a chromosome is altered, often as a result of chromosomal translocation. This phenomenon has been extensively studied in Drosophila melanogaster (fruit flies) in relation to eye color, where it is specifically referred to as position effect variegation (PEV). In this context, the phenotype is characterized by unstable gene expression, which leads to the red eye coloration. In mutant flies, the eyes typically exhibit a mottled appearance, with sectors of white and red. These phenotypic changes are frequently caused by a chromosomal translocation that places the eye color gene in close proximity to a region of heterochromatin. Heterochromatin, which is transcriptionally inactive, can stochastically spread and silence the eye color gene, resulting in the white eye sectors observed in the phenotype. The term position effect is also used to describe the variability in gene expression observed in identical transgenes that are inserted into different regions of a genome. In such cases, the differences in expression are often attributed to the influence of enhancers that regulate nearby genes. These local enhancers can also impact the expression pattern of the transgene. Since each transgenic organism has the transgene inserted at a unique genomic location, each organism has the potential to exhibit a distinct expression pattern for the transgene."
+}

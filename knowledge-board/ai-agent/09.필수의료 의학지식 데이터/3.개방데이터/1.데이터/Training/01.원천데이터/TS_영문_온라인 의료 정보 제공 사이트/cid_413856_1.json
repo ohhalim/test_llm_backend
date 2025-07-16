@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "413856_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The critical temperature (Tc) of a material is the specific temperature above which the distinct liquid and gas phases of the material cease to exist. As the critical temperature is approached, the physical properties of the gas and liquid phases converge, resulting in a single phase known as a supercritical fluid. For many pure substances, critical properties are well-documented and readily available in scientific literature. However, determining the critical properties of mixtures is more complex. In the context of superconductivity, the term critical temperature refers to the temperature below which a material transitions into a superconducting state, characterized by zero electrical resistance. In construction, the critical temperature is the temperature above which structural steel loses its mechanical strength and can no longer adequately support loads. This critical temperature, which typically ranges between 500°C and 560°C depending on regional standards, is a key consideration in passive fire protection systems. Ensuring that structural steel components remain below this temperature is essential for maintaining the integrity of buildings and critical infrastructure during fire events. At this critical point, the following relationship holds true: [ left( frac{partial P}{partial V} right)_T = 0 quad text{and} quad left( frac{partial^2 P}{partial V^2} right)_T = 0 ] This mathematical relationship can be used to derive two parameters for an equation of state based on the critical properties of the substance."
+}

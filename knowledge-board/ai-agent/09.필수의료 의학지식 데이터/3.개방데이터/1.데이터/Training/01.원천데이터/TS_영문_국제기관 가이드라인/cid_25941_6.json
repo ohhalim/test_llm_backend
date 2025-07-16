@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "25941_6",
+    "domain": 2,
+    "source": 5,
+    "source_spec": "Medscape",
+    "creation_year": "null",
+    "content": "Tecovirimat, a weak inducer of the hepatic and intestinal enzyme CYP3A4, can reduce the plasma levels or pharmacological effects of drugs metabolized by this enzyme. This includes medications such as tofacitinib, tolterodine, tolvatpan, toremifene, trabectedin, tramadol, trazodone, triazolam, trimethoprim, and others. When co-administered, it is essential to monitor the effectiveness of these drugs closely, as their therapeutic efficacy may be compromised. Additionally, tecovirimat can increase the levels or effects of drugs metabolized by CYP2C19, such as treprostinil, tretinoin, trimipramine, velpatasvir, voriconazole, and others. This occurs due to its weak inhibitory action on CYP2C19 and CYP2C8 enzymes. In such cases, monitoring for potential adverse effects is recommended. For drugs like voriconazole, tecovirimat may both increase and decrease their levels depending on the metabolic pathway involved (CYP2C19 or CYP3A4). This dual effect necessitates careful monitoring and dose adjustments as needed. Tecovirimat's interaction with immunosuppressive agents, such as ublituximab, may increase the risk of infections due to its immunosuppressive effects. Caution and close monitoring are advised in these scenarios. In summary, tecovirimat's influence on hepatic and intestinal enzymes, particularly CYP3A4 and CYP2C19, necessitates careful monitoring of co-administered drugs to ensure therapeutic efficacy and minimize adverse effects."
+}

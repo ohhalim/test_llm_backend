@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "413501_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "This system was originally created in England during the early 19th century for the purpose of wire manufacturing. Its application in medical contexts began in the early 20th century. In 1884, Great Britain officially adopted the Stubs system, making it the first wire gauge to be recognized as a national standard. The increments between gauge sizes are approximately based on multiples of 0.01 inches. However, the system is not perfectly linear, as demonstrated by the Needle Gauge Comparison Chart. An important characteristic of this system is that the gauge number is inversely proportional to the diameter of the needle or wire. This means that as the gauge number increases, the diameter becomes smaller. For example, a needle with a higher gauge number will have a narrower diameter. Another widely used gauge system in medicine is the French catheter scale. A commonly used approximation for medical needles is that the diameter in inches is roughly equal to the reciprocal of the gauge number. The needle wire gauge system used in medicine today is derived from the original Stubs Iron Wire Gauge."
+}

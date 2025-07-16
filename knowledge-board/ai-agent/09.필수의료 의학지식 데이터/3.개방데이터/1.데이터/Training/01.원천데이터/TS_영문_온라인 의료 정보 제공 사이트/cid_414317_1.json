@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "414317_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "Pharmaceutical codes are utilized within medical classification systems to provide unique identifiers for medications. Examples of these coding systems include the following: The Anatomical Therapeutic Chemical (ATC) Classification System, which is managed by the World Health Organization (WHO). This system categorizes drugs based on their anatomical, therapeutic, and chemical properties, and it is often used in conjunction with the Defined Daily Dose (DDD) methodology for drug utilization research. The National Drug Codes (NDC), which are overseen by the United States Food and Drug Administration (FDA). This system assigns a unique identifier to every drug product distributed in the United States, facilitating drug identification and tracking. SNOMED CT (Systematized Nomenclature of Medicine – Clinical Terms), specifically its C axis, which provides a standardized framework for coding and classifying medications within broader clinical terminologies."
+}

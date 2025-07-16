@@ -1,0 +1,8 @@
+﻿{
+    "c_id": "431505_1",
+    "domain": 2,
+    "source": 2,
+    "source_spec": "wikidoc",
+    "creation_year": "null",
+    "content": "The terms EC-No and EC refer to a seven-digit code, often called the EC number, which is assigned by the Commission of the European Communities to commercially available chemical substances within the European Union. It is important to note that the European EC number for chemical substances should not be confused with the Enzyme Commission EC number, which is used specifically for enzymes. The designation EC has replaced the outdated EINECS (European Inventory of Existing Commercial Chemical Substances) and ELINCS (European List of Notified Chemical Substances) designations. Additionally, EC codes include substances listed on the No-longer Polymers List. This list comprises substances that were present on the European market between September 18, 1981, and October 31, 1993, and were initially classified as polymers but are no longer considered polymers under current definitions. The EC format consists of seven digits, structured as xxx-xxx-x. EINECS numbers begin with 200-001-8, while ELINCS numbers start with 400-010-9. Numbers from the No-longer Polymers List begin with 500-001-0. The EC/EINECS/ELINCS number can be expressed in a general format, where R represents the check digit, and N denotes a fundamental sequential number."
+}
