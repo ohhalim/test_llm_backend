@@ -1,6 +1,6 @@
 # Test LLM Backend
 
-This is the main branch for the test LLM backend project.
+This is the development branch for the test LLM backend project.
 
 ## Branches
 
