@@ -1,5 +1,5 @@
 from fastapi import APIRouter, Depends, HTTPException, status, Query
-from sqlalchemy.orm import Session
+from sqlalchemy.orm import Session, joinedload
 from sqlalchemy import desc
 from typing import Optional
 import math
@@ -22,9 +22,10 @@ async def get_posts(
     # 전체 게시글 수 계산
     total = db.query(Post).count()
     
-    # 페이지네이션 적용
+    # 페이지네이션 적용 (N+1 문제 해결: 작성자 정보 eager loading)
     offset = (page - 1) * size
     posts = db.query(Post)\
+        .options(joinedload(Post.author))\
         .order_by(desc(Post.created_at))\
         .offset(offset)\
         .limit(size)\
@@ -62,7 +63,10 @@ async def create_post(
 @router.get("/{post_id}", response_model=PostResponse)
 async def get_post(post_id: int, db: Session = Depends(get_db)):
     """특정 게시글 조회"""
-    post = db.query(Post).filter(Post.id == post_id).first()
+    post = db.query(Post)\
+        .options(joinedload(Post.author))\
+        .filter(Post.id == post_id)\
+        .first()
     
     if not post:
         raise HTTPException(

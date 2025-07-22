@@ -9,13 +9,28 @@ import os
 from dotenv import load_dotenv
 
 from agent import knowledge_agent, vector_tools
+from agent.medical_search import medical_search
+from gemini_rag_system import get_gemini_rag_system, initialize_gemini_rag_system
 
 load_dotenv()
 
+# RAG 시스템 초기화
+try:
+    gemini_api_key = os.getenv("GEMINI_API_KEY")
+    if gemini_api_key:
+        rag_system = initialize_gemini_rag_system(gemini_api_key)
+        print("✅ Gemini RAG 시스템 초기화 완료")
+    else:
+        print("⚠️ GEMINI_API_KEY가 설정되지 않음. RAG 기능이 제한됩니다.")
+        rag_system = None
+except Exception as e:
+    print(f"❌ RAG 시스템 초기화 실패: {e}")
+    rag_system = None
+
 app = FastAPI(
     title="Knowledge Board AI Agent",
-    description="LangGraph 기반 지식 공유 게시판 AI 에이전트",
-    version="1.0.0"
+    description="LangGraph 기반 지식 공유 게시판 AI 에이전트 (RAG 포함)",
+    version="2.0.0"
 )
 
 # CORS 미들웨어 추가
@@ -63,6 +78,19 @@ class MedicalSearchResponse(BaseModel):
     query: str
     results: List[Dict[str, Any]]
     count: int
+
+class MedicalQARequest(BaseModel):
+    """의료 RAG QA 요청 스키마"""
+    question: str
+    limit: Optional[int] = 5
+
+class MedicalQAResponse(BaseModel):
+    """의료 RAG QA 응답 스키마"""
+    question: str
+    answer: str
+    source_documents: List[Dict[str, Any]]
+    total_sources: int
+    error: Optional[str] = None
 
 # AI 에이전트 엔드포인트
 @app.post("/ai/chat", response_model=ChatResponse)
@@ -190,15 +218,25 @@ async def search_posts(query: str, user_id: Optional[int] = None, limit: int = 5
 
 @app.post("/ai/search-medical", response_model=MedicalSearchResponse)
 async def search_medical_knowledge(request: MedicalSearchRequest):
-    """의료 지식 검색"""
+    """의료 지식 검색 (RAG 기반)"""
     try:
         if not request.query.strip():
             raise HTTPException(status_code=400, detail="검색어를 입력해주세요.")
         
-        results = vector_tools.search_medical_knowledge(
-            query=request.query,
-            limit=request.limit
-        )
+        # RAG 시스템 사용 가능 여부 확인
+        rag_sys = get_gemini_rag_system()
+        if rag_sys:
+            # RAG 기반 유사도 검색
+            results = await rag_sys.similarity_search(
+                query=request.query,
+                limit=request.limit
+            )
+        else:
+            # 폴백: 기존 키워드 검색
+            results = medical_search.search_medical_knowledge(
+                query=request.query,
+                limit=request.limit
+            )
         
         return MedicalSearchResponse(
             query=request.query,
@@ -214,9 +252,16 @@ async def search_medical_knowledge(request: MedicalSearchRequest):
 
 @app.get("/ai/medical-stats")
 async def get_medical_knowledge_stats():
-    """의료 지식 데이터베이스 통계"""
+    """의료 지식 데이터베이스 통계 (RAG 기반)"""
     try:
-        stats = vector_tools.get_medical_knowledge_stats()
+        # RAG 시스템 사용 가능 여부 확인
+        rag_sys = get_gemini_rag_system()
+        if rag_sys:
+            stats = rag_sys.get_stats()
+        else:
+            # 폴백: 기존 통계
+            stats = medical_search.get_stats()
+            
         return stats
         
     except Exception as e:
@@ -224,6 +269,64 @@ async def get_medical_knowledge_stats():
             status_code=500,
             detail=f"통계 조회 중 오류가 발생했습니다: {str(e)}"
         )
+
+@app.post("/ai/medical-qa", response_model=MedicalQAResponse)
+async def medical_question_answer(request: MedicalQARequest):
+    """의료 RAG 기반 질의응답"""
+    try:
+        if not request.question.strip():
+            raise HTTPException(status_code=400, detail="질문을 입력해주세요.")
+        
+        # RAG 시스템 사용 가능 여부 확인
+        rag_sys = get_gemini_rag_system()
+        if not rag_sys:
+            raise HTTPException(
+                status_code=503, 
+                detail="RAG 시스템이 초기화되지 않았습니다. GEMINI_API_KEY를 설정해주세요."
+            )
+        
+        # RAG 기반 질의응답
+        result = await rag_sys.search_and_answer(
+            question=request.question,
+            limit=request.limit
+        )
+        
+        return MedicalQAResponse(
+            question=result["question"],
+            answer=result["answer"],
+            source_documents=result["source_documents"],
+            total_sources=result.get("total_sources", 0),
+            error=result.get("error")
+        )
+        
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(
+            status_code=500,
+            detail=f"의료 질의응답 중 오류가 발생했습니다: {str(e)}"
+        )
+
+@app.get("/ai/rag-health")
+async def rag_health_check():
+    """RAG 시스템 헬스 체크"""
+    try:
+        rag_sys = get_gemini_rag_system()
+        if rag_sys:
+            health = rag_sys.health_check()
+        else:
+            health = {
+                "overall": False,
+                "error": "RAG system not initialized"
+            }
+        
+        return health
+        
+    except Exception as e:
+        return {
+            "overall": False,
+            "error": str(e)
+        }
 
 # 헬스 체크 엔드포인트
 @app.get("/")

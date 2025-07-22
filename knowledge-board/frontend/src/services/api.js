@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:8000';
+const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || 'http://localhost:8080';
 
 // Axios 인스턴스 생성
 const api = axios.create({
@@ -53,7 +53,7 @@ export const postsAPI = {
 };
 
 // AI 에이전트 관련 API
-const AI_API_BASE_URL = 'http://localhost:8081';
+const AI_API_BASE_URL = process.env.REACT_APP_AI_AGENT_URL || 'http://localhost:8081';
 const aiApi = axios.create({
   baseURL: AI_API_BASE_URL,
   headers: {
@@ -64,7 +64,9 @@ const aiApi = axios.create({
 export const aiAPI = {
   chat: (query, userId = null) => aiApi.post('/ai/chat', { query, user_id: userId }),
   searchMedical: (query, limit = 5) => aiApi.post('/ai/search-medical', { query, limit }),
+  medicalQA: (question, limit = 5) => aiApi.post('/ai/medical-qa', { question, limit }),
   getMedicalStats: () => aiApi.get('/ai/medical-stats'),
+  getRagHealth: () => aiApi.get('/ai/rag-health'),
   searchPosts: (query, userId = null, limit = 5) => aiApi.get('/ai/search', { params: { query, user_id: userId, limit } }),
 };
 
