@@ -189,11 +189,30 @@ class GeminiRAGSystem:
             docs = await self.similarity_search(question, limit)
             
             if not docs:
+                # Fallback to general LLM
+                print("🤔 관련된 의료 지식을 찾지 못했습니다. 일반 LLM으로 답변을 시도합니다.")
+                
+                prompt = f"""당신은 의료 전문 AI 어시스턴트입니다. 
+                당신이 가진 일반적인 의학 지식을 바탕으로 다음 질문에 답해주세요. 
+                단, 이 답변은 전문 데이터베이스를 참고한 것이 아님을 명확히 밝혀주세요.
+
+                사용자 질문: {question}
+
+                답변:"""
+                
+                response = self.model.generate_content(prompt)
+                answer = response.text if response.text else "답변을 생성할 수 없습니다."
+                
+                # 의료 면책 조항 추가
+                disclaimer = "\n\n⚠️ 이 답변은 일반적인 의학 지식을 바탕으로 생성되었으며, 전문 의료 데이터베이스의 검증을 거치지 않았습니다. 정확한 진단과 치료를 위해서는 반드시 의료진과 상담하시기 바랍니다."
+                answer += disclaimer
+                
                 return {
-                    "answer": "죄송합니다. 관련된 의료 지식을 찾을 수 없습니다. 더 구체적인 의료 용어로 질문해 주세요.",
+                    "answer": answer,
                     "source_documents": [],
                     "question": question,
-                    "total_sources": 0
+                    "total_sources": 0,
+                    "fallback": True 
                 }
             
             # 컨텍스트 구성
